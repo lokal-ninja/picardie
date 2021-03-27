@@ -1,0 +1,19 @@
+baseURL = "https://fr.shoogle.net/picardie"
+languageCode = "fr"
+title = "Picardie"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "picardie"
+
+[taxonomies]
+  shop = "shops"
