@@ -1,5 +1,5 @@
 ---
-title: "la maison du cycles"
+title: "La maison du cycles"
 url: /thourotte/la-maison-du-cycles/
 shop: vélo
 ---

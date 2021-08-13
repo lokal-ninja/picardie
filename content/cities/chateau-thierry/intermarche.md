@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /chateau-thierry/intermarche/
-shop: supermarché
+shop: commodité
 ---
