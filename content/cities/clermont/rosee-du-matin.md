@@ -1,5 +1,5 @@
 ---
 title: "Rosée du Matin"
-url: /clermont-de-loise/rosee-du-matin/
+url: /clermont/rosee-du-matin/
 shop: fleuriste
 ---
