@@ -1,6 +1,6 @@
 ---
 title: Thourotte
 url: /thourotte/
-latitude: 49.4790123
-longitude: 2.8832881
+latitude: 49.476
+longitude: 2.877
 ---

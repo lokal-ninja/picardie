@@ -1,6 +1,6 @@
 ---
 title: Salouël
 url: /salouel/
-latitude: 49.870900000000006
-longitude: 2.24173
+latitude: 49.87
+longitude: 2.26
 ---

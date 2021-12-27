@@ -1,6 +1,6 @@
 ---
 title: Beauvais
 url: /beauvais/
-latitude: 49.4300997
-longitude: 2.0823355
+latitude: 49.426
+longitude: 2.089
 ---

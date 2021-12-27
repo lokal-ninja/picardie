@@ -1,6 +1,6 @@
 ---
 title: Goincourt
 url: /goincourt/
-latitude: 49.4252471
-longitude: 2.0381165
+latitude: 49.433
+longitude: 2.048
 ---

@@ -1,6 +1,6 @@
 ---
 title: Harly
 url: /harly/
-latitude: 49.8430556
-longitude: 3.3219444
+latitude: 49.843
+longitude: 3.323
 ---

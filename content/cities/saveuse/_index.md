@@ -1,6 +1,6 @@
 ---
 title: Saveuse
 url: /saveuse/
-latitude: 49.8988043
-longitude: 2.2162449
+latitude: 49.9
+longitude: 2.219
 ---

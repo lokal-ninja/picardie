@@ -1,6 +1,6 @@
 ---
 title: Bohain-en-Vermandois
 url: /bohain-en-vermandois/
-latitude: 49.986708
-longitude: 3.4547638000000003
+latitude: 49.982
+longitude: 3.453
 ---

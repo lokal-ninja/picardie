@@ -1,6 +1,6 @@
 ---
 title: Venette
 url: /venette/
-latitude: 49.4162216
-longitude: 2.8007412
+latitude: 49.409
+longitude: 2.783
 ---

@@ -1,6 +1,6 @@
 ---
 title: Camon
 url: /camon/
-latitude: 49.8874246
-longitude: 2.3446546
+latitude: 49.887
+longitude: 2.344
 ---

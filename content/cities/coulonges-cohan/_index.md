@@ -1,6 +1,6 @@
 ---
 title: Coulonges-Cohan
 url: /coulonges-cohan/
-latitude: 
-longitude: 
+latitude: 49.201
+longitude: 3.634
 ---

@@ -1,6 +1,6 @@
 ---
 title: Thiverny
 url: /thiverny/
-latitude: 49.249153500000006
-longitude: 2.4312325
+latitude: 49.245
+longitude: 2.44
 ---

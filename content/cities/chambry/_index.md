@@ -1,6 +1,6 @@
 ---
 title: Chambry
 url: /chambry/
-latitude: 49.5919
-longitude: 3.6554900000000004
+latitude: 49.583
+longitude: 3.65
 ---

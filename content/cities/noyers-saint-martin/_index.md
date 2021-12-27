@@ -1,6 +1,6 @@
 ---
 title: NOYERS SAINT MARTIN
 url: /noyers-saint-martin/
-latitude: 
-longitude: 
+latitude: 49.554
+longitude: 2.262
 ---

@@ -1,6 +1,6 @@
 ---
 title: Laon
 url: /laon/
-latitude: 49.564665000000005
-longitude: 3.620686
+latitude: 49.549
+longitude: 3.619
 ---

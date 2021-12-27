@@ -1,6 +1,6 @@
 ---
 title: Gouvieux
 url: /gouvieux/
-latitude: 49.190200000000004
-longitude: 2.41521
+latitude: 49.186
+longitude: 2.415
 ---

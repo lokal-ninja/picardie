@@ -1,6 +1,6 @@
 ---
 title: Mouy
 url: /mouy/
-latitude: 49.319654400000005
-longitude: 2.3205165
+latitude: 49.32
+longitude: 2.32
 ---

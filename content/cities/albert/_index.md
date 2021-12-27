@@ -1,6 +1,6 @@
 ---
 title: Albert
 url: /albert/
-latitude: 50.0018022
-longitude: 2.6509223
+latitude: 49.993
+longitude: 2.658
 ---

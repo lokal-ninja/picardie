@@ -1,6 +1,6 @@
 ---
 title: Doullens
 url: /doullens/
-latitude: 50.1572085
-longitude: 2.3410532
+latitude: 50.157
+longitude: 2.342
 ---

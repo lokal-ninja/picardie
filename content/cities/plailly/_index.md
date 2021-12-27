@@ -1,6 +1,6 @@
 ---
 title: Plailly
 url: /plailly/
-latitude: 49.1035319
-longitude: 2.5850308
+latitude: 49.104
+longitude: 2.582
 ---

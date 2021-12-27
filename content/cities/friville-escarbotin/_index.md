@@ -1,6 +1,6 @@
 ---
 title: Friville-Escarbotin
 url: /friville-escarbotin/
-latitude: 50.086994600000004
-longitude: 1.5452219
+latitude: 50.091
+longitude: 1.549
 ---

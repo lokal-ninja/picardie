@@ -2,5 +2,5 @@
 title: Voulpaix
 url: /voulpaix/
 latitude: 49.84
-longitude: 3.8313889000000003
+longitude: 3.836
 ---

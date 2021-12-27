@@ -1,6 +1,6 @@
 ---
 title: Guignicourt
 url: /guignicourt/
-latitude: 49.436243000000005
-longitude: 3.9649967000000004
+latitude: 49.434
+longitude: 3.965
 ---

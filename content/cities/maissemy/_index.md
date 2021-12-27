@@ -1,6 +1,6 @@
 ---
 title: Maissemy
 url: /maissemy/
-latitude: 49.894159
-longitude: 3.1883319
+latitude: 49.902
+longitude: 3.18
 ---

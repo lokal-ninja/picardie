@@ -1,6 +1,6 @@
 ---
 title: Crouy
 url: /crouy/
-latitude: 
-longitude: 
+latitude: 49.397
+longitude: 3.355
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fresnoy-le-Grand
 url: /fresnoy-le-grand/
-latitude: 49.9468967
-longitude: 3.4147934
+latitude: 49.949
+longitude: 3.417
 ---

@@ -1,6 +1,6 @@
 ---
 title: Argœuves
 url: /argoeuves/
-latitude: 49.929700200000006
-longitude: 2.2254238
+latitude: 49.93
+longitude: 2.226
 ---

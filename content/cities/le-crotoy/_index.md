@@ -1,6 +1,6 @@
 ---
 title: Le Crotoy
 url: /le-crotoy/
-latitude: 50.2165693
-longitude: 1.624047
+latitude: 50.217
+longitude: 1.623
 ---

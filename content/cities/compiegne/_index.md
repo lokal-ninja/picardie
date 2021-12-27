@@ -1,6 +1,6 @@
 ---
 title: Compiègne
 url: /compiegne/
-latitude: 
-longitude: 
+latitude: 49.386
+longitude: 2.785
 ---

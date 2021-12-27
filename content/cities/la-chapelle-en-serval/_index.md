@@ -1,6 +1,6 @@
 ---
 title: La Chapelle-en-Serval
 url: /la-chapelle-en-serval/
-latitude: 49.122
-longitude: 2.52775
+latitude: 49.101
+longitude: 2.53
 ---

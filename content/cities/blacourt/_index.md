@@ -1,6 +1,6 @@
 ---
 title: Blacourt
 url: /blacourt/
-latitude: 49.464839700000006
-longitude: 1.8609016
+latitude: 49.465
+longitude: 1.861
 ---
