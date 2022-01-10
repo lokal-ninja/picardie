@@ -1,5 +1,5 @@
 ---
 title: "S & P Siraut"
-url: /cinqueux/s-and-p-siraut/
+url: /cinqueux/s-et-p-siraut/
 shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "B&M"
-url: /nogent-sur-oise/bandm/
+url: /nogent-sur-oise/betm/
 shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Relook & Moi"
-url: /nogent-sur-oise/relook-and-moi/
+url: /nogent-sur-oise/relook-et-moi/
 shop: coiffeur
 ---

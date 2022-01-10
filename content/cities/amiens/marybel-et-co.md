@@ -1,5 +1,5 @@
 ---
 title: "Marybel & Co"
-url: /amiens/marybel-and-co/
+url: /amiens/marybel-et-co/
 shop: vêtements
 ---
