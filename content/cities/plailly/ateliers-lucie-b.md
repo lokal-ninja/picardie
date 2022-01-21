@@ -1,5 +1,5 @@
 ---
-title: "ATELIERS LUCIE B"
+title: "Ateliers Lucie B"
 url: /plailly/ateliers-lucie-b/
 shop: fleuriste
 ---
