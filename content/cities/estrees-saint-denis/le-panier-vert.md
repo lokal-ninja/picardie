@@ -1,5 +1,5 @@
 ---
-title: "Le Panier vert"
+title: "le Panier vert"
 url: /estrees-saint-denis/le-panier-vert/
 shop: commodité
 ---
