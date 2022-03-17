@@ -1,5 +1,5 @@
 ---
-title: "Les Reines des prés"
+title: "Les Reines des Prés"
 url: /mereaucourt/les-reines-des-pres/
 shop: ferme
 ---
