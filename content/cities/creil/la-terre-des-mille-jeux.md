@@ -1,5 +1,5 @@
 ---
-title: "La Terre des mille Jeux"
+title: "La Terre des Mille Jeux"
 url: /creil/la-terre-des-mille-jeux/
 shop: jouets
 ---
