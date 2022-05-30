@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
-url: /beauvais/decathlon/
+url: /saint-quentin/decathlon/
 shop: sports
 ---

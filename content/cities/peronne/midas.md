@@ -1,5 +1,5 @@
 ---
 title: "Midas"
-url: /amiens/midas/
+url: /peronne/midas/
 shop: réparation de voitures
 ---
