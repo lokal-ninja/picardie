@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/picardie"
+baseURL = "https://fr.shoogle.net/picardie/"
 languageCode = "fr"
 title = "Picardie"
 theme = "ln-base"
