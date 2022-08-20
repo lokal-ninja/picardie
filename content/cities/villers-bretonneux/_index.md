@@ -1,6 +1,6 @@
 ---
 title: Villers-Bretonneux
 url: /villers-bretonneux/
-latitude: 49.857
-longitude: 2.532
+latitude: 49.856
+longitude: 2.533
 ---
