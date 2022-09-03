@@ -1,6 +1,6 @@
 ---
 title: Amiens
 url: /amiens/
-latitude: 49.863
-longitude: 2.28
+latitude: 49.924
+longitude: 2.305
 ---
