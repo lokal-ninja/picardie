@@ -1,6 +1,6 @@
 ---
 title: Longueau
 url: /longueau/
-latitude: 49.866
-longitude: 2.377
+latitude: 49.867
+longitude: 2.368
 ---
