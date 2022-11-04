@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /st-quentin-le-fayet/action/
+url: /fayet/action/
 shop: magasin de variétés
 ---
