@@ -1,5 +1,5 @@
 ---
 title: "Royez Musik"
 url: /longueau/royez-musik/
-shop: musique
+shop: instrument de musique
 ---
