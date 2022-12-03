@@ -1,5 +1,5 @@
 ---
 title: "Natur House"
 url: /creil/natur-house/
-shop: beauté
+shop: les compléments alimentaires
 ---
