@@ -1,5 +1,5 @@
 ---
-title: "ALLMO Services"
+title: "Allmo Services"
 url: /amiens/allmo-services/
-shop: shop
+shop: centre de jardinage
 ---
