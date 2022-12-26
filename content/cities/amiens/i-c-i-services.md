@@ -1,5 +1,5 @@
 ---
-title: "I.C.I. SERVICES"
+title: "I.C.I. Services"
 url: /amiens/i-c-i-services/
 shop: copyshop
 ---

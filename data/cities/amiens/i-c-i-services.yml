@@ -7,5 +7,5 @@ city: Amiens
 street: "Rue Saint-Leu"
 housenumber: 56
 phone: "+33 3 22 91 25 50"
-opening_hours: "Mo-Fr  09:00-13:00; 14:00-18:30"
+opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30"
 website: "https://www.iciservices.fr/"

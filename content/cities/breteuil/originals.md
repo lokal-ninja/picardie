@@ -1,5 +1,5 @@
 ---
-title: "ORIGINAL'S"
+title: "Original's"
 url: /breteuil/originals/
 shop: cuir
 ---
