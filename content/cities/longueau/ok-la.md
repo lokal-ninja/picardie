@@ -1,5 +1,5 @@
 ---
-title: "OK-LA"
+title: "Ok-La"
 url: /longueau/ok-la/
-shop: shop
+shop: meubles
 ---
