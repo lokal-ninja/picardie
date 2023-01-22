@@ -1,5 +1,5 @@
 ---
-title: "Jean Luc DENIS"
+title: "Jean-Luc Denis"
 url: /rivery/jean-luc-denis/
 shop: shop
 ---
