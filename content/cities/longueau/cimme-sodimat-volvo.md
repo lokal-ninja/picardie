@@ -1,5 +1,5 @@
 ---
-title: "CIMME SODIMAT - VOLVO"
+title: "Cimme Sodimat - Volvo"
 url: /longueau/cimme-sodimat-volvo/
 shop: voiture
 ---
