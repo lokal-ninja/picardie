@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
-url: /nogent-sur-oise/auchan-2/
+url: /nogent-sur-oise/auchan/
 shop: supermarché
 ---

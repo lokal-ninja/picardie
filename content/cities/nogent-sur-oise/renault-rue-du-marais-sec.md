@@ -1,5 +1,5 @@
 ---
 title: "Renault"
-url: /nogent-sur-oise/renault-2/
+url: /nogent-sur-oise/renault/
 shop: réparation de voitures
 ---

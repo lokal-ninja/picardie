@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
-url: /amiens/yves-rocher-2/
+url: /amiens/yves-rocher/
 shop: beauté
 ---

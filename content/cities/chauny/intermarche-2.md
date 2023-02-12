@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
-url: /chauny/intermarche-2/
+url: /chauny/intermarche/
 shop: gaz
 ---

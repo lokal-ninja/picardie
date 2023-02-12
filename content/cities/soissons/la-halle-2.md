@@ -1,5 +1,5 @@
 ---
 title: "La Halle !"
-url: /soissons/la-halle-2/
+url: /soissons/la-halle/
 shop: vêtements
 ---

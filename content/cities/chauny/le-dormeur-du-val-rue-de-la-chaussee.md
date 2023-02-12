@@ -1,5 +1,5 @@
 ---
 title: "Le Dormeur du Val"
-url: /chauny/le-dormeur-du-val-2/
+url: /chauny/le-dormeur-du-val/
 shop: livres
 ---

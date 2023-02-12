@@ -1,6 +1,6 @@
 ---
-title: Villeneuve Saint Germain
+title: Villeneuve-Saint-Germain
 url: /villeneuve-saint-germain/
-latitude: 49.37
-longitude: 3.364
+latitude: 49.373
+longitude: 3.345
 ---

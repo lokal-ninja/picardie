@@ -1,5 +1,5 @@
 ---
 title: "Cora"
-url: /soissons/cora-2/
+url: /soissons/cora/
 shop: gaz
 ---

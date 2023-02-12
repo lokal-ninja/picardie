@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
-url: /vervins/carrefour-market-2/
+url: /vervins/carrefour-market/
 shop: gaz
 ---
