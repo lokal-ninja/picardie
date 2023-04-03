@@ -1,6 +1,6 @@
 ---
 title: Saleux
 url: /saleux/
-latitude: 49.862
-longitude: 2.231
+latitude: 49.863
+longitude: 2.229
 ---
