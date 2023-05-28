@@ -1,6 +1,6 @@
 ---
 title: Senlis
 url: /senlis/
-latitude: 49.2
-longitude: 2.58
+latitude: 49.206
+longitude: 2.587
 ---
