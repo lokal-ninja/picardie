@@ -1,5 +1,5 @@
 ---
-title: "Le Fournil de Rieux"
+title: "Le Fournil De Rieux"
 url: /rieux/le-fournil-de-rieux/
 shop: boulangerie
 ---
