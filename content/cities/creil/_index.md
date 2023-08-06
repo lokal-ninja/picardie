@@ -1,6 +1,6 @@
 ---
 title: Creil
 url: /creil/
-latitude: 49.248
-longitude: 2.477
+latitude: 49.263
+longitude: 2.474
 ---

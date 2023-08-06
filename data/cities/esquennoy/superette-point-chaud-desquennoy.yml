@@ -7,5 +7,5 @@ city: Esquennoy
 street: "Rue de la Commanderie"
 housenumber: 9
 phone: ""
-opening_hours: "Mo-Tu-Fr 09:00-21:00; We-Sa-Su 10:00-21:00"
+opening_hours: "Mo,Tu,Fr 09:00-21:00; We,Sa 10:00-21:00; Th,Su off"
 website: ""
