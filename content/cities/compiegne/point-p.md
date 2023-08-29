@@ -1,5 +1,5 @@
 ---
-title: "Point P."
+title: "Point P"
 url: /compiegne/point-p/
 shop: matériel informatique
 ---
