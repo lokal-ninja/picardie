@@ -1,5 +1,5 @@
 ---
-title: "Boucherie de l'église"
+title: "Boucherie de l'Église"
 url: /crevecoeur-le-grand/boucherie-de-leglise/
 shop: boucherie
 ---
