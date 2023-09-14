@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
-url: /amiens/pimkie/
+url: /amiens/pimkie-route-damiens/
 shop: vêtements
 ---
