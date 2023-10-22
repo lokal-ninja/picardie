@@ -1,6 +1,6 @@
 ---
-title: Pont-Sainte-Maxence
+title: Pont Sainte Maxence
 url: /pont-sainte-maxence/
-latitude: 49.301
-longitude: 2.607
+latitude: 49.319
+longitude: 2.609
 ---
