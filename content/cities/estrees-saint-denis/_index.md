@@ -1,6 +1,6 @@
 ---
 title: Estrées-Saint-Denis
 url: /estrees-saint-denis/
-latitude: 49.427
-longitude: 2.638
+latitude: 49.425
+longitude: 2.641
 ---
