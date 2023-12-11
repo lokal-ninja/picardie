@@ -7,5 +7,5 @@ city: Bellenglise
 street: "Rue du Château"
 housenumber: 33
 phone: "0686330772"
-opening_hours: "Lundi : 09H00 - 12H00 / 14H00 - 18H00 Mardi : 09H00 - 12H00 / 14H00 - 18H00 Mercredi : 09H00 - 12H00 / 14H00 - 18H00 Jeudi : 09H00 - 12H00 / 14H00 - 18H00 Vendredi : 09H00 - 12H00 / 14H00 - 18H00 Samedi : 09H00 - 12H00"
+opening_hours: "Mo 09:00-12:00,14:00-18:00, Tu 09:00-12:00,14:00-18:00, We 09:00-12:00,14:00-18:00, Th 09:00-12:00,14:00-18:00, Fr 09:00-12:00,14:00-18:00, Sa 09:00-12:00"
 website: ""
