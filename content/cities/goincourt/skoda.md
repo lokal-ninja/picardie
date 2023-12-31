@@ -1,5 +1,5 @@
 ---
 title: "Skoda"
-url: /rivery/skoda/
+url: /goincourt/skoda/
 shop: voiture
 ---
