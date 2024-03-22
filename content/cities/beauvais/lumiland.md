@@ -1,5 +1,5 @@
 ---
 title: "Lumiland"
 url: /beauvais/lumiland/
-shop: shop
+shop: lampes
 ---
