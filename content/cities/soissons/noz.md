@@ -1,5 +1,5 @@
 ---
-title: "Noz"
+title: "NOZ"
 url: /soissons/noz/
-shop: vêtements
+shop: magasin de variétés
 ---
