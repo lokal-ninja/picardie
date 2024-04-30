@@ -1,6 +1,6 @@
 ---
 title: Cagny
 url: /cagny/
-latitude: 49.86
-longitude: 2.346
+latitude: 49.862
+longitude: 2.342
 ---
