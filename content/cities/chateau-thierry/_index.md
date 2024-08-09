@@ -2,5 +2,5 @@
 title: Château-Thierry
 url: /chateau-thierry/
 latitude: 49.043
-longitude: 3.404
+longitude: 3.405
 ---
