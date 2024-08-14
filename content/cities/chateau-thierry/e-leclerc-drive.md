@@ -1,5 +1,5 @@
 ---
-title: "E. Leclerc Drive"
+title: "E.Leclerc Drive"
 url: /chateau-thierry/e-leclerc-drive/
-shop: supermarché
+shop: avant-poste
 ---

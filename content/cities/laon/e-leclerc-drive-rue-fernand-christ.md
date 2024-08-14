@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Drive"
-url: /boves/e-leclerc-drive/
+url: /laon/e-leclerc-drive-rue-fernand-christ/
 shop: avant-poste
 ---
