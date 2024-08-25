@@ -1,5 +1,5 @@
 ---
-title: "Julien D'orcel - Legay"
+title: "Julien d'Orcel - Legay"
 url: /compiegne/julien-dorcel-legay/
 shop: bijoux
 ---
