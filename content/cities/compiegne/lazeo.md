@@ -1,5 +1,5 @@
 ---
 title: "lazéo"
 url: /compiegne/lazeo/
-shop: beauté
+shop: Kosmetik
 ---

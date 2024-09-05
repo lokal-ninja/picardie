@@ -1,5 +1,5 @@
 ---
 title: "Physic"
 url: /amiens/physic/
-shop: ordinateur
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /abbeville/noz/
-shop: magasin de variétés
+shop: Kramladen
 ---

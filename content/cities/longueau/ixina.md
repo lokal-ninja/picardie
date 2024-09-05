@@ -1,5 +1,5 @@
 ---
 title: "Ixina"
 url: /longueau/ixina/
-shop: cuisine
+shop: Küchen
 ---

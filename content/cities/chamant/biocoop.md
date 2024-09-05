@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /chamant/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gmpp"
 url: /beauvais/gmpp/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Match"
 url: /creil/match/
-shop: supermarché
+shop: Supermarkt
 ---

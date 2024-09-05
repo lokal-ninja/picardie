@@ -1,5 +1,5 @@
 ---
 title: "Fleurdepot"
 url: /longueau/fleurdepot/
-shop: centre de jardinage
+shop: Garten-Center
 ---

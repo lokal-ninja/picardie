@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /glisy/chaussea/
-shop: chaussures
+shop: Schuhe
 ---

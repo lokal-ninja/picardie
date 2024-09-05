@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /breteuil/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

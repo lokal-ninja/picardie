@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Amienoise"
 url: /le-crotoy/boulangerie-amienoise/
-shop: boulangerie
+shop: Bäckerei
 ---

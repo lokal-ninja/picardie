@@ -1,5 +1,5 @@
 ---
 title: "Monop'"
 url: /amiens/monop/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Barbier"
 url: /breteuil/le-barbier/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Breal"
 url: /amiens/breal/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "veteix"
 url: /beauvais/veteix/
-shop: vélo
+shop: Fahrrad
 ---

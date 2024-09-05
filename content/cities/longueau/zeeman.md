@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /longueau/zeeman/
-shop: vêtements
+shop: Kleidung
 ---

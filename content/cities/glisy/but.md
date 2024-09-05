@@ -1,5 +1,5 @@
 ---
 title: "But"
 url: /glisy/but/
-shop: meubles
+shop: Möbel
 ---

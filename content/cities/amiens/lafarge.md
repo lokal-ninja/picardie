@@ -1,5 +1,5 @@
 ---
 title: "Lafarge"
 url: /amiens/lafarge/
-shop: sac
+shop: Taschen & Koffer
 ---

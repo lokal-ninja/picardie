@@ -1,5 +1,5 @@
 ---
 title: "Gentry"
 url: /amiens/gentry/
-shop: vêtements
+shop: Kleidung
 ---

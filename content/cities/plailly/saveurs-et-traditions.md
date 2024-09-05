@@ -1,5 +1,5 @@
 ---
 title: "Saveurs Et Traditions"
 url: /plailly/saveurs-et-traditions/
-shop: boulangerie
+shop: Bäckerei
 ---

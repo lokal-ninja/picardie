@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /longueau/peugeot/
-shop: voiture
+shop: Autohaus
 ---

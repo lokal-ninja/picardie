@@ -1,5 +1,5 @@
 ---
 title: "Excell Coiffure"
 url: /chateau-thierry/excell-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

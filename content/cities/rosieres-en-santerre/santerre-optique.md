@@ -1,5 +1,5 @@
 ---
 title: "Santerre Optique"
 url: /rosieres-en-santerre/santerre-optique/
-shop: opticien
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /amiens/promod/
-shop: vêtements
+shop: Kleidung
 ---

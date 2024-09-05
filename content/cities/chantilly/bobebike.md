@@ -1,5 +1,5 @@
 ---
 title: "Bobebike"
 url: /chantilly/bobebike/
-shop: vélo
+shop: Fahrrad
 ---

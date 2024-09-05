@@ -1,5 +1,5 @@
 ---
 title: "Diagonal"
 url: /montataire/diagonal/
-shop: supermarché
+shop: Supermarkt
 ---

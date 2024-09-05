@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Beauté d'Istanbul"
 url: /creil/coiffure-beaute-distanbul/
-shop: coiffeur
+shop: Friseur
 ---

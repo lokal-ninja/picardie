@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /peronne/netto/
-shop: supermarché
+shop: Supermarkt
 ---

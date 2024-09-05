@@ -1,5 +1,5 @@
 ---
 title: "Actueyes"
 url: /creil/actueyes/
-shop: opticien
+shop: Optiker
 ---

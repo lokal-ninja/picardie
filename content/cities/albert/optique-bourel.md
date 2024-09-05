@@ -1,5 +1,5 @@
 ---
 title: "Optique Bourel"
 url: /albert/optique-bourel/
-shop: opticien
+shop: Optiker
 ---

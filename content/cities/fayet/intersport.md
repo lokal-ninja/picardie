@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /fayet/intersport/
-shop: sports
+shop: Sport
 ---

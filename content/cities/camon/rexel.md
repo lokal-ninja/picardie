@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /camon/rexel/
-shop: électrique
+shop: Elektrisch
 ---

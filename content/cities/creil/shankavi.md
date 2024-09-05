@@ -1,5 +1,5 @@
 ---
 title: "Shankavi"
 url: /creil/shankavi/
-shop: commodité
+shop: Lebensmittel
 ---

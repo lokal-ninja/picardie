@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Louise"
 url: /chamant/boulangerie-louise/
-shop: boulangerie
+shop: Bäckerei
 ---

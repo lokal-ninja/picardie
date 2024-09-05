@@ -1,5 +1,5 @@
 ---
 title: "Bonobo"
 url: /amiens/bonobo/
-shop: vêtements
+shop: Kleidung
 ---

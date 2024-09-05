@@ -1,5 +1,5 @@
 ---
 title: "Livres d'occasion"
 url: /quend/livres-doccasion/
-shop: livres
+shop: Bücher
 ---

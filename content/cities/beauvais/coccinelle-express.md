@@ -1,5 +1,5 @@
 ---
 title: "Coccinelle Express"
 url: /beauvais/coccinelle-express/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marchal"
 url: /albert/marchal/
-shop: boulangerie
+shop: Bäckerei
 ---

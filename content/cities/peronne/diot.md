@@ -1,5 +1,5 @@
 ---
 title: "Diot"
 url: /peronne/diot/
-shop: chocolat
+shop: Schokolade
 ---

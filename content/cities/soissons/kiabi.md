@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /soissons/kiabi/
-shop: vêtements
+shop: Kleidung
 ---

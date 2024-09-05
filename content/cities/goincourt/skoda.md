@@ -1,5 +1,5 @@
 ---
 title: "Skoda"
 url: /goincourt/skoda/
-shop: voiture
+shop: Autohaus
 ---

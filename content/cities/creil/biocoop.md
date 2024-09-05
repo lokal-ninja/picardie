@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /creil/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

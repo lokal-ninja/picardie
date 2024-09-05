@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /chateau-thierry/kiabi/
-shop: vêtements
+shop: Kleidung
 ---

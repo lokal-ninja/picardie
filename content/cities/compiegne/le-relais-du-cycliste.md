@@ -1,5 +1,5 @@
 ---
 title: "Le Relais du Cycliste"
 url: /compiegne/le-relais-du-cycliste/
-shop: vélo
+shop: Fahrrad
 ---

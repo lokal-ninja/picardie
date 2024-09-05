@@ -1,5 +1,5 @@
 ---
 title: "Baudycash"
 url: /bresles/baudycash/
-shop: charité
+shop: Gebrauchtwaren
 ---

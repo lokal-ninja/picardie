@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /glisy/gemo/
-shop: vêtements
+shop: Kleidung
 ---

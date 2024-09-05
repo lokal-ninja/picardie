@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /creil/avia/
-shop: commodité
+shop: Lebensmittel
 ---

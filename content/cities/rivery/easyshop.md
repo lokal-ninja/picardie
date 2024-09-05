@@ -1,5 +1,5 @@
 ---
 title: "Easyshop"
 url: /rivery/easyshop/
-shop: shop
+shop: Allgemein
 ---

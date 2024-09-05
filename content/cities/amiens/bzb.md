@@ -1,5 +1,5 @@
 ---
 title: "BZB"
 url: /amiens/bzb/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /chamant/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /laon/carrefour/
-shop: gaz
+shop: Gasflaschen
 ---

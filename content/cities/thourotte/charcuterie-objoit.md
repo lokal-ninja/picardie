@@ -1,5 +1,5 @@
 ---
 title: "Charcuterie Objoit"
 url: /thourotte/charcuterie-objoit/
-shop: boucherie
+shop: Metzgerei
 ---

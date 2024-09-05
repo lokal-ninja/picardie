@@ -1,5 +1,5 @@
 ---
 title: "Rika"
 url: /chamant/rika/
-shop: cheminée
+shop: Kamine & Öfen
 ---

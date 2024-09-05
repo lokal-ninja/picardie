@@ -1,5 +1,5 @@
 ---
 title: "Lexus"
 url: /saint-maximin/lexus/
-shop: voiture
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /doullens/monoprix/
-shop: supermarché
+shop: Supermarkt
 ---

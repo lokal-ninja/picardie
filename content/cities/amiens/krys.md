@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /amiens/krys/
-shop: opticien
+shop: Optiker
 ---

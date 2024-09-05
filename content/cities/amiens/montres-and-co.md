@@ -1,5 +1,5 @@
 ---
 title: "Montres and Co"
 url: /amiens/montres-and-co/
-shop: montres
+shop: Uhren
 ---

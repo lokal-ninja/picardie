@@ -1,5 +1,5 @@
 ---
 title: "Paristanbul"
 url: /nogent-sur-oise/paristanbul/
-shop: supermarché
+shop: Supermarkt
 ---

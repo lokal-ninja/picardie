@@ -1,5 +1,5 @@
 ---
 title: "Feuillatre"
 url: /villers-cotterets/feuillatre/
-shop: bijoux
+shop: Schmuck
 ---

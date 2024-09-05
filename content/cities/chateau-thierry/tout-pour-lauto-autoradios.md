@@ -1,5 +1,5 @@
 ---
 title: "Tout pour l'Auto Autoradios"
 url: /chateau-thierry/tout-pour-lauto-autoradios/
-shop: magasin de variétés
+shop: Kramladen
 ---

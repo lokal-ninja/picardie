@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /amiens/lush/
-shop: beauté
+shop: Kosmetik
 ---

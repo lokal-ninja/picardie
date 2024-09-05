@@ -1,5 +1,5 @@
 ---
 title: "Rampazzo"
 url: /venette/rampazzo/
-shop: bijoux
+shop: Schmuck
 ---

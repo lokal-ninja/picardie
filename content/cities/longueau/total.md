@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /longueau/total/
-shop: commodité
+shop: Lebensmittel
 ---

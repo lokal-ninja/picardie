@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /rivery/peugeot/
-shop: voiture
+shop: Autohaus
 ---

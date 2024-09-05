@@ -1,5 +1,5 @@
 ---
 title: "Château d'Ax"
 url: /longueau/chateau-dax/
-shop: meubles
+shop: Möbel
 ---

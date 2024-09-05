@@ -1,5 +1,5 @@
 ---
 title: "Furgeot"
 url: /fresnoy-le-grand/furgeot/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /longpre-les-corps-saints/coccimarket/
-shop: commodité
+shop: Lebensmittel
 ---

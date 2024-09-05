@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /breteuil/total/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RIKA"
 url: /glisy/rika/
-shop: cheminée
+shop: Kamine & Öfen
 ---

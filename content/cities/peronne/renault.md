@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /peronne/renault/
-shop: voiture
+shop: Autohaus
 ---

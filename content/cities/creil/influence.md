@@ -1,5 +1,5 @@
 ---
 title: "Influence"
 url: /creil/influence/
-shop: vêtements
+shop: Kleidung
 ---

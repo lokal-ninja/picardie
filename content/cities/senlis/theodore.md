@@ -1,5 +1,5 @@
 ---
 title: "Théodore"
 url: /senlis/theodore/
-shop: peinture
+shop: Farben
 ---

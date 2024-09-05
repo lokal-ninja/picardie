@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /saleux/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

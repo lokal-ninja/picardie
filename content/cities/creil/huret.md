@@ -1,5 +1,5 @@
 ---
 title: "Huret"
 url: /creil/huret/
-shop: boulangerie
+shop: Bäckerei
 ---

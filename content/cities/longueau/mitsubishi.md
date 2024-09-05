@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
 url: /longueau/mitsubishi/
-shop: voiture
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /amiens/sephora/
-shop: beauté
+shop: Kosmetik
 ---

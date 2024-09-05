@@ -1,5 +1,5 @@
 ---
 title: "Sarah Henna"
 url: /nogent-sur-oise/sarah-henna/
-shop: beauté
+shop: Kosmetik
 ---

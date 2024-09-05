@@ -1,5 +1,5 @@
 ---
 title: "Turbo fonte"
 url: /beauvais/turbo-fonte/
-shop: cheminée
+shop: Kamine & Öfen
 ---
