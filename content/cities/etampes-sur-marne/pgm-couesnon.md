@@ -1,5 +1,5 @@
 ---
 title: "PGM Couesnon"
 url: /etampes-sur-marne/pgm-couesnon/
-shop: Instrumente
+shop: instrument de musique
 ---

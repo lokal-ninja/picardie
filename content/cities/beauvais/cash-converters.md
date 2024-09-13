@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /beauvais/cash-converters/
-shop: Leiher
+shop: prêteur sur gages
 ---

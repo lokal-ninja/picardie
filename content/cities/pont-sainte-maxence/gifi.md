@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /pont-sainte-maxence/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

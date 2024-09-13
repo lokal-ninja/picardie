@@ -1,5 +1,5 @@
 ---
 title: "Mary's Design"
 url: /ailly-sur-noye/marys-design/
-shop: Friseur
+shop: coiffeur
 ---

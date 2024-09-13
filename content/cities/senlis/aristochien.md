@@ -1,5 +1,5 @@
 ---
 title: "Aristo'chien"
 url: /senlis/aristochien/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

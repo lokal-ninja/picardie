@@ -1,5 +1,5 @@
 ---
 title: "Devred"
 url: /amiens/devred/
-shop: Kleidung
+shop: vêtements
 ---

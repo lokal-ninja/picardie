@@ -1,5 +1,5 @@
 ---
 title: "Laverie Saint-Médard"
 url: /creil/laverie-saint-medard/
-shop: Wäscherei
+shop: blanchisserie
 ---

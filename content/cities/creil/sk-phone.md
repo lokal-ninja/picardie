@@ -1,5 +1,5 @@
 ---
 title: "SK Phone"
 url: /creil/sk-phone/
-shop: Handy
+shop: téléphone portable
 ---

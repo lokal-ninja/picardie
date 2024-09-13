@@ -1,5 +1,5 @@
 ---
 title: "AD"
 url: /breteuil/ad/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

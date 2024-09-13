@@ -1,5 +1,5 @@
 ---
 title: "France Pare-brise"
 url: /rivery/france-pare-brise/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

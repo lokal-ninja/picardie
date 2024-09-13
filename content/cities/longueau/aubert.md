@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /longueau/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

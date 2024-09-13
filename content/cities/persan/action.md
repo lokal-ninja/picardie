@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /persan/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

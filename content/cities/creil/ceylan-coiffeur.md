@@ -1,5 +1,5 @@
 ---
 title: "Ceylan Coiffeur"
 url: /creil/ceylan-coiffeur/
-shop: Friseur
+shop: coiffeur
 ---

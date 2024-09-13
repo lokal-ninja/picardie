@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /creil/esso/
-shop: Lebensmittel
+shop: commodité
 ---

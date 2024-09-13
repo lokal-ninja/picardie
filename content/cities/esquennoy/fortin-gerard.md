@@ -1,5 +1,5 @@
 ---
 title: "Fortin Gérard"
 url: /esquennoy/fortin-gerard/
-shop: Autohaus
+shop: voiture
 ---

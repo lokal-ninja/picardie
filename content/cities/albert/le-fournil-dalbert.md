@@ -1,5 +1,5 @@
 ---
 title: "Le Fournil d'Albert"
 url: /albert/le-fournil-dalbert/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centre de Contrôle Lemaire"
 url: /rivery/centre-de-controle-lemaire/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Point P"
 url: /rivery/point-p/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madina Phone"
 url: /creil/madina-phone/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Drive"
 url: /laon/e-leclerc-drive-rue-fernand-christ/
-shop: Außenstelle
+shop: avant-poste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RougeGorge"
 url: /amiens/rougegorge/
-shop: Kleidung
+shop: vêtements
 ---

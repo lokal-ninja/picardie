@@ -1,5 +1,5 @@
 ---
 title: "Kandy"
 url: /corbie/kandy/
-shop: Kramladen
+shop: magasin de variétés
 ---

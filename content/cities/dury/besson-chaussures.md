@@ -1,5 +1,5 @@
 ---
 title: "Besson Chaussures"
 url: /dury/besson-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

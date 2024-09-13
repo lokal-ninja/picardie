@@ -1,5 +1,5 @@
 ---
 title: "Hortillon de Lune"
 url: /rivery/hortillon-de-lune/
-shop: Hofladen
+shop: ferme
 ---

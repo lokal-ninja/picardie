@@ -1,5 +1,5 @@
 ---
 title: "Piscine Spa Design"
 url: /bresles/piscine-spa-design/
-shop: Pool
+shop: piscine
 ---

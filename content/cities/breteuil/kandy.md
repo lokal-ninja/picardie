@@ -1,5 +1,5 @@
 ---
 title: "Kandy"
 url: /breteuil/kandy/
-shop: Kramladen
+shop: magasin de variétés
 ---

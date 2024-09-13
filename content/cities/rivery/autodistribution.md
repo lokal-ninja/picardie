@@ -1,5 +1,5 @@
 ---
 title: "Autodistribution"
 url: /rivery/autodistribution/
-shop: Autoteile
+shop: pièces de voitures
 ---

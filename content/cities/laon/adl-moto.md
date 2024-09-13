@@ -1,5 +1,5 @@
 ---
 title: "ADL Moto"
 url: /laon/adl-moto/
-shop: Motorrad
+shop: moto
 ---

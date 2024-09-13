@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /glisy/krys/
-shop: Optiker
+shop: opticien
 ---

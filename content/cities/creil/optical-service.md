@@ -1,5 +1,5 @@
 ---
 title: "Optical Service"
 url: /creil/optical-service/
-shop: Optiker
+shop: opticien
 ---

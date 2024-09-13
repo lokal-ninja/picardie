@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /glisy/sfr/
-shop: Handy
+shop: téléphone portable
 ---

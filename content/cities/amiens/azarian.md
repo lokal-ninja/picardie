@@ -1,5 +1,5 @@
 ---
 title: "Azarian"
 url: /amiens/azarian/
-shop: Schmuck
+shop: bijoux
 ---

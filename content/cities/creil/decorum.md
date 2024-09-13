@@ -1,5 +1,5 @@
 ---
 title: "Décorum"
 url: /creil/decorum/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault Nogent-Sur-Oise"
 url: /nogent-sur-oise/renault-nogent-sur-oise/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

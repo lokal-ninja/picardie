@@ -1,5 +1,5 @@
 ---
 title: "CEDEO"
 url: /rivery/cedeo/
-shop: Badezimmer
+shop: salle de bains
 ---

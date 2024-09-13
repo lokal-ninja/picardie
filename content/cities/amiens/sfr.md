@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /amiens/sfr/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Sergent"
 url: /poix-de-picardie/garage-sergent/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

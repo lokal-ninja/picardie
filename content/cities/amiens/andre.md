@@ -1,5 +1,5 @@
 ---
 title: "André"
 url: /amiens/andre/
-shop: Schuhe
+shop: chaussures
 ---

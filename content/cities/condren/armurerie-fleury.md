@@ -1,5 +1,5 @@
 ---
 title: "Armurerie Fleury"
 url: /condren/armurerie-fleury/
-shop: Waffen
+shop: armes
 ---

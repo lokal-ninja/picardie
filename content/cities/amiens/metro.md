@@ -1,5 +1,5 @@
 ---
 title: "METRO"
 url: /amiens/metro/
-shop: Großhandel
+shop: vente en gros
 ---

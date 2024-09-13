@@ -1,5 +1,5 @@
 ---
 title: "Animodream"
 url: /cagny/animodream/
-shop: Tiere
+shop: animal de compagnie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Philip Photo"
 url: /chateau-thierry/philip-photo/
-shop: Kramladen
+shop: magasin de variétés
 ---

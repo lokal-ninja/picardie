@@ -1,5 +1,5 @@
 ---
 title: "Verisure"
 url: /boves/verisure/
-shop: Radiotechnik
+shop: radiotechnique
 ---

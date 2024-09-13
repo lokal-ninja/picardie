@@ -1,5 +1,5 @@
 ---
 title: "La Civette des Trois Rois"
 url: /nogent-sur-oise/la-civette-des-trois-rois/
-shop: Zeitungen
+shop: marchand de journaux
 ---

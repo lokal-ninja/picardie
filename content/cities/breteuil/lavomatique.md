@@ -1,5 +1,5 @@
 ---
 title: "Lavomatique"
 url: /breteuil/lavomatique/
-shop: Wäscherei
+shop: blanchisserie
 ---

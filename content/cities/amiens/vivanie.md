@@ -1,5 +1,5 @@
 ---
 title: "Vivanie"
 url: /amiens/vivanie/
-shop: Lebensmittel
+shop: commodité
 ---

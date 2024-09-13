@@ -1,5 +1,5 @@
 ---
 title: "À La Corbeille Fleurie"
 url: /breteuil/a-la-corbeille-fleurie/
-shop: Blumen
+shop: fleuriste
 ---

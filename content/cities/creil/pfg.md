@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /creil/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bricoman"
 url: /saint-quentin/bricoman/
-shop: Baumarkt
+shop: à faire soi-même
 ---

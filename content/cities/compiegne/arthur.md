@@ -1,5 +1,5 @@
 ---
 title: "Arthur"
 url: /compiegne/arthur/
-shop: Kleidung
+shop: vêtements
 ---

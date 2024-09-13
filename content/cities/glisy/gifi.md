@@ -1,5 +1,5 @@
 ---
 title: "Gifi"
 url: /glisy/gifi/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

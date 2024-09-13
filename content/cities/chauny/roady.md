@@ -1,5 +1,5 @@
 ---
 title: "Roady"
 url: /chauny/roady/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

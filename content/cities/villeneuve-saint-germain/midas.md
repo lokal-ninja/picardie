@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /villeneuve-saint-germain/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

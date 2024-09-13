@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /beauvais/orange/
-shop: Handy
+shop: téléphone portable
 ---

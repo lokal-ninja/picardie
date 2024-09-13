@@ -1,5 +1,5 @@
 ---
 title: "Univairmer Voyages"
 url: /creil/univairmer-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

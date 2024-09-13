@@ -1,5 +1,5 @@
 ---
 title: "TrésOr"
 url: /glisy/tresor/
-shop: Schmuck
+shop: bijoux
 ---

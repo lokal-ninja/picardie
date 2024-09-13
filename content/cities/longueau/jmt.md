@@ -1,5 +1,5 @@
 ---
 title: "JMT"
 url: /longueau/jmt/
-shop: Tiere
+shop: animal de compagnie
 ---

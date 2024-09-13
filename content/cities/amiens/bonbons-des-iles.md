@@ -1,5 +1,5 @@
 ---
 title: "Bonbons des iles"
 url: /amiens/bonbons-des-iles/
-shop: Süßwaren
+shop: confiserie
 ---

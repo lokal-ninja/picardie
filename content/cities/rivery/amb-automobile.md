@@ -1,5 +1,5 @@
 ---
 title: "AMB Automobile"
 url: /rivery/amb-automobile/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /senlis/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

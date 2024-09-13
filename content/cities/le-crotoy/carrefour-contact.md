@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
 url: /le-crotoy/carrefour-contact/
-shop: Supermarkt
+shop: supermarché
 ---

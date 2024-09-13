@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /albert/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maison Chopin"
 url: /chateau-thierry/maison-chopin/
-shop: Kleidung
+shop: vêtements
 ---

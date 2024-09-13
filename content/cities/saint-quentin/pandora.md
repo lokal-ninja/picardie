@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /saint-quentin/pandora/
-shop: Schmuck
+shop: bijoux
 ---

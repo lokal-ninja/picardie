@@ -1,5 +1,5 @@
 ---
 title: "L'Entrepot Du Bricolage"
 url: /chateau-thierry/lentrepot-du-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

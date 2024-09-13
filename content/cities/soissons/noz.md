@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /soissons/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skoda"
 url: /rivery/skoda/
-shop: Autohaus
+shop: voiture
 ---

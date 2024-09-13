@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Ghielmi"
 url: /vervins/boucherie-ghielmi/
-shop: Metzgerei
+shop: boucherie
 ---

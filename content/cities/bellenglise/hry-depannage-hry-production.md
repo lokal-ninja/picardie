@@ -1,5 +1,5 @@
 ---
 title: "HRY Depannage - HRY Production"
 url: /bellenglise/hry-depannage-hry-production/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

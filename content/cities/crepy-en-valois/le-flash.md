@@ -1,5 +1,5 @@
 ---
 title: "Le Flash"
 url: /crepy-en-valois/le-flash/
-shop: Zeitungen
+shop: marchand de journaux
 ---

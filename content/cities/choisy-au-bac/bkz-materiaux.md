@@ -1,5 +1,5 @@
 ---
 title: "BKZ Matériaux"
 url: /choisy-au-bac/bkz-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

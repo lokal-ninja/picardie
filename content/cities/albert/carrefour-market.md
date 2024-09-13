@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /albert/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

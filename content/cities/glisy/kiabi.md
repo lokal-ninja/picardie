@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /glisy/kiabi/
-shop: Kleidung
+shop: vêtements
 ---

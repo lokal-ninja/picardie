@@ -1,5 +1,5 @@
 ---
 title: "L’hippocampe"
 url: /senlis/lhippocampe/
-shop: Fisch
+shop: fruits de mer
 ---

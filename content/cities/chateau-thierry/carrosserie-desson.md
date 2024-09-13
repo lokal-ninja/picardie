@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Desson"
 url: /chateau-thierry/carrosserie-desson/
-shop: Baumarkt
+shop: à faire soi-même
 ---

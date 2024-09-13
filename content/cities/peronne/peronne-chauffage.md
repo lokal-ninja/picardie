@@ -1,5 +1,5 @@
 ---
 title: "peronne chauffage"
 url: /peronne/peronne-chauffage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

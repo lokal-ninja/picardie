@@ -1,5 +1,5 @@
 ---
 title: "Doghood"
 url: /cardonnette/doghood/
-shop: Tiere
+shop: animal de compagnie
 ---

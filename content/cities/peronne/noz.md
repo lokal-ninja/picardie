@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /peronne/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

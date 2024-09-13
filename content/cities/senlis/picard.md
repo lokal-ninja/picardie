@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /senlis/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

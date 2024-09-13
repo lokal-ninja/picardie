@@ -1,5 +1,5 @@
 ---
 title: "Béhaegel Léon"
 url: /breteuil/behaegel-leon/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /chamant/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

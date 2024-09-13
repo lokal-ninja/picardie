@@ -1,5 +1,5 @@
 ---
 title: "Veteix"
 url: /compiegne/veteix/
-shop: Fahrrad
+shop: vélo
 ---

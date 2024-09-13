@@ -1,5 +1,5 @@
 ---
 title: "Armand Thierry"
 url: /compiegne/armand-thierry/
-shop: Kleidung
+shop: vêtements
 ---

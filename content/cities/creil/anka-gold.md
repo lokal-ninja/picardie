@@ -1,5 +1,5 @@
 ---
 title: "Anka Gold"
 url: /creil/anka-gold/
-shop: Schmuck
+shop: bijoux
 ---

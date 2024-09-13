@@ -1,5 +1,5 @@
 ---
 title: "Free"
 url: /saint-quentin/free/
-shop: Handy
+shop: téléphone portable
 ---

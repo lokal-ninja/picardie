@@ -1,5 +1,5 @@
 ---
 title: "Promofleur"
 url: /thiverny/promofleur/
-shop: Garten-Center
+shop: centre de jardinage
 ---

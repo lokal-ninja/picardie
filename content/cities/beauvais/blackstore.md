@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /beauvais/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

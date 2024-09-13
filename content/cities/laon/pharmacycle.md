@@ -1,5 +1,5 @@
 ---
 title: "Pharmacycle"
 url: /laon/pharmacycle/
-shop: Fahrrad
+shop: vélo
 ---

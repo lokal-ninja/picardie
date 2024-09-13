@@ -1,5 +1,5 @@
 ---
 title: "Groupe Fondasol - Amiens"
 url: /argoeuves/groupe-fondasol-amiens/
-shop: Gartenmöbel
+shop: meubles de jardin
 ---

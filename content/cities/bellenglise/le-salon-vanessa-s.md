@@ -1,5 +1,5 @@
 ---
 title: "Le Salon Vanessa.S"
 url: /bellenglise/le-salon-vanessa-s/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Bicyclette"
 url: /senlis/la-bicyclette/
-shop: Fahrrad
+shop: vélo
 ---

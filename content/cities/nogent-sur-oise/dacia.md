@@ -1,5 +1,5 @@
 ---
 title: "Dacia"
 url: /nogent-sur-oise/dacia/
-shop: Autohaus
+shop: voiture
 ---

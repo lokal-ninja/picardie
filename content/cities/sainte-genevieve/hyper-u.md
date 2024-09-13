@@ -1,5 +1,5 @@
 ---
 title: "Hyper U"
 url: /sainte-genevieve/hyper-u/
-shop: Supermarkt
+shop: supermarché
 ---

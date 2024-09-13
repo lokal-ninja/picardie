@@ -1,5 +1,5 @@
 ---
 title: "Labiyeuz Boutique"
 url: /creil/labiyeuz-boutique/
-shop: Kleidung
+shop: vêtements
 ---

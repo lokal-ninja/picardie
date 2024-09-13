@@ -1,5 +1,5 @@
 ---
 title: "Mecano Sarl"
 url: /domart-en-ponthieu/mecano-sarl/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

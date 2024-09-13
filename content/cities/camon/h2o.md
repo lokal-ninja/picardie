@@ -1,5 +1,5 @@
 ---
 title: "H2O"
 url: /camon/h2o/
-shop: Friseur
+shop: coiffeur
 ---

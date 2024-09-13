@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charcuterie Guiraut"
 url: /camon/boucherie-charcuterie-guiraut/
-shop: Metzgerei
+shop: boucherie
 ---

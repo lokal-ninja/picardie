@@ -1,5 +1,5 @@
 ---
 title: "Garage Ducroquet"
 url: /ailly-sur-noye/garage-ducroquet/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

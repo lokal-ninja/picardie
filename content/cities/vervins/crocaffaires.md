@@ -1,5 +1,5 @@
 ---
 title: "Croc'Affaires"
 url: /vervins/crocaffaires/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

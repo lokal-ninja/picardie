@@ -1,5 +1,5 @@
 ---
 title: "Salon M.B Passion"
 url: /montataire/salon-m-b-passion/
-shop: Friseur
+shop: coiffeur
 ---

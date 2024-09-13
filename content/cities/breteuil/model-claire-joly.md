@@ -1,5 +1,5 @@
 ---
 title: "Mod'el - Claire Joly"
 url: /breteuil/model-claire-joly/
-shop: Kleidung
+shop: vêtements
 ---

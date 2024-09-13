@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /neuilly-sous-clermont/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

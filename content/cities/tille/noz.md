@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /tille/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Karmalika"
 url: /creil/karmalika/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /abbeville/total/
-shop: Gasflaschen
+shop: gaz
 ---

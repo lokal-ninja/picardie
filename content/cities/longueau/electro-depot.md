@@ -1,5 +1,5 @@
 ---
 title: "Electro Dépôt"
 url: /longueau/electro-depot/
-shop: Elektronik
+shop: électronique
 ---

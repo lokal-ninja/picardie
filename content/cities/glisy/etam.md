@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /glisy/etam/
-shop: Kleidung
+shop: vêtements
 ---

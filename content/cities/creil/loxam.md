@@ -1,5 +1,5 @@
 ---
 title: "Loxam"
 url: /creil/loxam/
-shop: Werkzeuge
+shop: outils
 ---

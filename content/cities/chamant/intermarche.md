@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /chamant/intermarche/
-shop: Gasflaschen
+shop: gaz
 ---

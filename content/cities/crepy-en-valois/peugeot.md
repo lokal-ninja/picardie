@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /crepy-en-valois/peugeot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

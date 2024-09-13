@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /chateau-thierry/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

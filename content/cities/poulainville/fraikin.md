@@ -1,5 +1,5 @@
 ---
 title: "Fraikin"
 url: /poulainville/fraikin/
-shop: Werkzeuge
+shop: outils
 ---

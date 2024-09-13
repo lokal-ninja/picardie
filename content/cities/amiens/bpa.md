@@ -1,5 +1,5 @@
 ---
 title: "BPA"
 url: /amiens/bpa/
-shop: Autoteile
+shop: pièces de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toscane"
 url: /glisy/toscane/
-shop: Kleidung
+shop: vêtements
 ---

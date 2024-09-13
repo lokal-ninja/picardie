@@ -1,5 +1,5 @@
 ---
 title: "Baby Star Shop"
 url: /quend/baby-star-shop/
-shop: Allgemein
+shop: shop
 ---

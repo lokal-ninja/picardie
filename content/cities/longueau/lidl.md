@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /longueau/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

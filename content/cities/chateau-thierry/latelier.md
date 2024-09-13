@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier"
 url: /chateau-thierry/latelier/
-shop: Friseur
+shop: coiffeur
 ---

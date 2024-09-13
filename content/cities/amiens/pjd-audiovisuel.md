@@ -1,5 +1,5 @@
 ---
 title: "PJD Audiovisuel"
 url: /amiens/pjd-audiovisuel/
-shop: Hifi
+shop: hifi
 ---

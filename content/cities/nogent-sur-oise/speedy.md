@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /nogent-sur-oise/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

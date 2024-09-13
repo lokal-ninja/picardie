@@ -1,5 +1,5 @@
 ---
 title: "SJ Coiffure"
 url: /amiens/sj-coiffure/
-shop: Friseurbedarf
+shop: fournitures pour coiffeurs
 ---

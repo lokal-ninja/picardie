@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /noyon/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

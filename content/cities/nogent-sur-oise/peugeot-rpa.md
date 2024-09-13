@@ -1,5 +1,5 @@
 ---
 title: "Peugeot - Rpa"
 url: /nogent-sur-oise/peugeot-rpa/
-shop: Autohaus
+shop: voiture
 ---

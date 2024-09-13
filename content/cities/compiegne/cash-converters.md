@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /compiegne/cash-converters/
-shop: Leiher
+shop: prêteur sur gages
 ---

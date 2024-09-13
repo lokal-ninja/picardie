@@ -1,5 +1,5 @@
 ---
 title: "Audiosphere"
 url: /creil/audiosphere/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

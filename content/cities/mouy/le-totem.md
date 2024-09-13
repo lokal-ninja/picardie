@@ -1,5 +1,5 @@
 ---
 title: "Le Totem"
 url: /mouy/le-totem/
-shop: Tabak
+shop: tabac
 ---

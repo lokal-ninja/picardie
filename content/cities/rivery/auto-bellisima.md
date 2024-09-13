@@ -1,5 +1,5 @@
 ---
 title: "Auto Bellisima"
 url: /rivery/auto-bellisima/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

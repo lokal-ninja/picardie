@@ -1,5 +1,5 @@
 ---
 title: "Demark"
 url: /albert/demark/
-shop: Kleidung
+shop: vêtements
 ---

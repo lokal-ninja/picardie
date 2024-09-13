@@ -1,5 +1,5 @@
 ---
 title: "Défi Coiffure"
 url: /estrees-saint-denis/defi-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

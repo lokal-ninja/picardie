@@ -1,5 +1,5 @@
 ---
 title: "Motoland"
 url: /rivery/motoland/
-shop: Motorrad
+shop: moto
 ---

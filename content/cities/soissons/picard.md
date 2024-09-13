@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /soissons/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

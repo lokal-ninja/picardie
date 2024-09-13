@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie SMJ Auto"
 url: /breteuil/carrosserie-smj-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nymphéas"
 url: /croixrault/nympheas/
-shop: Friseur
+shop: coiffeur
 ---

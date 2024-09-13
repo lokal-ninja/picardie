@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /nogent-sur-oise/orange/
-shop: Handy
+shop: téléphone portable
 ---

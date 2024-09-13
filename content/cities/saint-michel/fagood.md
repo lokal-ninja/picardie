@@ -1,5 +1,5 @@
 ---
 title: "FAGOOD"
 url: /saint-michel/fagood/
-shop: Supermarkt
+shop: supermarché
 ---

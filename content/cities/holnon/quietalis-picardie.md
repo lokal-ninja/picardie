@@ -1,5 +1,5 @@
 ---
 title: "Quietalis Picardie"
 url: /holnon/quietalis-picardie/
-shop: Küchen
+shop: cuisine
 ---

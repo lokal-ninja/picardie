@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /abbeville/carrefour/
-shop: Gasflaschen
+shop: gaz
 ---

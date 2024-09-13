@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /montdidier/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

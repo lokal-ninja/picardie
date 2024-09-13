@@ -1,5 +1,5 @@
 ---
 title: "Vibes"
 url: /mouy/vibes/
-shop: Friseur
+shop: coiffeur
 ---

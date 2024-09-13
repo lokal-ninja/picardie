@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /saint-quentin/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

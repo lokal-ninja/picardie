@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /chambry/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

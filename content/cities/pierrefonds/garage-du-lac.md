@@ -1,5 +1,5 @@
 ---
 title: "Garage du Lac"
 url: /pierrefonds/garage-du-lac/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

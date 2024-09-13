@@ -1,5 +1,5 @@
 ---
 title: "Phone City"
 url: /creil/phone-city/
-shop: Handy
+shop: téléphone portable
 ---

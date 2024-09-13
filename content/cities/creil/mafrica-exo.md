@@ -1,5 +1,5 @@
 ---
 title: "M'africa exo"
 url: /creil/mafrica-exo/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Comptoir Auto"
 url: /villers-sous-saint-leu/comptoir-auto/
-shop: Autoteile
+shop: pièces de voitures
 ---

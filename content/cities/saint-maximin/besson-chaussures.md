@@ -1,5 +1,5 @@
 ---
 title: "Besson Chaussures"
 url: /saint-maximin/besson-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

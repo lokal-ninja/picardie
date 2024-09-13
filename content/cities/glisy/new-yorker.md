@@ -1,5 +1,5 @@
 ---
 title: "New Yorker"
 url: /glisy/new-yorker/
-shop: Kleidung
+shop: vêtements
 ---

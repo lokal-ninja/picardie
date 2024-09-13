@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /lamorlaye/giant/
-shop: Fahrrad
+shop: vélo
 ---

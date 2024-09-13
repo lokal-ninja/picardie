@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /nogent-sur-oise/auchan-avenue-de-leurope/
-shop: Supermarkt
+shop: supermarché
 ---

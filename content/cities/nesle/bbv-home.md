@@ -1,5 +1,5 @@
 ---
 title: "BBV Home"
 url: /nesle/bbv-home/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

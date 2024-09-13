@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /saint-valery-sur-somme/intermarche/
-shop: Gasflaschen
+shop: gaz
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FFA3N"
 url: /senlis/ffa3n/
-shop: Baustoffe
+shop: commerce
 ---

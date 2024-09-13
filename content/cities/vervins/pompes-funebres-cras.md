@@ -1,5 +1,5 @@
 ---
 title: "Pompes funèbres Cras"
 url: /vervins/pompes-funebres-cras/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

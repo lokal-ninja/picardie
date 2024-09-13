@@ -1,5 +1,5 @@
 ---
 title: "Cofely, Chauffage"
 url: /chateau-thierry/cofely-chauffage/
-shop: Kramladen
+shop: magasin de variétés
 ---

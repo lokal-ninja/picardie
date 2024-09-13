@@ -1,5 +1,5 @@
 ---
 title: "KIKO Milano"
 url: /nogent-sur-oise/kiko-milano/
-shop: Kosmetik
+shop: beauté
 ---

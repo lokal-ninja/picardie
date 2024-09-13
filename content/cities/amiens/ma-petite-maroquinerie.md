@@ -1,5 +1,5 @@
 ---
 title: "Ma Petite Maroquinerie"
 url: /amiens/ma-petite-maroquinerie/
-shop: Taschen & Koffer
+shop: sac
 ---

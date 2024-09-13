@@ -1,5 +1,5 @@
 ---
 title: "Lefevre"
 url: /chateau-thierry/lefevre/
-shop: Kramladen
+shop: magasin de variétés
 ---

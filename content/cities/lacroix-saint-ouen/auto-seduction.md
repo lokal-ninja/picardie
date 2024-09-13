@@ -1,5 +1,5 @@
 ---
 title: "Auto Séduction"
 url: /lacroix-saint-ouen/auto-seduction/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

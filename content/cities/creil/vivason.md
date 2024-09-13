@@ -1,5 +1,5 @@
 ---
 title: "VivaSon"
 url: /creil/vivason/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

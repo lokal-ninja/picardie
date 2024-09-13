@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /mers-les-bains/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autobacs"
 url: /saint-maximin/autobacs/
-shop: Autoteile
+shop: pièces de voitures
 ---

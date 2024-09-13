@@ -1,5 +1,5 @@
 ---
 title: "Kandy"
 url: /ailly-sur-noye/kandy/
-shop: Kramladen
+shop: magasin de variétés
 ---

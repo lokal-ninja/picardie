@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Laroche"
 url: /saint-quentin/boulangerie-laroche/
-shop: Bäckerei
+shop: boulangerie
 ---

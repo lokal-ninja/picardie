@@ -1,5 +1,5 @@
 ---
 title: "Au Pain Rustique"
 url: /vervins/au-pain-rustique/
-shop: Bäckerei
+shop: boulangerie
 ---

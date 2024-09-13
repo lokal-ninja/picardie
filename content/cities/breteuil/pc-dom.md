@@ -1,5 +1,5 @@
 ---
 title: "PC Dom"
 url: /breteuil/pc-dom/
-shop: Computer
+shop: ordinateur
 ---

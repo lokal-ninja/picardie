@@ -1,5 +1,5 @@
 ---
 title: "Prolians"
 url: /amiens/prolians/
-shop: Eisenwaren
+shop: matériel informatique
 ---

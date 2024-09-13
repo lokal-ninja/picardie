@@ -1,5 +1,5 @@
 ---
 title: "Robart David"
 url: /cayeux-sur-mer/robart-david/
-shop: Fahrrad
+shop: vélo
 ---

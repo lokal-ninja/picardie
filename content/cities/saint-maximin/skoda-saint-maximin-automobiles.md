@@ -1,5 +1,5 @@
 ---
 title: "Škoda Saint Maximin Automobiles"
 url: /saint-maximin/skoda-saint-maximin-automobiles/
-shop: Autohaus
+shop: voiture
 ---

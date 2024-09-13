@@ -1,5 +1,5 @@
 ---
 title: "Primeuro"
 url: /peronne/primeuro/
-shop: Lebensmittel
+shop: commodité
 ---

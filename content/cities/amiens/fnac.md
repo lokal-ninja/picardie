@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /amiens/fnac/
-shop: Warenhaus
+shop: grand magasin
 ---

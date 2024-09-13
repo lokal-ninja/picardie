@@ -1,5 +1,5 @@
 ---
 title: "AMG Pièces Auto"
 url: /montataire/amg-pieces-auto/
-shop: Autoteile
+shop: pièces de voitures
 ---

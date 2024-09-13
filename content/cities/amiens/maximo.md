@@ -1,5 +1,5 @@
 ---
 title: "Maximo"
 url: /amiens/maximo/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

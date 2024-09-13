@@ -1,5 +1,5 @@
 ---
 title: "Kenny Racing"
 url: /amiens/kenny-racing/
-shop: Kleidung
+shop: vêtements
 ---

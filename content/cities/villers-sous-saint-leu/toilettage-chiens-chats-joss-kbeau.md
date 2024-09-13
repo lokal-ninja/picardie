@@ -1,5 +1,5 @@
 ---
 title: "Toilettage Chiens/Chats Joss Kbeau"
 url: /villers-sous-saint-leu/toilettage-chiens-chats-joss-kbeau/
-shop: Tiere
+shop: animal de compagnie
 ---

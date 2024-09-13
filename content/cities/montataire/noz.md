@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /montataire/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

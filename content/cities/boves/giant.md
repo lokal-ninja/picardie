@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /boves/giant/
-shop: Fahrrad
+shop: vélo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Feuillette"
 url: /beauvais/boulangerie-feuillette/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wanderlust"
 url: /amiens/wanderlust/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

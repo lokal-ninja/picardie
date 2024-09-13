@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /pont-sainte-maxence/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

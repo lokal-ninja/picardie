@@ -1,5 +1,5 @@
 ---
 title: "Pompes funèbres"
 url: /breteuil/pompes-funebres/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

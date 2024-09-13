@@ -1,5 +1,5 @@
 ---
 title: "Lise et Jérome"
 url: /noailles/lise-et-jerome/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Les Flots Bleus"
 url: /quend/les-flots-bleus/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tony Alimentation"
 url: /creil/tony-alimentation/
-shop: Lebensmittel
+shop: commodité
 ---

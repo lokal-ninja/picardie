@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /laon/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /glisy/intersport/
-shop: Sport
+shop: sports
 ---

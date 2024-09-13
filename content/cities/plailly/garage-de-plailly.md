@@ -1,5 +1,5 @@
 ---
 title: "Garage de Plailly"
 url: /plailly/garage-de-plailly/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

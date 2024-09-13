@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /glisy/pandora/
-shop: Schmuck
+shop: bijoux
 ---

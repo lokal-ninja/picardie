@@ -1,5 +1,5 @@
 ---
 title: "Toscane"
 url: /compiegne/toscane/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bastide"
 url: /chateau-thierry/bastide/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caisse Primaire d'Assurance Maladie"
 url: /chateau-thierry/caisse-primaire-dassurance-maladie/
-shop: Kramladen
+shop: magasin de variétés
 ---

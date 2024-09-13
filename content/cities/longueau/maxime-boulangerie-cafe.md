@@ -1,5 +1,5 @@
 ---
 title: "Maxime Boulangerie Café"
 url: /longueau/maxime-boulangerie-cafe/
-shop: Bäckerei
+shop: boulangerie
 ---

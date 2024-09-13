@@ -1,5 +1,5 @@
 ---
 title: "BigMat"
 url: /camon/bigmat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

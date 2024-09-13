@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /fayet/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

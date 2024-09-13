@@ -1,5 +1,5 @@
 ---
 title: "Lienhard Joel"
 url: /chateau-thierry/lienhard-joel/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asya Alimentation"
 url: /nogent-sur-oise/asya-alimentation/
-shop: Lebensmittel
+shop: commodité
 ---

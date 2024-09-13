@@ -1,5 +1,5 @@
 ---
 title: "Free"
 url: /amiens/free/
-shop: Handy
+shop: téléphone portable
 ---

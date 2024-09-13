@@ -1,5 +1,5 @@
 ---
 title: "BenPhone"
 url: /ambleny/benphone/
-shop: Handy
+shop: téléphone portable
 ---

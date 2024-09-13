@@ -1,5 +1,5 @@
 ---
 title: "Votre Opticien"
 url: /ailly-sur-noye/votre-opticien/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /amiens/orange/
-shop: Handy
+shop: téléphone portable
 ---

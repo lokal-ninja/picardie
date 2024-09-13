@@ -1,5 +1,5 @@
 ---
 title: "Zino Coiffure"
 url: /montataire/zino-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

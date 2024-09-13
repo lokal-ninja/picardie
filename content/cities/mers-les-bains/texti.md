@@ -1,5 +1,5 @@
 ---
 title: "Texti"
 url: /mers-les-bains/texti/
-shop: Textil
+shop: tissu
 ---

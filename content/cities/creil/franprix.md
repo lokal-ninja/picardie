@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /creil/franprix/
-shop: Lebensmittel
+shop: commodité
 ---

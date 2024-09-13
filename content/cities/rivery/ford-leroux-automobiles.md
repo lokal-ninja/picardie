@@ -1,5 +1,5 @@
 ---
 title: "Ford - Leroux Automobiles"
 url: /rivery/ford-leroux-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

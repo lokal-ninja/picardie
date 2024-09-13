@@ -1,5 +1,5 @@
 ---
 title: "BigMat"
 url: /rivery/bigmat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

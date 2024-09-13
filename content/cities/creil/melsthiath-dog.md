@@ -1,5 +1,5 @@
 ---
 title: "Melsthiath Dog"
 url: /creil/melsthiath-dog/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

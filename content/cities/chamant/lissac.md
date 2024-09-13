@@ -1,5 +1,5 @@
 ---
 title: "Lissac"
 url: /chamant/lissac/
-shop: Optiker
+shop: opticien
 ---

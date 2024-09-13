@@ -1,5 +1,5 @@
 ---
 title: "Eveline PEZE et Fils"
 url: /longueau/eveline-peze-et-fils/
-shop: Gardinen
+shop: rideau
 ---

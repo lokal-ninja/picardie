@@ -1,5 +1,5 @@
 ---
 title: "Inéo Picardie"
 url: /amiens/ineo-picardie/
-shop: Elektronik
+shop: électronique
 ---

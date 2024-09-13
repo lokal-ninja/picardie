@@ -1,5 +1,5 @@
 ---
 title: "Oise Telecom"
 url: /creil/oise-telecom/
-shop: Handy
+shop: téléphone portable
 ---
