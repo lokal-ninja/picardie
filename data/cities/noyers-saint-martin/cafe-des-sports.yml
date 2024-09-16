@@ -4,8 +4,9 @@ latitude: 49.55385
 longitude: 2.2619
 postcode: "60480"
 city: Noyers-Saint-Martin
-street: "Rue des Acacias"
-housenumber: 170
+street: Rue des Acacias
+housenumber: "170"
 phone: ""
-opening_hours: "Tu 08:00-12:30,16:00-19:00; We 08:00-12:30,16:00-19:00; Th 08:00-12:30,16:00-19:00; Fr 08:00-12:30,16:00-19:00; Sa 08:00-12:30,16:00-19:00; Su 08:00-12:30; Mo 08:00-12:30,16:00-19:00"
+opening_hours: Tu 08:00-12:30,16:00-19:00; We 08:00-12:30,16:00-19:00; Th 08:00-12:30,16:00-19:00;
+    Fr 08:00-12:30,16:00-19:00; Sa 08:00-12:30,16:00-19:00; Su 08:00-12:30; Mo 08:00-12:30,16:00-19:00
 website: ""

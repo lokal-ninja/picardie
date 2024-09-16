@@ -1,11 +1,11 @@
 id: 824676799
-type: way
+type: node
 latitude: 49.20847
 longitude: 2.5973
 postcode: "60300"
 city: Senlis
-street: "Avenue du Général-de-Gaulle"
+street: Avenue du Général-de-Gaulle
 housenumber: 39-41
-phone: "+33 3 44 60 13 17"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:45"
-website: "https://magasins.picard.fr/867-picard-senlis"
+phone: +33 3 44 60 13 17
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:45
+website: https://magasins.picard.fr/867-picard-senlis

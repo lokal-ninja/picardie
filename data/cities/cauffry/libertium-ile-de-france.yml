@@ -1,11 +1,11 @@
 id: 255237447
-type: way
+type: node
 latitude: 49.31634
 longitude: 2.4437
 postcode: "60290"
 city: Cauffry
-street: "Avenue Henri Besse"
-housenumber: 23
+street: Avenue Henri Besse
+housenumber: "23"
 phone: "0344733386"
-opening_hours: "Ma-Sa 09:00-18:00"
-website: "https://www.libertium.fr/concessions/ile-de-france"
+opening_hours: Ma-Sa 09:00-18:00
+website: https://www.libertium.fr/concessions/ile-de-france

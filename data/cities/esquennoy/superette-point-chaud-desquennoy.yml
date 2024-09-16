@@ -4,8 +4,8 @@ latitude: 49.65495
 longitude: 2.2682
 postcode: "60120"
 city: Esquennoy
-street: "Rue de la Commanderie"
-housenumber: 9
-phone: "+33 3 44 05 10 87"
-opening_hours: "Mo,Tu,Fr 09:00-21:00; We,Sa 10:00-21:00; Th,Su off"
+street: Rue de la Commanderie
+housenumber: "9"
+phone: +33 3 44 05 10 87
+opening_hours: Mo,Tu,Fr 09:00-21:00; We,Sa 10:00-21:00; Th,Su off
 website: ""

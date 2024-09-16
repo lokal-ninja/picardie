@@ -1,11 +1,11 @@
 id: 275521299
-type: way
+type: node
 latitude: 49.63861
 longitude: 2.28382
 postcode: "60120"
 city: Breteuil
-street: "Rue d'Amiens"
-housenumber: 
-phone: "+33 3 44 80 36 67"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.kandy.fr/"
+street: Rue d'Amiens
+housenumber: ""
+phone: +33 3 44 80 36 67
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.kandy.fr/

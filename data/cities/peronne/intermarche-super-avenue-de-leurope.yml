@@ -1,11 +1,11 @@
 id: 902053307
-type: way
+type: node
 latitude: 49.9389
 longitude: 2.92263
 postcode: "80200"
 city: Péronne
-street: "Avenue de l'Europe"
-housenumber: 
+street: Avenue de l'Europe
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

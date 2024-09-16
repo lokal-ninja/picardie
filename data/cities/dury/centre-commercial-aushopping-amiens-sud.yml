@@ -1,11 +1,11 @@
 id: 131916448
-type: way
+type: node
 latitude: 49.86363
 longitude: 2.28009
 postcode: "80480"
 city: Dury
-street: "Route d'Amiens"
-housenumber: 1
+street: Route d'Amiens
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:30; Su 09:00-12:30"
-website: "https://amiens.aushopping.com/fr"
+opening_hours: Mo-Sa 08:30-21:30; Su 09:00-12:30
+website: https://amiens.aushopping.com/fr

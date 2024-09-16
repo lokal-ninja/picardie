@@ -1,11 +1,11 @@
 id: 140457560
-type: way
+type: node
 latitude: 49.8803
 longitude: 2.29035
 postcode: "80000"
 city: Amiens
-street: "Boulevard de Dury"
-housenumber: 169
+street: Boulevard de Dury
+housenumber: "169"
 phone: ""
 opening_hours: ""
 website: ""

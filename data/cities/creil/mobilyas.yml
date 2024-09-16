@@ -4,8 +4,8 @@ latitude: 49.26312
 longitude: 2.47089
 postcode: "60100"
 city: Creil
-street: "Avenue Jules Uhry"
-housenumber: 8
-phone: "+33 3 44 72 93 28"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-19:00"
-website: "https://www.mobilyas.fr/"
+street: Avenue Jules Uhry
+housenumber: "8"
+phone: +33 3 44 72 93 28
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-19:00
+website: https://www.mobilyas.fr/

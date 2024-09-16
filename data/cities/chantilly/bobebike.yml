@@ -4,8 +4,8 @@ latitude: 49.19451
 longitude: 2.46537
 postcode: "60500"
 city: Chantilly
-street: "Rue de Creil"
-housenumber: 1
+street: Rue de Creil
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://bobebike.com"
+website: https://bobebike.com

@@ -1,11 +1,11 @@
 id: 370028295
-type: way
+type: node
 latitude: 49.71204
 longitude: 3.18897
 postcode: "02520"
 city: Flavy-le-Martel
-street: "Rue André Brule"
-housenumber: 85
+street: Rue André Brule
+housenumber: "85"
 phone: "+33323522007"
 opening_hours: ""
 website: ""

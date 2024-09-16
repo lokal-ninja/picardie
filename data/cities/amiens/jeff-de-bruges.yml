@@ -4,8 +4,8 @@ latitude: 49.89141
 longitude: 2.30383
 postcode: "80000"
 city: Amiens
-street: "Place René Goblet"
-housenumber: 47
+street: Place René Goblet
+housenumber: "47"
 phone: ""
-opening_hours: "Mo 10:00-19:15; Tu-Sa 09:30-19:15"
-website: "https://www.jeff-de-bruges.com/jeff-de-bruges-amiens"
+opening_hours: Mo 10:00-19:15; Tu-Sa 09:30-19:15
+website: https://www.jeff-de-bruges.com/jeff-de-bruges-amiens

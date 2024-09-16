@@ -1,11 +1,11 @@
 id: 235801727
-type: way
+type: node
 latitude: 49.32994
 longitude: 2.20003
 postcode: "60430"
 city: Noailles
-street: "Rue de Calais"
-housenumber: 8
-phone: "+33 7 88 36 85 58"
-opening_hours: "Tu-Sa 05:30-20:00; Su 05:30-19:00"
+street: Rue de Calais
+housenumber: "8"
+phone: +33 7 88 36 85 58
+opening_hours: Tu-Sa 05:30-20:00; Su 05:30-19:00
 website: ""

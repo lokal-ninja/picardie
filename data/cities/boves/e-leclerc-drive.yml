@@ -4,8 +4,8 @@ latitude: 49.86691
 longitude: 2.36192
 postcode: "80440"
 city: Boves
-street: "Rue du Phare du Bout du Monde"
-housenumber: 200
-phone: "+33 3 22 51 54 00"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.leclercdrive.fr/region-hauts-de-france/amiens/drive-boves.aspx"
+street: Rue du Phare du Bout du Monde
+housenumber: "200"
+phone: +33 3 22 51 54 00
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.leclercdrive.fr/region-hauts-de-france/amiens/drive-boves.aspx

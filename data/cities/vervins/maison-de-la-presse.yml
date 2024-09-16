@@ -4,8 +4,8 @@ latitude: 49.83381
 longitude: 3.90674
 postcode: "02140"
 city: Vervins
-street: "Rue de la République"
-housenumber: 12
-phone: "+33 3 23 98 02 37"
-opening_hours: "Mo-Fr 08:15-12:15,14:00-19:00; Sa 08:15-12:30,14:00-18:00"
+street: Rue de la République
+housenumber: "12"
+phone: +33 3 23 98 02 37
+opening_hours: Mo-Fr 08:15-12:15,14:00-19:00; Sa 08:15-12:30,14:00-18:00
 website: ""

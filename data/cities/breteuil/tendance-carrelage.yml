@@ -1,11 +1,11 @@
 id: 275521402
-type: way
+type: node
 latitude: 49.63817
 longitude: 2.28512
 postcode: "60120"
 city: Breteuil
-street: "Rue d'Amiens"
-housenumber: 66
-phone: "+33 3 44 49 15 29"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-13:00; Su off"
-website: "https://www.tendancecarrelage.com"
+street: Rue d'Amiens
+housenumber: "66"
+phone: +33 3 44 49 15 29
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-13:00; Su off
+website: https://www.tendancecarrelage.com

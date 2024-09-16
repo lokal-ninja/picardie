@@ -4,8 +4,8 @@ latitude: 49.23519
 longitude: 2.88724
 postcode: "60800"
 city: Crépy-en-Valois
-street: "Rue Nationale"
-housenumber: 6
-phone: "+33 3 44 59 06 16"
-opening_hours: "Mo 09:00-12:00,14:00-19:00; Tu-Sa 09:00-13:00,14:00-19:00; Su off"
+street: Rue Nationale
+housenumber: "6"
+phone: +33 3 44 59 06 16
+opening_hours: Mo 09:00-12:00,14:00-19:00; Tu-Sa 09:00-13:00,14:00-19:00; Su off
 website: ""

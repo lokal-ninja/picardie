@@ -4,8 +4,8 @@ latitude: 49.91499
 longitude: 2.33832
 postcode: "80136"
 city: Rivery
-street: "Rue Paul-Émile Victor"
-housenumber: 3
-phone: "+33 3 22 50 32 20"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://cedeo.fr/"
+street: Rue Paul-Émile Victor
+housenumber: "3"
+phone: +33 3 22 50 32 20
+opening_hours: Mo-Fr 08:00-17:30
+website: https://cedeo.fr/

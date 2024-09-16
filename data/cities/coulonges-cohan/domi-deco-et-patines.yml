@@ -1,11 +1,11 @@
 id: 462369394
-type: way
+type: node
 latitude: 49.20149
 longitude: 3.63376
 postcode: "02130"
 city: Coulonges-Cohan
-street: "Rue de la Bouverie"
-housenumber: 3
+street: Rue de la Bouverie
+housenumber: "3"
 phone: "+33673236946"
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-12:00"
-website: "https://domi-deco-patines.business.site"
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-12:00
+website: https://domi-deco-patines.business.site

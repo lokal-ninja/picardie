@@ -4,8 +4,8 @@ latitude: 49.41244
 longitude: 2.11905
 postcode: "60000"
 city: Beauvais
-street: "Rue Arago"
-housenumber: 
+street: Rue Arago
+housenumber: ""
 phone: ""
-opening_hours: "closed"
-website: "http://ming-boutique.com"
+opening_hours: closed
+website: http://ming-boutique.com

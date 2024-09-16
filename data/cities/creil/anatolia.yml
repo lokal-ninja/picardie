@@ -4,8 +4,8 @@ latitude: 49.25173
 longitude: 2.46695
 postcode: "60100"
 city: Creil
-street: "Rue Henri Dunant"
-housenumber: 11
-phone: "+33 6 48 61 17 03"
-opening_hours: "Mo-Su 08:00-20:00"
+street: Rue Henri Dunant
+housenumber: "11"
+phone: +33 6 48 61 17 03
+opening_hours: Mo-Su 08:00-20:00
 website: ""

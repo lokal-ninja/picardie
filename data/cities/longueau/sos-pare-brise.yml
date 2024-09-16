@@ -4,8 +4,8 @@ latitude: 49.86925
 longitude: 2.36934
 postcode: "80330"
 city: Longueau
-street: "Rue Antoine-Augustin Parmentier"
-housenumber: 8
-phone: "+33 3 75 50 29 56"
-opening_hours: "Mo-Sa 08:30-12:30,14:00-18:30"
-website: "https://www.sosparebriseplus.fr/longueau/"
+street: Rue Antoine-Augustin Parmentier
+housenumber: "8"
+phone: +33 3 75 50 29 56
+opening_hours: Mo-Sa 08:30-12:30,14:00-18:30
+website: https://www.sosparebriseplus.fr/longueau/

@@ -1,11 +1,11 @@
 id: 106255435
-type: way
+type: node
 latitude: 49.43637
 longitude: 2.11356
 postcode: "60000"
 city: Beauvais
-street: "Rue Jacques Goddet"
-housenumber: 
-phone: "+33 3 44 14 33 80"
-opening_hours: "Mo-Sa 09:00-20:00; Su off"
+street: Rue Jacques Goddet
+housenumber: ""
+phone: +33 3 44 14 33 80
+opening_hours: Mo-Sa 09:00-20:00; Su off
 website: ""

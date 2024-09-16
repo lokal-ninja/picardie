@@ -1,11 +1,11 @@
 id: 64324193
-type: way
+type: node
 latitude: 49.86287
 longitude: 2.22907
 postcode: "80480"
 city: Saleux
-street: "Route de Taisnil"
-housenumber: 
+street: Route de Taisnil
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

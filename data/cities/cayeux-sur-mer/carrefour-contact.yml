@@ -1,11 +1,11 @@
 id: 294504246
-type: way
+type: node
 latitude: 50.18126
 longitude: 1.49387
 postcode: "80410"
 city: Cayeux-sur-Mer
-street: "Rue du Maréchal Foch"
-housenumber: 184
-phone: "+33 3 22 26 00 80"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-cayeux-sur-mer"
+street: Rue du Maréchal Foch
+housenumber: "184"
+phone: +33 3 22 26 00 80
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-13:00
+website: https://www.carrefour.fr/magasin/contact-cayeux-sur-mer

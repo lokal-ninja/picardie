@@ -1,11 +1,11 @@
 id: 240643802
-type: way
+type: node
 latitude: 50.21801
 longitude: 1.62519
 postcode: "80550"
 city: Le Crotoy
-street: "Rue du 8 Mai"
-housenumber: 
+street: Rue du 8 Mai
+housenumber: ""
 phone: "+33322278046"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-le-crotoy"
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-13:00
+website: https://www.carrefour.fr/magasin/contact-le-crotoy

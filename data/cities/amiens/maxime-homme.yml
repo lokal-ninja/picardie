@@ -4,8 +4,8 @@ latitude: 49.891
 longitude: 2.30524
 postcode: "80000"
 city: Amiens
-street: "Rue de Noyon"
-housenumber: 11
-phone: "+33 3 22 39 05 01"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.maximehomme.fr/"
+street: Rue de Noyon
+housenumber: "11"
+phone: +33 3 22 39 05 01
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.maximehomme.fr/

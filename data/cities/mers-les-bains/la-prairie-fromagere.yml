@@ -1,11 +1,11 @@
 id: 331507631
-type: way
+type: node
 latitude: 50.06677
 longitude: 1.38755
 postcode: "80350"
 city: Mers-les-Bains
-street: "Rue André Dumont"
-housenumber: 7
-phone: "+33 9 54 09 15 30"
-opening_hours: "Mo, We-Sa 09:00-13:00, 15:30-19:00; Su 09:00-13:00"
+street: Rue André Dumont
+housenumber: "7"
+phone: +33 9 54 09 15 30
+opening_hours: Mo, We-Sa 09:00-13:00, 15:30-19:00; Su 09:00-13:00
 website: ""

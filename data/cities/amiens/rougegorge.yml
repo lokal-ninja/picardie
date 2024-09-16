@@ -4,8 +4,8 @@ latitude: 49.89203
 longitude: 2.30053
 postcode: "80000"
 city: Amiens
-street: "Rue des Trois Cailloux"
-housenumber: 38
-phone: "+33 3 22 80 74 50"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.rougegorge.com/"
+street: Rue des Trois Cailloux
+housenumber: "38"
+phone: +33 3 22 80 74 50
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.rougegorge.com/

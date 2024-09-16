@@ -4,8 +4,8 @@ latitude: 49.25352
 longitude: 2.4729
 postcode: "60100"
 city: Creil
-street: "Rue Madeleine Blin"
-housenumber: 18
-phone: "+33 3 44 55 11 56"
-opening_hours: "Mo,Tu,Th,Fr,Sa,Su 06:30-20:00; We off"
+street: Rue Madeleine Blin
+housenumber: "18"
+phone: +33 3 44 55 11 56
+opening_hours: Mo,Tu,Th,Fr,Sa,Su 06:30-20:00; We off
 website: ""

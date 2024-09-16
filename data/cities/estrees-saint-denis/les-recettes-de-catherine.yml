@@ -1,11 +1,11 @@
 id: 137672775
-type: way
+type: node
 latitude: 49.42418
 longitude: 2.63702
 postcode: "60190"
 city: Estrées-Saint-Denis
-street: "Avenue de Flandres"
-housenumber: 24
-phone: "+33 344096520"
-opening_hours: "Mo-Tu,Th-Sa 10:00-19:00; We,Su off"
-website: "https://www.lesrecettesdecatherine.com"
+street: Avenue de Flandres
+housenumber: "24"
+phone: +33 344096520
+opening_hours: Mo-Tu,Th-Sa 10:00-19:00; We,Su off
+website: https://www.lesrecettesdecatherine.com

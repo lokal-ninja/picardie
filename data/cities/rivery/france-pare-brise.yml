@@ -4,8 +4,8 @@ latitude: 49.91208
 longitude: 2.33552
 postcode: "80136"
 city: Rivery
-street: "Avenue de la Défense Passive"
-housenumber: 5
-phone: "+33 3 22 52 22 52"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:30-12:00"
+street: Avenue de la Défense Passive
+housenumber: "5"
+phone: +33 3 22 52 22 52
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:30-12:00
 website: ""

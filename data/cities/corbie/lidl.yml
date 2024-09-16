@@ -1,11 +1,11 @@
 id: 769255407
-type: way
+type: node
 latitude: 49.91191
 longitude: 2.50337
 postcode: "80800"
 city: Corbie
-street: "Rue Léon Curé"
-housenumber: 20
+street: Rue Léon Curé
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

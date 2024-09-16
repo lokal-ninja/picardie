@@ -1,11 +1,11 @@
 id: 371262842
-type: way
+type: node
 latitude: 49.82409
 longitude: 3.27742
 postcode: "02430"
 city: Gauchy
-street: "Rue Auguste Delaune"
-housenumber: 
+street: Rue Auguste Delaune
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
-website: "https://www.action.com/fr-fr/points-de-vente/gauchy-cc-intermarche-rue-auguste-delaune/"
+opening_hours: Mo-Sa 09:00-19:00; Su off
+website: https://www.action.com/fr-fr/points-de-vente/gauchy-cc-intermarche-rue-auguste-delaune/

@@ -4,8 +4,8 @@ latitude: 49.25619
 longitude: 2.487
 postcode: "60100"
 city: Creil
-street: "Rue Blaise Pascal"
-housenumber: 2
-phone: "+33 3 44 25 22 00"
-opening_hours: "Mo-Su 07:00-20:00"
+street: Rue Blaise Pascal
+housenumber: "2"
+phone: +33 3 44 25 22 00
+opening_hours: Mo-Su 07:00-20:00
 website: ""

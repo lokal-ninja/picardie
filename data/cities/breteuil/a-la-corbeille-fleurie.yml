@@ -4,8 +4,9 @@ latitude: 49.63113
 longitude: 2.29331
 postcode: "60120"
 city: Breteuil
-street: "Rue François Monnet"
-housenumber: 10
-phone: "+33 3 44 07 13 84"
-opening_hours: "Mo 09:00-12:00,14:00-19:00; Tu 09:00-19:30; We-Sa 09:00-12:00,14:00-19:30; Su 09:00-13:00"
-website: "https://www.123fleurs.com/fleuristes/60/breteuil/a-la-corbeille-fleurie"
+street: Rue François Monnet
+housenumber: "10"
+phone: +33 3 44 07 13 84
+opening_hours: Mo 09:00-12:00,14:00-19:00; Tu 09:00-19:30; We-Sa 09:00-12:00,14:00-19:30;
+    Su 09:00-13:00
+website: https://www.123fleurs.com/fleuristes/60/breteuil/a-la-corbeille-fleurie

@@ -1,11 +1,11 @@
 id: 368045657
-type: way
+type: node
 latitude: 49.48191
 longitude: 2.57672
 postcode: "60190"
 city: La Neuville-Roy
-street: "Rue Pennellier"
-housenumber: 62
+street: Rue Pennellier
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

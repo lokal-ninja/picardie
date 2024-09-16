@@ -4,8 +4,8 @@ latitude: 49.90553
 longitude: 2.32159
 postcode: "80136"
 city: Rivery
-street: "Rue Baudrez"
-housenumber: 138
+street: Rue Baudrez
+housenumber: "138"
 phone: "+33322919250"
-opening_hours: "Mo-We 08:00-12:00, 14:00-18:00"
-website: "https://agents.peugeot.fr/porquet-rivery"
+opening_hours: Mo-We 08:00-12:00, 14:00-18:00
+website: https://agents.peugeot.fr/porquet-rivery

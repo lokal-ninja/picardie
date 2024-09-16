@@ -4,8 +4,9 @@ latitude: 49.25883
 longitude: 2.47588
 postcode: "60100"
 city: Creil
-street: "Rue Aristide Briand"
-housenumber: 4
+street: Rue Aristide Briand
+housenumber: "4"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 08:30-13:00,15:00-19:00; Sa 08:30-13:00,14:30-19:00; Su 09:00-12:00"
+opening_hours: Mo off; Tu-Fr 08:30-13:00,15:00-19:00; Sa 08:30-13:00,14:30-19:00;
+    Su 09:00-12:00
 website: ""

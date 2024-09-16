@@ -4,8 +4,8 @@ latitude: 49.86898
 longitude: 2.37187
 postcode: "80330"
 city: Longueau
-street: "Avenue de l'Arc"
-housenumber: 4
+street: Avenue de l'Arc
+housenumber: "4"
 phone: "0800900343"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.lidl.fr/"
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.lidl.fr/

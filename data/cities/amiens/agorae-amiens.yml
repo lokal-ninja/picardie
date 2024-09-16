@@ -4,8 +4,8 @@ latitude: 49.89701
 longitude: 2.29877
 postcode: "80000"
 city: Amiens
-street: "Rue des Francs Mûriers"
-housenumber: 11
-phone: "+33 7 71 63 05 57"
-opening_hours: "Mo 10:00-12:30,13:30-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.facebook.com/AgoraeAmiens/"
+street: Rue des Francs Mûriers
+housenumber: "11"
+phone: +33 7 71 63 05 57
+opening_hours: Mo 10:00-12:30,13:30-19:00; Tu-Sa 10:00-19:00
+website: https://www.facebook.com/AgoraeAmiens/

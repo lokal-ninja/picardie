@@ -4,8 +4,8 @@ latitude: 49.86888
 longitude: 2.37075
 postcode: "80330"
 city: Longueau
-street: "Avenue de l'Arc"
-housenumber: 3
-phone: "+33 3 22 46 16 05"
-opening_hours: "Tu-Th 10:00-12:30,14:00-19:00; Fr-Sa 10:00-19:30"
-website: "https://www.lacavedelarc.fr/"
+street: Avenue de l'Arc
+housenumber: "3"
+phone: +33 3 22 46 16 05
+opening_hours: Tu-Th 10:00-12:30,14:00-19:00; Fr-Sa 10:00-19:30
+website: https://www.lacavedelarc.fr/

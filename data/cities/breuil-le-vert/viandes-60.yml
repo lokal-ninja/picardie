@@ -4,8 +4,8 @@ latitude: 49.3645
 longitude: 2.41976
 postcode: "60600"
 city: Breuil-le-Vert
-street: "Rue de Paris"
-housenumber: 466
+street: Rue de Paris
+housenumber: "466"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30, 14:00-19:00; Sa 09:00-19:00"
-website: "https://www.viandes60.fr"
+opening_hours: Mo-Fr 08:00-12:30, 14:00-19:00; Sa 09:00-19:00
+website: https://www.viandes60.fr

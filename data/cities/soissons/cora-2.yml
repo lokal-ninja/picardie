@@ -1,11 +1,11 @@
 id: 69841349
-type: way
+type: node
 latitude: 49.36993
 longitude: 3.31494
 postcode: "02200"
 city: Soissons
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

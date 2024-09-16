@@ -1,11 +1,11 @@
 id: 762973702
-type: way
+type: node
 latitude: 49.28336
 longitude: 2.49008
 postcode: "60870"
 city: Villers-Saint-Paul
-street: "Impasse de la Gare"
-housenumber: 6
+street: Impasse de la Gare
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

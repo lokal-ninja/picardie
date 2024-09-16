@@ -4,8 +4,8 @@ latitude: 49.86278
 longitude: 3.25537
 postcode: "02100"
 city: Fayet
-street: "Rue de Saint-Quentin"
-housenumber: 29
+street: Rue de Saint-Quentin
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
-website: "https://www.action.com/fr-fr/points-de-vente/st-quentin-le-fayet-route-damiens-rn/"
+opening_hours: Mo-Sa 09:00-19:00; Su off
+website: https://www.action.com/fr-fr/points-de-vente/st-quentin-le-fayet-route-damiens-rn/

@@ -4,8 +4,8 @@ latitude: 49.8343
 longitude: 3.90745
 postcode: "02140"
 city: Vervins
-street: "Rue de la Liberté"
-housenumber: 16
-phone: "+33 3 23 98 12 57"
-opening_hours: "Mo-Th 09:00-19:30; Tu-Sa 09:00-19:30; Su 05:30-13:30,15:00-19:00"
+street: Rue de la Liberté
+housenumber: "16"
+phone: +33 3 23 98 12 57
+opening_hours: Mo-Th 09:00-19:30; Tu-Sa 09:00-19:30; Su 05:30-13:30,15:00-19:00
 website: ""

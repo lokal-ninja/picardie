@@ -1,11 +1,11 @@
 id: 868758742
-type: way
+type: node
 latitude: 49.20825
 longitude: 2.60012
 postcode: "60300"
 city: Senlis
-street: "Avenue du Général-de-Gaulle"
-housenumber: 52
-phone: "+33 3 44 53 68 20"
+street: Avenue du Général-de-Gaulle
+housenumber: "52"
+phone: +33 3 44 53 68 20
 opening_hours: ""
-website: "https://www.la-bicyclette.com"
+website: https://www.la-bicyclette.com

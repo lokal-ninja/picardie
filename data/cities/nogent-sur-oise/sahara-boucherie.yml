@@ -4,8 +4,8 @@ latitude: 49.27352
 longitude: 2.46598
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Place des Trois Rois"
-housenumber: 14
-phone: "+33 9 80 67 23 72"
-opening_hours: "Sa-Th 09:00-13:30,15:00-20:00; Fr 09:00-13:00,14:30-20:00"
+street: Place des Trois Rois
+housenumber: "14"
+phone: +33 9 80 67 23 72
+opening_hours: Sa-Th 09:00-13:30,15:00-20:00; Fr 09:00-13:00,14:30-20:00
 website: ""

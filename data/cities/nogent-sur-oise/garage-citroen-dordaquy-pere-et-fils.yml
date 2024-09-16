@@ -1,11 +1,11 @@
 id: 80807711
-type: way
+type: node
 latitude: 49.267
 longitude: 2.48789
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Rue Charles Somasco"
-housenumber: 585
-phone: "+33 3 44 55 39 73"
-opening_hours: "Mo-Th 08:00-12:00,14:00-18:30; Fr 08:00-12:00,14:00-17:30; Sa,Su off"
+street: Rue Charles Somasco
+housenumber: "585"
+phone: +33 3 44 55 39 73
+opening_hours: Mo-Th 08:00-12:00,14:00-18:30; Fr 08:00-12:00,14:00-17:30; Sa,Su off
 website: ""

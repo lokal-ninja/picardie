@@ -4,8 +4,9 @@ latitude: 49.57546
 longitude: 2.99816
 postcode: "60400"
 city: Noyon
-street: "Rue du Moulin d'Andeux"
-housenumber: 70
-phone: "+33 3 44 75 24 93"
-opening_hours: "Mo 10:00-12:30,13:30-18:30; Tu-Fr 09:00-12:30,13:30-18:30; Sa 09:00-14:00; Su off"
-website: "https://www.midas.fr/"
+street: Rue du Moulin d'Andeux
+housenumber: "70"
+phone: +33 3 44 75 24 93
+opening_hours: Mo 10:00-12:30,13:30-18:30; Tu-Fr 09:00-12:30,13:30-18:30; Sa 09:00-14:00;
+    Su off
+website: https://www.midas.fr/

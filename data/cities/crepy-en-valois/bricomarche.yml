@@ -1,11 +1,11 @@
 id: 92233595
-type: way
+type: node
 latitude: 49.22409
 longitude: 2.90508
 postcode: "60800"
 city: Crépy-en-Valois
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-19:00"
-website: "https://www.bricomarche.com/magasin/crepy-en-valois/20346"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-19:00
+website: https://www.bricomarche.com/magasin/crepy-en-valois/20346

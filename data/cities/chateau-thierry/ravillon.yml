@@ -4,8 +4,8 @@ latitude: 49.03386
 longitude: 3.39251
 postcode: "02400"
 city: Château-Thierry
-street: "Rue de la Plaine"
-housenumber: 1
+street: Rue de la Plaine
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 08:00-12:00, 14:00-18:00; Tu-Fr 08:00-12:00, 14:00-17:45"
+opening_hours: Mo 08:00-12:00, 14:00-18:00; Tu-Fr 08:00-12:00, 14:00-17:45
 website: ""

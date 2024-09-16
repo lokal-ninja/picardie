@@ -1,11 +1,11 @@
 id: 331507145
-type: way
+type: node
 latitude: 50.06674
 longitude: 1.38569
 postcode: "80350"
 city: Mers-les-Bains
-street: "Rue Marcel Holleville"
-housenumber: 21
+street: Rue Marcel Holleville
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Su 10:00-12:00,15:00-17:00"
+opening_hours: Mo-Su 10:00-12:00,15:00-17:00
 website: ""

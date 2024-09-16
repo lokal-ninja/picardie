@@ -1,11 +1,11 @@
 id: 93328544
-type: way
+type: node
 latitude: 49.25199
 longitude: 2.42984
 postcode: "60160"
 city: Thiverny
-street: "Rue André Ginisti"
-housenumber: 19
-phone: "+33 3 44 28 55 55"
-opening_hours: "Mo-Sa 08:45-20:00; Su 09:00-12:45"
+street: Rue André Ginisti
+housenumber: "19"
+phone: +33 3 44 28 55 55
+opening_hours: Mo-Sa 08:45-20:00; Su 09:00-12:45
 website: ""

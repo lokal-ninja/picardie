@@ -4,8 +4,9 @@ latitude: 49.25654
 longitude: 2.43509
 postcode: "60160"
 city: Montataire
-street: "Place Auguste Génie"
+street: Place Auguste Génie
 housenumber: 1 bis
-phone: "+33 3 44 25 48 88"
-opening_hours: "Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-12:00,14:00-20:00; Sa 09:00-18:00; Mo,Su off"
-website: "https://www.planity.com/bry-hair-60160-montataire"
+phone: +33 3 44 25 48 88
+opening_hours: Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-12:00,14:00-20:00; Sa 09:00-18:00;
+    Mo,Su off
+website: https://www.planity.com/bry-hair-60160-montataire

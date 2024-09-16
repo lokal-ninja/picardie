@@ -4,8 +4,8 @@ latitude: 49.88664
 longitude: 2.3033
 postcode: "80000"
 city: Amiens
-street: "Rue Saint-Fuscien"
-housenumber: 6
-phone: "+33 3 22 41 48 94"
-opening_hours: "Mo-Sa 07:00-22:00, Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/city-amiens-saint-fuscien"
+street: Rue Saint-Fuscien
+housenumber: "6"
+phone: +33 3 22 41 48 94
+opening_hours: Mo-Sa 07:00-22:00, Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/city-amiens-saint-fuscien

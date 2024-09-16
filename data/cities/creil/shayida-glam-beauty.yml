@@ -4,8 +4,8 @@ latitude: 49.26402
 longitude: 2.47097
 postcode: "60100"
 city: Creil
-street: "Rue Jules Juillet"
-housenumber: 35
-phone: "+33 7 58 91 02 91"
-opening_hours: "Mo-Th,Sa 10:30-19:30; Fr 09:30-17:30; Su off"
+street: Rue Jules Juillet
+housenumber: "35"
+phone: +33 7 58 91 02 91
+opening_hours: Mo-Th,Sa 10:30-19:30; Fr 09:30-17:30; Su off
 website: ""

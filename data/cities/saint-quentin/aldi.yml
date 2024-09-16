@@ -1,11 +1,11 @@
 id: 130236544
-type: way
+type: node
 latitude: 49.83633
 longitude: 3.26886
 postcode: "02100"
 city: Saint-Quentin
-street: "Rue de Paris"
-housenumber: 185
+street: Rue de Paris
+housenumber: "185"
 phone: ""
 opening_hours: ""
 website: ""

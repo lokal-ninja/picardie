@@ -5,7 +5,7 @@ longitude: 3.39262
 postcode: "02400"
 city: Château-Thierry
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:30-19:00"
-website: "https://www.e-brico.fr/"
+opening_hours: Mo-Sa 07:30-19:00
+website: https://www.e-brico.fr/

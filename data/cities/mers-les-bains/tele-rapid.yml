@@ -4,8 +4,8 @@ latitude: 50.06571
 longitude: 1.38369
 postcode: "80350"
 city: Mers-les-Bains
-street: "Avenue du Maréchal Foch"
-housenumber: 9
-phone: "+33 2 35 86 10 67"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00; PH off"
+street: Avenue du Maréchal Foch
+housenumber: "9"
+phone: +33 2 35 86 10 67
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00; PH off
 website: ""

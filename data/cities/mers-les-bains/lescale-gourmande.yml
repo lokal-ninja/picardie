@@ -1,11 +1,11 @@
 id: 331508018
-type: way
+type: node
 latitude: 50.06573
 longitude: 1.3835
 postcode: "80350"
 city: Mers-les-Bains
-street: "Avenue du Maréchal Foch"
-housenumber: 13
+street: Avenue du Maréchal Foch
+housenumber: "13"
 phone: ""
-opening_hours: "We-Sa 10:00-19:00; Su 10:00-18:00"
+opening_hours: We-Sa 10:00-19:00; Su 10:00-18:00
 website: ""

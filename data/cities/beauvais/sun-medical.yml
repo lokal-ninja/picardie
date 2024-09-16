@@ -4,8 +4,8 @@ latitude: 49.43258
 longitude: 2.08459
 postcode: "60000"
 city: Beauvais
-street: "Rue Gambetta"
-housenumber: 4
-phone: "+33 3 44 45 91 29"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
-website: "https://www.domoisemedical.fr/contact-8.html"
+street: Rue Gambetta
+housenumber: "4"
+phone: +33 3 44 45 91 29
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
+website: https://www.domoisemedical.fr/contact-8.html

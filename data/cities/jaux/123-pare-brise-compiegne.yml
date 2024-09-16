@@ -4,8 +4,9 @@ latitude: 49.40393
 longitude: 2.77713
 postcode: "60880"
 city: Jaux
-street: "Avenue Jean Moulin"
-housenumber: 123
-phone: "+33 3 72 27 20 95"
-opening_hours: "Mo 08:30-12:30,14:00-18:00; Tu,We 08:30-12:00,14:00-18:00; Th-Fr 08:30-12:30,14:00-18:00; Sa 08:30-12:30,14:00-17:00"
-website: "https://www.123parebrise.fr/centre-compiegne/"
+street: Avenue Jean Moulin
+housenumber: "123"
+phone: +33 3 72 27 20 95
+opening_hours: Mo 08:30-12:30,14:00-18:00; Tu,We 08:30-12:00,14:00-18:00; Th-Fr 08:30-12:30,14:00-18:00;
+    Sa 08:30-12:30,14:00-17:00
+website: https://www.123parebrise.fr/centre-compiegne/

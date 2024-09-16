@@ -1,11 +1,11 @@
 id: 752852719
-type: way
+type: node
 latitude: 49.26519
 longitude: 2.48964
 postcode: "60100"
 city: Creil
-street: "Avenue du Tremblay"
-housenumber: 1206
-phone: "+33 3 44 66 20 00"
-opening_hours: "Mo-Sa 09:00-12:00, Tu-Fr 14:00-18:00"
-website: "https://www.carrebox.fr/garde-meuble-creil.php"
+street: Avenue du Tremblay
+housenumber: "1206"
+phone: +33 3 44 66 20 00
+opening_hours: Mo-Sa 09:00-12:00, Tu-Fr 14:00-18:00
+website: https://www.carrebox.fr/garde-meuble-creil.php

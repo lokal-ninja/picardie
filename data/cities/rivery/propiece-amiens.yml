@@ -4,8 +4,8 @@ latitude: 49.91492
 longitude: 2.33723
 postcode: "80136"
 city: Rivery
-street: "Rue Paul-Émile Victor"
-housenumber: 5
-phone: "+33 3 22 70 26 26"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "http://www.propiece.fr/"
+street: Rue Paul-Émile Victor
+housenumber: "5"
+phone: +33 3 22 70 26 26
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: http://www.propiece.fr/

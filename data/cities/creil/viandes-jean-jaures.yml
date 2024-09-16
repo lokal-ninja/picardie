@@ -4,8 +4,8 @@ latitude: 49.26205
 longitude: 2.47083
 postcode: "60100"
 city: Creil
-street: "Rue Jean Jaurès"
-housenumber: 15
-phone: "+33 3 44 55 03 53"
-opening_hours: "Mo off; Tu 08:30-13:00,15:00-19:30; We-Sa 08:30-19:30; Su 09:00-12:30"
+street: Rue Jean Jaurès
+housenumber: "15"
+phone: +33 3 44 55 03 53
+opening_hours: Mo off; Tu 08:30-13:00,15:00-19:30; We-Sa 08:30-19:30; Su 09:00-12:30
 website: ""

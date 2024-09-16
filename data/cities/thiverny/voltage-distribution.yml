@@ -4,8 +4,8 @@ latitude: 49.24511
 longitude: 2.44023
 postcode: "60160"
 city: Thiverny
-street: "Rue Jules Uhry"
-housenumber: 31
-phone: "+33 3 60 02 48 89"
-opening_hours: "Mo-Fr 08:30-12:00,13:00-17:30; Sa,Su off"
-website: "https://voltage-distribution.fr/"
+street: Rue Jules Uhry
+housenumber: "31"
+phone: +33 3 60 02 48 89
+opening_hours: Mo-Fr 08:30-12:00,13:00-17:30; Sa,Su off
+website: https://voltage-distribution.fr/

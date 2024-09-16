@@ -4,8 +4,8 @@ latitude: 49.85647
 longitude: 2.53325
 postcode: "80800"
 city: Villers-Bretonneux
-street: "Chaussée du Val de Somme"
-housenumber: 
-phone: "+33 3 22 89 40 28"
-opening_hours: "Mo-Th 09:00-12:00,13:00-18:00; Fr-Sa 09:00-12:00,13:00-17:00"
-website: "https://www.resotainer.fr/agence-amiens"
+street: Chaussée du Val de Somme
+housenumber: ""
+phone: +33 3 22 89 40 28
+opening_hours: Mo-Th 09:00-12:00,13:00-18:00; Fr-Sa 09:00-12:00,13:00-17:00
+website: https://www.resotainer.fr/agence-amiens

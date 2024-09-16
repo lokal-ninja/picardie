@@ -4,8 +4,8 @@ latitude: 49.25445
 longitude: 3.09123
 postcode: "02600"
 city: Villers-Cotterêts
-street: "Rue du Général Mangin"
-housenumber: 5
-phone: "+33 3 23 96 03 85"
-opening_hours: "Mo-Tu,Th-Sa 06:30-19:00; Su 06:30-16:00; We off"
+street: Rue du Général Mangin
+housenumber: "5"
+phone: +33 3 23 96 03 85
+opening_hours: Mo-Tu,Th-Sa 06:30-19:00; Su 06:30-16:00; We off
 website: ""

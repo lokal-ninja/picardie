@@ -4,8 +4,8 @@ latitude: 49.43272
 longitude: 2.08439
 postcode: "60000"
 city: Beauvais
-street: "Rue Gambetta"
-housenumber: 5
-phone: "+33 3 44 45 06 89"
-opening_hours: "Tu-Sa 09:00-18:30"
-website: "http://lesalonbeauvais.fr/"
+street: Rue Gambetta
+housenumber: "5"
+phone: +33 3 44 45 06 89
+opening_hours: Tu-Sa 09:00-18:30
+website: http://lesalonbeauvais.fr/

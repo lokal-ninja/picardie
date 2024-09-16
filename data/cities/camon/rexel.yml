@@ -4,8 +4,8 @@ latitude: 49.90097
 longitude: 2.35435
 postcode: "80450"
 city: Camon
-street: "Rue Stéphane Hessel"
-housenumber: 287
-phone: "+33 3 22 66 45 00"
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:00; Fr 07:30-12:00,13:30-16:30"
-website: "https://www.rexel.fr/frx"
+street: Rue Stéphane Hessel
+housenumber: "287"
+phone: +33 3 22 66 45 00
+opening_hours: Mo-Th 07:30-12:00,13:30-17:00; Fr 07:30-12:00,13:30-16:30
+website: https://www.rexel.fr/frx

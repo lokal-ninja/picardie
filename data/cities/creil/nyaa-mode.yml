@@ -4,8 +4,8 @@ latitude: 49.25086
 longitude: 2.47655
 postcode: "60100"
 city: Creil
-street: "Route de Chantilly"
-housenumber: 2
+street: Route de Chantilly
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Su 10:00-19:00"
+opening_hours: Mo 14:00-19:00; Tu-Su 10:00-19:00
 website: ""

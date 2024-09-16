@@ -1,11 +1,11 @@
 id: 275521672
-type: way
+type: node
 latitude: 49.63875
 longitude: 2.28436
 postcode: "60120"
 city: Breteuil
-street: "Rue d'Amiens"
-housenumber: 
-phone: "+33 3 44 15 47 48"
-opening_hours: "Tu-Fr 08:00-12:00,14:00-18:00; Sa 8:00-12:00,13:30-16:00"
-website: "https://centre.etape-auto.fr/auto/fr/breteuil"
+street: Rue d'Amiens
+housenumber: ""
+phone: +33 3 44 15 47 48
+opening_hours: Tu-Fr 08:00-12:00,14:00-18:00; Sa 8:00-12:00,13:30-16:00
+website: https://centre.etape-auto.fr/auto/fr/breteuil

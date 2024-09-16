@@ -4,8 +4,8 @@ latitude: 49.91516
 longitude: 2.33562
 postcode: "80136"
 city: Rivery
-street: "Rue Hélène Boucher"
-housenumber: 4
-phone: "+33 3 22 72 48 78"
-opening_hours: "Mo 14:00-18:00; Tu-Sa 08:00-12:00,14:00-18:00"
-website: "https://reseau.precisium.fr/88-auto-services-80"
+street: Rue Hélène Boucher
+housenumber: "4"
+phone: +33 3 22 72 48 78
+opening_hours: Mo 14:00-18:00; Tu-Sa 08:00-12:00,14:00-18:00
+website: https://reseau.precisium.fr/88-auto-services-80

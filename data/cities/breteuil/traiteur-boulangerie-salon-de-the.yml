@@ -4,8 +4,8 @@ latitude: 49.6329
 longitude: 2.29498
 postcode: "60120"
 city: Breteuil
-street: "Rue de la République"
-housenumber: 15
-phone: "+33 3 44 07 00 70"
-opening_hours: "Tu-Su 06:00-20:00"
-website: "http://www.jeromemachutraiteur.fr/"
+street: Rue de la République
+housenumber: "15"
+phone: +33 3 44 07 00 70
+opening_hours: Tu-Su 06:00-20:00
+website: http://www.jeromemachutraiteur.fr/

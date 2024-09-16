@@ -1,11 +1,11 @@
 id: 92232903
-type: way
+type: node
 latitude: 49.23181
 longitude: 2.8863
 postcode: "60800"
 city: Crépy-en-Valois
-street: "Avenue Paul Pauchet"
-housenumber: 2
-phone: "+33 3 44 94 11 07"
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:00-12:00,13:30-17:00; Su off"
-website: "https://www.midas.fr"
+street: Avenue Paul Pauchet
+housenumber: "2"
+phone: +33 3 44 94 11 07
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:00-12:00,13:30-17:00; Su off
+website: https://www.midas.fr

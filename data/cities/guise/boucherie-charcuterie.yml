@@ -1,11 +1,11 @@
 id: 128312008
-type: way
+type: node
 latitude: 49.89846
 longitude: 3.62485
 postcode: "02120"
 city: Guise
-street: "Rue Camille Desmoulins"
-housenumber: 4
+street: Rue Camille Desmoulins
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

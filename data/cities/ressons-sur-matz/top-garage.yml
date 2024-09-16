@@ -1,11 +1,11 @@
 id: 147769585
-type: way
+type: node
 latitude: 49.53789
 longitude: 2.74229
 postcode: "90490"
 city: Ressons-sur-Matz
-street: "Rue de la Gare"
-housenumber: 9
+street: Rue de la Gare
+housenumber: "9"
 phone: "0344425031"
-opening_hours: "LU-VE:8H30-12H00 13H30-18H00. SA:8H30-12H00"
-website: "https://garage.top-garage.fr/fr/france-FR/CUST-IN0062/garage-du-matz/details"
+opening_hours: LU-VE:8H30-12H00 13H30-18H00. SA:8H30-12H00
+website: https://garage.top-garage.fr/fr/france-FR/CUST-IN0062/garage-du-matz/details

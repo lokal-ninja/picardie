@@ -1,11 +1,11 @@
 id: 95703200
-type: way
+type: node
 latitude: 49.34873
 longitude: 2.42779
 postcode: "60290"
 city: Neuilly-sous-Clermont
-street: "Rue Pierre Bray"
-housenumber: 
-phone: "+33 3 44 28 15 88"
-opening_hours: "Mo-Sa 09:00-19:30; Su off"
-website: "https://www.nozarrivages.com/magasin/neuilly-sous-clermont/"
+street: Rue Pierre Bray
+housenumber: ""
+phone: +33 3 44 28 15 88
+opening_hours: Mo-Sa 09:00-19:30; Su off
+website: https://www.nozarrivages.com/magasin/neuilly-sous-clermont/

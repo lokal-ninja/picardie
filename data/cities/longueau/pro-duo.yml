@@ -4,8 +4,8 @@ latitude: 49.8694
 longitude: 2.36968
 postcode: "80330"
 city: Longueau
-street: "Rue Antoine-Augustin Parmentier"
-housenumber: 6
-phone: "+33 3 22 69 22 99"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-18:00"
-website: "https://www.pro-duo.fr/magasins/recherche?storequery=Amiens"
+street: Rue Antoine-Augustin Parmentier
+housenumber: "6"
+phone: +33 3 22 69 22 99
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-18:00
+website: https://www.pro-duo.fr/magasins/recherche?storequery=Amiens

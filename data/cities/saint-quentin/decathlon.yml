@@ -1,11 +1,11 @@
 id: 130231755
-type: way
+type: node
 latitude: 49.85626
 longitude: 3.25066
 postcode: "02100"
 city: Saint-Quentin
-street: "Zone Commerciale AUCHAN"
-housenumber: 
+street: Zone Commerciale AUCHAN
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_222"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_222

@@ -4,8 +4,8 @@ latitude: 49.64114
 longitude: 2.28018
 postcode: "60120"
 city: Breteuil
-street: "Rue d'Amiens"
-housenumber: 88
-phone: "+33 344134319"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00"
-website: "https://pcadom.fr/"
+street: Rue d'Amiens
+housenumber: "88"
+phone: +33 344134319
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00
+website: https://pcadom.fr/

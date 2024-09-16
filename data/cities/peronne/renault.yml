@@ -1,11 +1,11 @@
 id: 193012376
-type: way
+type: node
 latitude: 49.92993
 longitude: 2.934
 postcode: "80200"
 city: Péronne
-street: "Place du Commandant Louis Daudré"
-housenumber: 26
+street: Place du Commandant Louis Daudré
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

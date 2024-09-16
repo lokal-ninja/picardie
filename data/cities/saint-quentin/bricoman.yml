@@ -1,11 +1,11 @@
 id: 321726595
-type: way
+type: node
 latitude: 49.8579
 longitude: 3.24633
 postcode: "02100"
 city: Saint-Quentin
-street: "RN 29"
-housenumber: 
+street: RN 29
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

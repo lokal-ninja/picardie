@@ -1,11 +1,11 @@
 id: 275521636
-type: way
+type: node
 latitude: 49.64073
 longitude: 2.27926
 postcode: "60120"
 city: Breteuil
-street: "Rue d'Amiens"
-housenumber: 86
-phone: "+33 3 44 13 12 00"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.facebook.com/Garage.Richard.Breteuil/"
+street: Rue d'Amiens
+housenumber: "86"
+phone: +33 3 44 13 12 00
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.facebook.com/Garage.Richard.Breteuil/

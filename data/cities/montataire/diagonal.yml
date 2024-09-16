@@ -4,8 +4,8 @@ latitude: 49.26436
 longitude: 2.4326
 postcode: "60160"
 city: Montataire
-street: "Avenue Anatole France"
-housenumber: 84
-phone: "+33 3 44 53 52 20"
-opening_hours: "Mo-Su 07:00-20:00"
+street: Avenue Anatole France
+housenumber: "84"
+phone: +33 3 44 53 52 20
+opening_hours: Mo-Su 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 80662535
-type: way
+type: node
 latitude: 49.25441
 longitude: 2.47778
 postcode: "60100"
 city: Creil
-street: "Rue Léon Blum"
+street: Rue Léon Blum
 housenumber: 42 bis
-phone: "+33 6 31 54 38 54"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-17:30; Su off"
+phone: +33 6 31 54 38 54
+opening_hours: Mo-Sa 09:00-12:00,14:00-17:30; Su off
 website: ""

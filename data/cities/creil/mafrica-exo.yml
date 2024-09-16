@@ -4,8 +4,8 @@ latitude: 49.26439
 longitude: 2.47389
 postcode: "60100"
 city: Creil
-street: "Rue Gambetta"
-housenumber: 58
-phone: "+33 3 75 29 77 30"
-opening_hours: "Mo,Su 11:30-22:30; Tu-Sa 10:00-22:30"
+street: Rue Gambetta
+housenumber: "58"
+phone: +33 3 75 29 77 30
+opening_hours: Mo,Su 11:30-22:30; Tu-Sa 10:00-22:30
 website: ""

@@ -4,8 +4,9 @@ latitude: 49.236
 longitude: 2.88769
 postcode: "60800"
 city: Crépy-en-Valois
-street: "Rue Nationale"
-housenumber: 42
+street: Rue Nationale
+housenumber: "42"
 phone: ""
-opening_hours: "Tu 09:00-12:00, 14:00-19:00; We-Fr 09:30-12:00, 14:00-19:00; Sa 09:00-12:30, 14:00-19:00"
-website: "https://www.juliendorcel.com/bijouterie/crepy-en-valois-1324M"
+opening_hours: Tu 09:00-12:00, 14:00-19:00; We-Fr 09:30-12:00, 14:00-19:00; Sa 09:00-12:30,
+    14:00-19:00
+website: https://www.juliendorcel.com/bijouterie/crepy-en-valois-1324M

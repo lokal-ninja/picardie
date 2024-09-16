@@ -1,11 +1,11 @@
 id: 195086609
-type: way
+type: node
 latitude: 50.00797
 longitude: 2.66655
 postcode: "80300"
 city: Albert
-street: "Avenue du Général Faidherbe"
-housenumber: 176
+street: Avenue du Général Faidherbe
+housenumber: "176"
 phone: ""
 opening_hours: ""
 website: ""

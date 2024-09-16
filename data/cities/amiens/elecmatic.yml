@@ -4,8 +4,8 @@ latitude: 49.92987
 longitude: 2.28586
 postcode: "80080"
 city: Amiens
-street: "Avenue Roger Dumoulin"
-housenumber: 25
-phone: "+33 322542670"
-opening_hours: "Mo-Th 08:30-17:30; Fr 08:30-16:40"
-website: "https://www.etn.fr/"
+street: Avenue Roger Dumoulin
+housenumber: "25"
+phone: +33 322542670
+opening_hours: Mo-Th 08:30-17:30; Fr 08:30-16:40
+website: https://www.etn.fr/

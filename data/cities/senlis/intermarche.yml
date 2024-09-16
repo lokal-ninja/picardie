@@ -1,11 +1,11 @@
 id: 142257398
-type: way
+type: node
 latitude: 49.22085
 longitude: 2.59224
 postcode: "60300"
 city: Senlis
-street: "Rue de Villevert"
-housenumber: 
+street: Rue de Villevert
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:15"
-website: "https://www.intermarche.com/magasins/01736/senlis-60300/infos-pratiques"
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:15
+website: https://www.intermarche.com/magasins/01736/senlis-60300/infos-pratiques

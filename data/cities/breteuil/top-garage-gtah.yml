@@ -4,8 +4,8 @@ latitude: 49.63072
 longitude: 2.29241
 postcode: "60120"
 city: Breteuil
-street: "Avenue du Général Frère"
-housenumber: 9
-phone: "+33 3 44 07 00 18"
-opening_hours: "Mo-Sa 08:00-12:00,14:00-18:00"
+street: Avenue du Général Frère
+housenumber: "9"
+phone: +33 3 44 07 00 18
+opening_hours: Mo-Sa 08:00-12:00,14:00-18:00
 website: ""

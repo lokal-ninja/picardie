@@ -1,11 +1,11 @@
 id: 125228918
-type: way
+type: node
 latitude: 49.82783
 longitude: 3.27539
 postcode: "02430"
 city: Gauchy
-street: "Rue Jules Vercruysse"
-housenumber: 17
+street: Rue Jules Vercruysse
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

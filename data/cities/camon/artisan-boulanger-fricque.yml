@@ -4,8 +4,8 @@ latitude: 49.88598
 longitude: 2.34651
 postcode: "80450"
 city: Camon
-street: "Rue Jean Jaurès"
-housenumber: 29
-phone: "+33 3 22 45 46 30"
-opening_hours: "Mo-Sa 06:30-13:30,15:00-19:30; Su 06:30-13:30,15:30-19:30; We off"
+street: Rue Jean Jaurès
+housenumber: "29"
+phone: +33 3 22 45 46 30
+opening_hours: Mo-Sa 06:30-13:30,15:00-19:30; Su 06:30-13:30,15:30-19:30; We off
 website: ""

@@ -1,11 +1,11 @@
 id: 142258603
-type: way
+type: node
 latitude: 49.20571
 longitude: 2.58231
 postcode: "60300"
 city: Senlis
-street: "Rue de Beauvais"
-housenumber: 12
-phone: "+33 3 44 55 32 14"
-opening_hours: "Mo-We,Fr-Sa 09:30-18:00; Th,Su off"
-website: "https://www.toilettage-senlis.com/"
+street: Rue de Beauvais
+housenumber: "12"
+phone: +33 3 44 55 32 14
+opening_hours: Mo-We,Fr-Sa 09:30-18:00; Th,Su off
+website: https://www.toilettage-senlis.com/

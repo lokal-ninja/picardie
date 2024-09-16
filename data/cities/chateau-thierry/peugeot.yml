@@ -1,11 +1,11 @@
 id: 897305073
-type: way
+type: node
 latitude: 49.06085
 longitude: 3.39592
 postcode: "02400"
 city: Château-Thierry
-street: "Avenue de Soissons"
+street: Avenue de Soissons
 housenumber: 137 bis
-phone: "+33 3 23 83 87 90"
+phone: +33 3 23 83 87 90
 opening_hours: ""
-website: "https://concessions.peugeot.fr/chateau-th"
+website: https://concessions.peugeot.fr/chateau-th

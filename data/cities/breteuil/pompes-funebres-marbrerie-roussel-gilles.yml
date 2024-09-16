@@ -1,11 +1,11 @@
 id: 275521392
-type: way
+type: node
 latitude: 49.63646
 longitude: 2.2843
 postcode: "60120"
 city: Breteuil
-street: "Rue d'Amiens"
-housenumber: 89
-phone: "+33 344075944"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://pompes-funebres-roussel-gilles.com/"
+street: Rue d'Amiens
+housenumber: "89"
+phone: +33 344075944
+opening_hours: Mo-Sa 09:00-18:00
+website: https://pompes-funebres-roussel-gilles.com/

@@ -1,11 +1,11 @@
 id: 183578376
-type: way
+type: node
 latitude: 49.22075
 longitude: 2.59296
 postcode: "60300"
 city: Chamant
 street: ""
-housenumber: 
-phone: "+33 3 44 53 64 83"
-opening_hours: "Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su 07:00-22:00"
-website: "https://store.totalenergies.fr/en_EN/NF007672"
+housenumber: ""
+phone: +33 3 44 53 64 83
+opening_hours: Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su 07:00-22:00
+website: https://store.totalenergies.fr/en_EN/NF007672

@@ -4,8 +4,8 @@ latitude: 49.8929
 longitude: 2.2978
 postcode: "80000"
 city: Amiens
-street: "Rue des Trois Cailloux"
-housenumber: 2
-phone: "+33 3 22 48 29 10"
-opening_hours: "Mo 10:30-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.undiz.com/fr/2864_amiens_3_cailloux.html"
+street: Rue des Trois Cailloux
+housenumber: "2"
+phone: +33 3 22 48 29 10
+opening_hours: Mo 10:30-19:00; Tu-Sa 10:00-19:00
+website: https://www.undiz.com/fr/2864_amiens_3_cailloux.html

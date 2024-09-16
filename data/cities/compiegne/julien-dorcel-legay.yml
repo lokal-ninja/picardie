@@ -4,8 +4,8 @@ latitude: 49.41812
 longitude: 2.82603
 postcode: "60200"
 city: Compiègne
-street: "Rue des Pâtissiers"
-housenumber: 16
+street: Rue des Pâtissiers
+housenumber: "16"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:30, 14:00-19:00; Sa 09:15-12:30, 14:00-19:00"
-website: "https://www.juliendorcel.com/bijouterie/compiegne-1665M"
+opening_hours: Tu-Fr 09:30-12:30, 14:00-19:00; Sa 09:15-12:30, 14:00-19:00
+website: https://www.juliendorcel.com/bijouterie/compiegne-1665M

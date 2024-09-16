@@ -1,11 +1,11 @@
 id: 130234777
-type: way
+type: node
 latitude: 49.84783
 longitude: 3.30209
 postcode: "02100"
 city: Saint-Quentin
-street: "Rue de Mulhouse"
-housenumber: 153
+street: Rue de Mulhouse
+housenumber: "153"
 phone: ""
 opening_hours: ""
 website: ""

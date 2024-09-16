@@ -4,8 +4,8 @@ latitude: 49.15475
 longitude: 2.24753
 postcode: "60230"
 city: Chambly
-street: "Rue leonard de vinci"
-housenumber: 
+street: Rue leonard de vinci
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-18:00"
-website: "https://www.auto-cea.com/"
+opening_hours: Mo-Sa 09:00-12:00, 14:00-18:00
+website: https://www.auto-cea.com/

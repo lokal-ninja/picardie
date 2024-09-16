@@ -4,8 +4,8 @@ latitude: 50.00307
 longitude: 2.64828
 postcode: "80300"
 city: Albert
-street: "Rue Jeanne d'Harcourt"
-housenumber: 6
-phone: "+33 3 22 75 60 35"
-opening_hours: "Tu-Th 09:00-18:30; Fr 08:30-18:30; Sa 08:30-17:00; Su,Mo off"
+street: Rue Jeanne d'Harcourt
+housenumber: "6"
+phone: +33 3 22 75 60 35
+opening_hours: Tu-Th 09:00-18:30; Fr 08:30-18:30; Sa 08:30-17:00; Su,Mo off
 website: ""

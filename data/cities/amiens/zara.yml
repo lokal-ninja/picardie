@@ -4,8 +4,8 @@ latitude: 49.89196
 longitude: 2.30072
 postcode: "80000"
 city: Amiens
-street: "Rue des Trois Cailloux"
-housenumber: 42
+street: Rue des Trois Cailloux
+housenumber: "42"
 phone: "0801841391"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.zara.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.zara.com/

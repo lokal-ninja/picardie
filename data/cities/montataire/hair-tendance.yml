@@ -4,8 +4,9 @@ latitude: 49.25644
 longitude: 2.43407
 postcode: "60160"
 city: Montataire
-street: "Place Auguste Génie"
-housenumber: 2
-phone: "+33 3 44 28 91 45"
-opening_hours: "Tu,Th,Fr 09:00-12:00,14:00-19:00; We 09:00-12:00,14:00-18:00; Sa 09:00-18:00; Mo,Su off; PH off"
+street: Place Auguste Génie
+housenumber: "2"
+phone: +33 3 44 28 91 45
+opening_hours: Tu,Th,Fr 09:00-12:00,14:00-19:00; We 09:00-12:00,14:00-18:00; Sa 09:00-18:00;
+    Mo,Su off; PH off
 website: ""

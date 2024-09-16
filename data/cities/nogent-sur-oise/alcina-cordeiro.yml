@@ -4,8 +4,9 @@ latitude: 49.27516
 longitude: 2.46833
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Rue du Général de Gaulle"
-housenumber: 54
-phone: "+33 3 44 71 59 18"
-opening_hours: "Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:30-18:00; Mo,Su off"
+street: Rue du Général de Gaulle
+housenumber: "54"
+phone: +33 3 44 71 59 18
+opening_hours: Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:30-18:00; Mo,Su
+    off
 website: ""

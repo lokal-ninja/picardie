@@ -4,8 +4,8 @@ latitude: 49.62873
 longitude: 2.31037
 postcode: "60120"
 city: Breteuil
-street: "Rue de la Petite Chaussée"
-housenumber: 2
-phone: "+33 3 44 80 69 80"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:00"
-website: "https://www.bjauto.fr/"
+street: Rue de la Petite Chaussée
+housenumber: "2"
+phone: +33 3 44 80 69 80
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:00
+website: https://www.bjauto.fr/

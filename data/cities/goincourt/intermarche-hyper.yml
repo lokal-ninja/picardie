@@ -1,11 +1,11 @@
 id: 116418117
-type: way
+type: node
 latitude: 49.43349
 longitude: 2.04805
 postcode: "60000"
 city: Goincourt
-street: "Rue Juliette Névouet"
-housenumber: 42
-phone: "+33 3 44 11 47 00"
-opening_hours: "Mo-Th,Sa 08:30-19:45; Fr 08:30-20:15; Su off"
-website: "https://www.intermarche.com/"
+street: Rue Juliette Névouet
+housenumber: "42"
+phone: +33 3 44 11 47 00
+opening_hours: Mo-Th,Sa 08:30-19:45; Fr 08:30-20:15; Su off
+website: https://www.intermarche.com/

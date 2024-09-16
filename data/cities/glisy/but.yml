@@ -4,8 +4,8 @@ latitude: 49.86469
 longitude: 2.37987
 postcode: "80440"
 city: Glisy
-street: "Avenue Phileas Fogg"
-housenumber: 17
+street: Avenue Phileas Fogg
+housenumber: "17"
 phone: "0826252525"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-19:30"
-website: "https://www.but.fr/magasins/003/But-Amiens.html"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-19:30
+website: https://www.but.fr/magasins/003/But-Amiens.html

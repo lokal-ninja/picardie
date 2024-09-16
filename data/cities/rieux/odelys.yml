@@ -4,8 +4,8 @@ latitude: 49.30014
 longitude: 2.51645
 postcode: "60870"
 city: Rieux
-street: "Rue Jean Mauguet"
-housenumber: 4
-phone: "+33 3 44 53 29 51"
-opening_hours: "Mo off; Tu-We,Fr-Sa 09:00-13:00,16:00-19:30; Th off; Su 09:00-13:00"
+street: Rue Jean Mauguet
+housenumber: "4"
+phone: +33 3 44 53 29 51
+opening_hours: Mo off; Tu-We,Fr-Sa 09:00-13:00,16:00-19:30; Th off; Su 09:00-13:00
 website: ""

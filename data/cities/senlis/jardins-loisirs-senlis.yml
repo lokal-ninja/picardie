@@ -1,11 +1,11 @@
 id: 142254352
-type: way
+type: node
 latitude: 49.22283
 longitude: 2.59001
 postcode: "60300"
 city: Senlis
-street: "Avenue du Poteau"
-housenumber: 2007
-phone: "+33 3 44 54 69 68"
-opening_hours: "Tu-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00,14:00-18:00; Mo,Su off"
-website: "https://www.jardins-loisirs.com/content/senlis.html"
+street: Avenue du Poteau
+housenumber: "2007"
+phone: +33 3 44 54 69 68
+opening_hours: Tu-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00,14:00-18:00; Mo,Su off
+website: https://www.jardins-loisirs.com/content/senlis.html

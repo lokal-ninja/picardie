@@ -4,8 +4,8 @@ latitude: 49.89194
 longitude: 2.30147
 postcode: "80000"
 city: Amiens
-street: "Rue des Trois Cailloux"
-housenumber: 41
-phone: "+33 3 22 91 85 83"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.caroll.com/fr_fr/Details-Store/?StoreID=B729"
+street: Rue des Trois Cailloux
+housenumber: "41"
+phone: +33 3 22 91 85 83
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.caroll.com/fr_fr/Details-Store/?StoreID=B729

@@ -1,11 +1,11 @@
 id: 130638992
-type: way
+type: node
 latitude: 49.86132
 longitude: 3.25668
 postcode: "02100"
 city: Fayet
-street: "Rue des Marlettes"
-housenumber: 
+street: Rue des Marlettes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

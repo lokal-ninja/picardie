@@ -4,8 +4,8 @@ latitude: 49.0426
 longitude: 3.40388
 postcode: "02400"
 city: Château-Thierry
-street: "Rue Carnot"
-housenumber: 28
-phone: "+33 3 23 84 16 65"
+street: Rue Carnot
+housenumber: "28"
+phone: +33 3 23 84 16 65
 opening_hours: ""
-website: "https://www.auditionsante.fr/"
+website: https://www.auditionsante.fr/

@@ -1,11 +1,11 @@
 id: 130247163
-type: way
+type: node
 latitude: 49.85541
 longitude: 3.28245
 postcode: "02100"
 city: Saint-Quentin
-street: "Rue Mulot"
-housenumber: 65
-phone: "+33 3 23 08 27 01"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00"
+street: Rue Mulot
+housenumber: "65"
+phone: +33 3 23 08 27 01
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00
 website: ""

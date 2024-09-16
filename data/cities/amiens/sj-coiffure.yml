@@ -4,8 +4,8 @@ latitude: 49.92867
 longitude: 2.28653
 postcode: "80080"
 city: Amiens
-street: "Avenue Roger Dumoulin"
-housenumber: 19
-phone: "+33 322444456"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "http://www.allmo-services.fr/"
+street: Avenue Roger Dumoulin
+housenumber: "19"
+phone: +33 322444456
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: http://www.allmo-services.fr/

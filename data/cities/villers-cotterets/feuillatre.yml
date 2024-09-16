@@ -1,11 +1,11 @@
 id: 159441535
-type: way
+type: node
 latitude: 49.25398
 longitude: 3.09074
 postcode: "02600"
 city: Villers-Cotterêts
-street: "Rue de Verdun"
-housenumber: 13
+street: Rue de Verdun
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

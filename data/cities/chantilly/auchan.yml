@@ -4,8 +4,8 @@ latitude: 49.19395
 longitude: 2.46643
 postcode: "60500"
 city: Chantilly
-street: "Place Omer Vallon"
-housenumber: 5
+street: Place Omer Vallon
+housenumber: "5"
 phone: "+33344573011"
-opening_hours: "Mo-Sa 08:30-20:30; Su 08:30-12:30"
-website: "https://www.auchan.fr/magasins/supermarche-chantilly/sl-1192"
+opening_hours: Mo-Sa 08:30-20:30; Su 08:30-12:30
+website: https://www.auchan.fr/magasins/supermarche-chantilly/sl-1192

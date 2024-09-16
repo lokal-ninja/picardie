@@ -4,8 +4,8 @@ latitude: 49.42024
 longitude: 2.82737
 postcode: "60200"
 city: Compiègne
-street: "Rue Hippolyte Bottier"
-housenumber: 6
+street: Rue Hippolyte Bottier
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:00,14:00-18:00"
-website: "https://www.lerelaisducycliste.fr/"
+opening_hours: Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:00,14:00-18:00
+website: https://www.lerelaisducycliste.fr/

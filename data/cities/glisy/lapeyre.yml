@@ -4,8 +4,8 @@ latitude: 49.86615
 longitude: 2.37981
 postcode: "80440"
 city: Glisy
-street: "Avenue Phileas Fogg"
-housenumber: 9
-phone: "+33 3 22 38 09 99"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-19:00"
-website: "https://www.lapeyre.fr/tous-les-magasins/magasin-lapeyre-limousin-amiens"
+street: Avenue Phileas Fogg
+housenumber: "9"
+phone: +33 3 22 38 09 99
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-19:00
+website: https://www.lapeyre.fr/tous-les-magasins/magasin-lapeyre-limousin-amiens

@@ -1,11 +1,11 @@
 id: 274907557
-type: way
+type: node
 latitude: 49.62612
 longitude: 2.30087
 postcode: "60120"
 city: Breteuil
-street: "Rue de Paris"
-housenumber: 
-phone: "+33 3 44 80 23 23"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:00; Sa 08:30-11:45"
-website: "https://www.pointp.fr/infos-agence/breteuil-point-p-3801"
+street: Rue de Paris
+housenumber: ""
+phone: +33 3 44 80 23 23
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:00; Sa 08:30-11:45
+website: https://www.pointp.fr/infos-agence/breteuil-point-p-3801

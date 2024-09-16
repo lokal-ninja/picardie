@@ -1,11 +1,11 @@
 id: 1080043546
-type: way
+type: node
 latitude: 49.23546
 longitude: 2.46219
 postcode: "60740"
 city: Saint-Maximin
-street: "Rue de la Révolution Française"
-housenumber: 140
-phone: "+33 3 44 26 26 06"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.gueudet.fr/concession/lexus/lexus-saint-maximin"
+street: Rue de la Révolution Française
+housenumber: "140"
+phone: +33 3 44 26 26 06
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://www.gueudet.fr/concession/lexus/lexus-saint-maximin

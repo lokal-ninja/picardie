@@ -1,11 +1,11 @@
 id: 477036150
-type: way
+type: node
 latitude: 49.26896
 longitude: 2.59011
 postcode: "60700"
 city: Fleurines
-street: "Rue de la Vallée"
-housenumber: 35
-phone: "+33 9 82 50 29 76"
-opening_hours: "Mo-Fr 08:30-12:15,13:30-18:00; Sa,Su off"
+street: Rue de la Vallée
+housenumber: "35"
+phone: +33 9 82 50 29 76
+opening_hours: Mo-Fr 08:30-12:15,13:30-18:00; Sa,Su off
 website: ""

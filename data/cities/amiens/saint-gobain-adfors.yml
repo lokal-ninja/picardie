@@ -4,8 +4,8 @@ latitude: 49.92895
 longitude: 2.28255
 postcode: "80080"
 city: Amiens
-street: "Rue André Durouchez"
-housenumber: 32
-phone: "+33 322542727"
-opening_hours: "Mo-Th 08:30-16:00, Fr 08:30-15:00"
+street: Rue André Durouchez
+housenumber: "32"
+phone: +33 322542727
+opening_hours: Mo-Th 08:30-16:00, Fr 08:30-15:00
 website: ""

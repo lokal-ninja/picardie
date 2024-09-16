@@ -1,11 +1,11 @@
 id: 80806004
-type: way
+type: node
 latitude: 49.27584
 longitude: 2.46469
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Avenue du 8 Mai 1945"
-housenumber: 30
+street: Avenue du 8 Mai 1945
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://lebien-naitredebebe.com/"
+website: https://lebien-naitredebebe.com/

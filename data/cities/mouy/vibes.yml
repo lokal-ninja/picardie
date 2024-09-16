@@ -4,8 +4,8 @@ latitude: 49.31974
 longitude: 2.32
 postcode: "60250"
 city: Mouy
-street: "Place Cantrel"
-housenumber: 2
-phone: "+33 3 44 56 51 47"
-opening_hours: "Tu-Th 10:00-20:00; Fr 10:00-21:00; Sa 09:00-17:00; Mo,Su off"
+street: Place Cantrel
+housenumber: "2"
+phone: +33 3 44 56 51 47
+opening_hours: Tu-Th 10:00-20:00; Fr 10:00-21:00; Sa 09:00-17:00; Mo,Su off
 website: ""

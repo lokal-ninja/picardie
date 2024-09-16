@@ -4,8 +4,8 @@ latitude: 49.63319
 longitude: 2.29512
 postcode: "60120"
 city: Breteuil
-street: "Rue de la République"
-housenumber: 11
-phone: "+33 3 44 80 01 89"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-18:00"
+street: Rue de la République
+housenumber: "11"
+phone: +33 3 44 80 01 89
+opening_hours: Mo-Sa 09:00-12:00,14:00-18:00
 website: ""

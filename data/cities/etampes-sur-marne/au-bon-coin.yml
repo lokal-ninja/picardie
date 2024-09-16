@@ -1,11 +1,11 @@
 id: 159857191
-type: way
+type: node
 latitude: 49.0334
 longitude: 3.4189
 postcode: "02400"
 city: Étampes-sur-Marne
-street: "Rue Nervo"
-housenumber: 4
+street: Rue Nervo
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Sa 07:30-18:00; Su 07:30-12:00"
+opening_hours: Tu-Sa 07:30-18:00; Su 07:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 362130579
-type: way
+type: node
 latitude: 50.0725
 longitude: 2.53303
 postcode: "80560"
 city: Acheux-en-Amiénois
-street: "Rue Raymond de Wazières"
-housenumber: 6
+street: Rue Raymond de Wazières
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

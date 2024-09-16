@@ -1,11 +1,11 @@
 id: 878610961
-type: way
+type: node
 latitude: 49.20664
 longitude: 2.39165
 postcode: "60340"
 city: Villers-sous-Saint-Leu
-street: "Impasse des Colombes"
-housenumber: 3
-phone: "+33 9 67 46 61 34"
-opening_hours: "Tu-Fr 08:30-12:00,14:00-19:00; Sa 08:30-12:00,14:00-18:00; Mo,Su off"
+street: Impasse des Colombes
+housenumber: "3"
+phone: +33 9 67 46 61 34
+opening_hours: Tu-Fr 08:30-12:00,14:00-19:00; Sa 08:30-12:00,14:00-18:00; Mo,Su off
 website: ""

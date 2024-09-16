@@ -4,8 +4,8 @@ latitude: 49.26628
 longitude: 2.47366
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Rue du Pont Royal"
-housenumber: 40
-phone: "+33 3 44 27 79 38"
-opening_hours: "Mo-Th,Sa-Su 09:30-20:00; Fr off"
+street: Rue du Pont Royal
+housenumber: "40"
+phone: +33 3 44 27 79 38
+opening_hours: Mo-Th,Sa-Su 09:30-20:00; Fr off
 website: ""

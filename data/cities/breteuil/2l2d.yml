@@ -4,8 +4,8 @@ latitude: 49.6296
 longitude: 2.29501
 postcode: "60120"
 city: Breteuil
-street: "Route de Saint-Just"
-housenumber: 2
-phone: "+33 3 44 82 44 83"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-17:30"
-website: "https://2l2dauto.fr/"
+street: Route de Saint-Just
+housenumber: "2"
+phone: +33 3 44 82 44 83
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-17:30
+website: https://2l2dauto.fr/

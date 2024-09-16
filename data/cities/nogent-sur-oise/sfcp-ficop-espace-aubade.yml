@@ -1,11 +1,11 @@
 id: 80809650
-type: way
+type: node
 latitude: 49.27632
 longitude: 2.48764
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Rue du Marais Sec"
-housenumber: 4
+street: Rue du Marais Sec
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

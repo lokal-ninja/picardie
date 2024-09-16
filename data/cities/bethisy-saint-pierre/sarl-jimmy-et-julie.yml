@@ -4,8 +4,8 @@ latitude: 49.29995
 longitude: 2.80065
 postcode: "60320"
 city: Béthisy-Saint-Pierre
-street: "Rue Albert Bocqué"
-housenumber: 90
-phone: "+33 3 44 39 70 23"
-opening_hours: "Mo off; Tu,Th-Fr 08:30-12:30,15:30-19:00; We,Su 08:30-12:30; Sa 08:30-12:30,15:30-18:30"
+street: Rue Albert Bocqué
+housenumber: "90"
+phone: +33 3 44 39 70 23
+opening_hours: Mo off; Tu,Th-Fr 08:30-12:30,15:30-19:00; We,Su 08:30-12:30; Sa 08:30-12:30,15:30-18:30
 website: ""

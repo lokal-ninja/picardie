@@ -4,8 +4,8 @@ latitude: 49.27676
 longitude: 2.48752
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Rue du Marais Sec"
-housenumber: 3
-phone: "+33 3 44 72 81 03"
-opening_hours: "Mo-Th,Sa 08:30-12:00,13:30-18:00; Fr 08:30-12:00,13:30-17:00; Su off"
+street: Rue du Marais Sec
+housenumber: "3"
+phone: +33 3 44 72 81 03
+opening_hours: Mo-Th,Sa 08:30-12:00,13:30-18:00; Fr 08:30-12:00,13:30-17:00; Su off
 website: ""

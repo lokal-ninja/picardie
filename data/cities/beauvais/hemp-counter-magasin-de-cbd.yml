@@ -4,8 +4,8 @@ latitude: 49.43378
 longitude: 2.08506
 postcode: "60000"
 city: Beauvais
-street: "Rue Gambetta"
-housenumber: 55
-phone: "+33 6 72 11 35 65"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://beauvais.hemp-counter.com/"
+street: Rue Gambetta
+housenumber: "55"
+phone: +33 6 72 11 35 65
+opening_hours: Mo-Sa 10:00-19:00
+website: https://beauvais.hemp-counter.com/

@@ -4,8 +4,8 @@ latitude: 49.84554
 longitude: 3.28361
 postcode: "02100"
 city: Saint-Quentin
-street: "Rue Émile Zola"
-housenumber: 79
-phone: "+33 3 23 60 82 77"
-opening_hours: "Mo 09:00-12:00,14:00-18:00; Tu-Fr 09:00-12:00,14:00-19:00; Sa 10:30-12:00,14:00-17:30"
-website: "https://beware.fr/"
+street: Rue Émile Zola
+housenumber: "79"
+phone: +33 3 23 60 82 77
+opening_hours: Mo 09:00-12:00,14:00-18:00; Tu-Fr 09:00-12:00,14:00-19:00; Sa 10:30-12:00,14:00-17:30
+website: https://beware.fr/

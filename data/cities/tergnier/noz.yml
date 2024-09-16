@@ -1,11 +1,11 @@
 id: 173603796
-type: way
+type: node
 latitude: 49.65612
 longitude: 3.32312
 postcode: "02700"
 city: Tergnier
-street: "Rue des Balkans"
-housenumber: 
+street: Rue des Balkans
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/tergnier/"
+website: https://nozarrivages.com/magasin/tergnier/

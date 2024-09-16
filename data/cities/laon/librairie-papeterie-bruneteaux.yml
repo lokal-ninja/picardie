@@ -1,11 +1,11 @@
 id: 146686198
-type: way
+type: node
 latitude: 49.56452
 longitude: 3.6179
 postcode: "02000"
 city: Laon
-street: "Rue Saint-Jean"
-housenumber: 38
-phone: "+33 3 23 23 21 63"
-opening_hours: "Tu-Sa 09:00-13:30,15:00-18:30"
+street: Rue Saint-Jean
+housenumber: "38"
+phone: +33 3 23 23 21 63
+opening_hours: Tu-Sa 09:00-13:30,15:00-18:30
 website: ""

@@ -1,11 +1,11 @@
 id: 360466546
-type: way
+type: node
 latitude: 49.59347
 longitude: 2.84575
 postcode: "60310"
 city: Lassigny
-street: "Chemin des Bœufs"
-housenumber: 
-phone: "+33 3 44 43 46 24"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-18:00; Mo,Su off"
+street: Chemin des Bœufs
+housenumber: ""
+phone: +33 3 44 43 46 24
+opening_hours: Tu-Sa 09:00-12:00,14:00-18:00; Mo,Su off
 website: ""

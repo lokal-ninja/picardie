@@ -1,11 +1,11 @@
 id: 80657080
-type: way
+type: node
 latitude: 49.27374
 longitude: 2.49601
 postcode: "60100"
 city: Creil
-street: "Avenue du Tremblay"
-housenumber: 142
+street: Avenue du Tremblay
+housenumber: "142"
 phone: ""
 opening_hours: ""
-website: "http://decorum-oise.com/"
+website: http://decorum-oise.com/

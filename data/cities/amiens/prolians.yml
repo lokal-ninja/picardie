@@ -4,8 +4,8 @@ latitude: 49.92841
 longitude: 2.28251
 postcode: "80000"
 city: Amiens
-street: "Rue André Durouchez"
-housenumber: 25
-phone: "+33 322545454"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:30"
-website: "https://www.prolians.fr/"
+street: Rue André Durouchez
+housenumber: "25"
+phone: +33 322545454
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:30
+website: https://www.prolians.fr/

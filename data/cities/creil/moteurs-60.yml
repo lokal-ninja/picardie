@@ -1,11 +1,11 @@
 id: 80662887
-type: way
+type: node
 latitude: 49.26589
 longitude: 2.48607
 postcode: "60100"
 city: Creil
-street: "Rue Charles Somasco"
-housenumber: 15
-phone: "+33 3 44 71 87 40"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa,Su off"
+street: Rue Charles Somasco
+housenumber: "15"
+phone: +33 3 44 71 87 40
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:30; Sa,Su off
 website: ""

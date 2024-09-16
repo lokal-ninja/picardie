@@ -1,11 +1,11 @@
 id: 379102994
-type: way
+type: node
 latitude: 49.81391
 longitude: 2.7013
 postcode: "80170"
 city: Rosières-en-Santerre
-street: "Rue du Niger"
-housenumber: 16
+street: Rue du Niger
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Su 09:00-22:00"
+opening_hours: Mo-Su 09:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 679467327
-type: way
+type: node
 latitude: 49.25883
 longitude: 2.50003
 postcode: "60100"
 city: Creil
-street: "Rue des Chèvrefeuilles"
-housenumber: 7
-phone: "+33 3 44 63 89 81"
-opening_hours: "Mo-Fr 08:00-18:00; Sa,Su off"
-website: "https://www.cetif-vi.fr/"
+street: Rue des Chèvrefeuilles
+housenumber: "7"
+phone: +33 3 44 63 89 81
+opening_hours: Mo-Fr 08:00-18:00; Sa,Su off
+website: https://www.cetif-vi.fr/

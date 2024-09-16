@@ -1,11 +1,11 @@
 id: 159769082
-type: way
+type: node
 latitude: 49.036
 longitude: 3.3908
 postcode: "02400"
 city: Château-Thierry
-street: "Rue de la Plaine"
-housenumber: 3
-phone: "+33 3 23 84 28 72"
+street: Rue de la Plaine
+housenumber: "3"
+phone: +33 3 23 84 28 72
 opening_hours: ""
-website: "https://www.leclercdrive.fr/region-hauts-de-france/chateau-thierry/drive-chateau-thierry.aspx"
+website: https://www.leclercdrive.fr/region-hauts-de-france/chateau-thierry/drive-chateau-thierry.aspx

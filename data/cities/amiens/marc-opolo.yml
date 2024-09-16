@@ -4,8 +4,8 @@ latitude: 49.89128
 longitude: 2.30438
 postcode: "80000"
 city: Amiens
-street: "Rue de Noyon"
-housenumber: 1
-phone: "+33 1 81 69 90 86"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:30-19:00; Sa 10:30-13:00,14:00-18:30"
+street: Rue de Noyon
+housenumber: "1"
+phone: +33 1 81 69 90 86
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:30-19:00; Sa 10:30-13:00,14:00-18:30
 website: ""

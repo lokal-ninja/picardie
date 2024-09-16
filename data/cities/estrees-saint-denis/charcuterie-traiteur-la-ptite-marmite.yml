@@ -1,11 +1,12 @@
 id: 137672931
-type: way
+type: node
 latitude: 49.42601
 longitude: 2.64413
 postcode: "60190"
 city: Estrées-Saint-Denis
-street: "Place Charles de Gaulle"
-housenumber: 2
-phone: "+33 3 44 36 79 92"
-opening_hours: "Mo-Tu,Th-Fr 08:30-12:30,15:30-19:00; Sa 08:30-12:30,15:00-19:00; Su 08:30-12:30; We off"
+street: Place Charles de Gaulle
+housenumber: "2"
+phone: +33 3 44 36 79 92
+opening_hours: Mo-Tu,Th-Fr 08:30-12:30,15:30-19:00; Sa 08:30-12:30,15:00-19:00; Su
+    08:30-12:30; We off
 website: ""

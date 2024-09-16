@@ -4,8 +4,8 @@ latitude: 49.42002
 longitude: 2.82111
 postcode: "60200"
 city: Compiègne
-street: "Rue de Clermont"
-housenumber: 6
-phone: "+33 3 44 83 44 83"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00,15:00-18:00; Su off"
-website: "https://www.veteix.fr"
+street: Rue de Clermont
+housenumber: "6"
+phone: +33 3 44 83 44 83
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00,15:00-18:00; Su off
+website: https://www.veteix.fr

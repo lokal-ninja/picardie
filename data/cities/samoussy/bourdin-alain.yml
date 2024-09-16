@@ -1,11 +1,11 @@
 id: 171791769
-type: way
+type: node
 latitude: 49.58386
 longitude: 3.73321
 postcode: "02840"
 city: Samoussy
-street: "Rue de l'Église"
-housenumber: 4
+street: Rue de l'Église
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

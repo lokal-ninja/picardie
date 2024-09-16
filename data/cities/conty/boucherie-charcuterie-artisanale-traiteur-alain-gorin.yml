@@ -4,8 +4,9 @@ latitude: 49.74114
 longitude: 2.15271
 postcode: "80160"
 city: Conty
-street: "Rue du Général Leclerc"
-housenumber: 5
-phone: "+33 322412017"
-opening_hours: "Mo off; Tu 09:00-13:00,16:30-19:00; We 09:00-13:00; Th 09:00-13:00,16:30-19:00; Fr 09:00-13:00,16:30-19:00; Sa 09:00-13:00,16:30-19:00; Su off"
+street: Rue du Général Leclerc
+housenumber: "5"
+phone: +33 322412017
+opening_hours: Mo off; Tu 09:00-13:00,16:30-19:00; We 09:00-13:00; Th 09:00-13:00,16:30-19:00;
+    Fr 09:00-13:00,16:30-19:00; Sa 09:00-13:00,16:30-19:00; Su off
 website: ""

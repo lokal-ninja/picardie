@@ -4,8 +4,8 @@ latitude: 49.86998
 longitude: 2.37157
 postcode: "80330"
 city: Longueau
-street: "Avenue de l'Arc"
-housenumber: 10
-phone: "+33 3 22 46 50 40"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00"
-website: "https://magasins.cuisine-plus.fr"
+street: Avenue de l'Arc
+housenumber: "10"
+phone: +33 3 22 46 50 40
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00
+website: https://magasins.cuisine-plus.fr

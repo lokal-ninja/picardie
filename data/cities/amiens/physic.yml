@@ -4,8 +4,8 @@ latitude: 49.93312
 longitude: 2.28477
 postcode: "80080"
 city: Amiens
-street: "Avenue Roger Dumoulin"
-housenumber: 59
-phone: "+33 322670670"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-17:30"
-website: "http://physic.fr/"
+street: Avenue Roger Dumoulin
+housenumber: "59"
+phone: +33 322670670
+opening_hours: Mo-Fr 08:30-12:30,14:00-17:30
+website: http://physic.fr/

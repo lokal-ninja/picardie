@@ -4,8 +4,8 @@ latitude: 49.86752
 longitude: 2.37075
 postcode: "80330"
 city: Longueau
-street: "Avenue de la Ville Idéale"
-housenumber: 28
-phone: "+33 3 74 49 17 19"
-opening_hours: "Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
-website: "https://www.roche-bobois.com/fr-FR/magasins/amiens"
+street: Avenue de la Ville Idéale
+housenumber: "28"
+phone: +33 3 74 49 17 19
+opening_hours: Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
+website: https://www.roche-bobois.com/fr-FR/magasins/amiens

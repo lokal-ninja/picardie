@@ -1,11 +1,11 @@
 id: 159768623
-type: way
+type: node
 latitude: 49.03452
 longitude: 3.38945
 postcode: "02400"
 city: Château-Thierry
-street: "Avenue Gustave Eiffel"
-housenumber: 1
-phone: "+33 3 23 83 53 99"
+street: Avenue Gustave Eiffel
+housenumber: "1"
+phone: +33 3 23 83 53 99
 opening_hours: ""
-website: "https://www.bureau02.com/"
+website: https://www.bureau02.com/

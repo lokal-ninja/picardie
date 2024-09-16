@@ -1,11 +1,11 @@
 id: 80691763
-type: way
+type: node
 latitude: 49.26911
 longitude: 2.48363
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Avenue de l'Europe"
-housenumber: 1
+street: Avenue de l'Europe
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 09:00-19:30; Fr-Sa 09:00-20:00; Su 10:00-19:00"
+opening_hours: Mo-Th 09:00-19:30; Fr-Sa 09:00-20:00; Su 10:00-19:00
 website: ""

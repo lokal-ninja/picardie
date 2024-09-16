@@ -4,8 +4,8 @@ latitude: 49.89273
 longitude: 2.29841
 postcode: "80000"
 city: Amiens
-street: "Rue des Trois Cailloux"
-housenumber: 12
-phone: "+33 3 22 92 18 34"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.graindemalice.fr/"
+street: Rue des Trois Cailloux
+housenumber: "12"
+phone: +33 3 22 92 18 34
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.graindemalice.fr/

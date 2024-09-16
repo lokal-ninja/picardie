@@ -1,11 +1,11 @@
 id: 142256973
-type: way
+type: node
 latitude: 49.20736
 longitude: 2.59002
 postcode: "60300"
 city: Senlis
-street: "Avenue du Maréchal Foch"
-housenumber: 3
+street: Avenue du Maréchal Foch
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

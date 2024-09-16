@@ -4,8 +4,9 @@ latitude: 49.77295
 longitude: 2.48385
 postcode: "80110"
 city: Moreuil
-street: "Place Victor Hugo"
-housenumber: 13
+street: Place Victor Hugo
+housenumber: "13"
 phone: ""
-opening_hours: "Tu-We 09:00-12:00, 14:00-19:00; Th 09:30-12:00, 14:00-19:30; Fr-Sa 09:00-12:00, 14:00-19:00"
+opening_hours: Tu-We 09:00-12:00, 14:00-19:00; Th 09:30-12:00, 14:00-19:30; Fr-Sa
+    09:00-12:00, 14:00-19:00
 website: ""

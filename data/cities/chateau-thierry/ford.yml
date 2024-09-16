@@ -1,11 +1,11 @@
 id: 159833882
-type: way
+type: node
 latitude: 49.04009
 longitude: 3.42075
 postcode: "02400"
 city: Château-Thierry
-street: "Avenue du Général de Gaulle"
-housenumber: 29
-phone: "+33 3 23 84 85 86"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.groupesaintchristophe.fr/"
+street: Avenue du Général de Gaulle
+housenumber: "29"
+phone: +33 3 23 84 85 86
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.groupesaintchristophe.fr/

@@ -4,8 +4,8 @@ latitude: 49.89089
 longitude: 2.30566
 postcode: "80000"
 city: Amiens
-street: "Rue de Noyon"
-housenumber: 17
-phone: "+33 6 35 29 56 53"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.facebook.com/toietmoichaussures"
+street: Rue de Noyon
+housenumber: "17"
+phone: +33 6 35 29 56 53
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.facebook.com/toietmoichaussures

@@ -1,11 +1,11 @@
 id: 356739892
-type: way
+type: node
 latitude: 49.6469
 longitude: 2.58873
 postcode: "80500"
 city: Montdidier
-street: "Avenue du 8 mai 1945"
-housenumber: 
+street: Avenue du 8 mai 1945
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
-website: "https://www.action.com/fr-fr/points-de-vente/montdidier-avenue-du-8-mai-1945/"
+opening_hours: Mo-Sa 09:00-19:00; Su off
+website: https://www.action.com/fr-fr/points-de-vente/montdidier-avenue-du-8-mai-1945/

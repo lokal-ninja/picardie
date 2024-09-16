@@ -4,8 +4,8 @@ latitude: 49.89146
 longitude: 2.30365
 postcode: "80000"
 city: Amiens
-street: "Place René Goblet"
-housenumber: 45
+street: Place René Goblet
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.misscoquines.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.misscoquines.com/

@@ -4,8 +4,8 @@ latitude: 49.2742
 longitude: 2.46662
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Avenue du 8 Mai 1945"
-housenumber: 2
-phone: "+33 9 53 10 35 98"
-opening_hours: "Mo-Su 10:00-21:00"
+street: Avenue du 8 Mai 1945
+housenumber: "2"
+phone: +33 9 53 10 35 98
+opening_hours: Mo-Su 10:00-21:00
 website: ""

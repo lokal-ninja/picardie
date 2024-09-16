@@ -1,11 +1,11 @@
 id: 1049456424
-type: way
+type: node
 latitude: 49.35037
 longitude: 2.73116
 postcode: "60126"
 city: Rivecourt
-street: "Rue des Fontaines"
-housenumber: 21
-phone: "+33 6 85 12 78 63"
-opening_hours: "10:00-22:00"
-website: "https://www.ibidem-spa.fr/fr/"
+street: Rue des Fontaines
+housenumber: "21"
+phone: +33 6 85 12 78 63
+opening_hours: 10:00-22:00
+website: https://www.ibidem-spa.fr/fr/

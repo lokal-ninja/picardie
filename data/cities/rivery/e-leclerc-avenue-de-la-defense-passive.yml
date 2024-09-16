@@ -1,11 +1,11 @@
 id: 140897834
-type: way
+type: node
 latitude: 49.91256
 longitude: 2.33768
 postcode: "80136"
 city: Rivery
-street: "Avenue de la Défense Passive"
-housenumber: 
+street: Avenue de la Défense Passive
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

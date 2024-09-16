@@ -4,8 +4,8 @@ latitude: 49.89292
 longitude: 2.29861
 postcode: "80000"
 city: Amiens
-street: "Rue des Trois Cailloux"
-housenumber: 7
-phone: "+33 3 22 22 47 00"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.armandthiery.fr/fr/magasins/somme-80/amiens-7-9-rue-des-trois-cailloux-873.htm"
+street: Rue des Trois Cailloux
+housenumber: "7"
+phone: +33 3 22 22 47 00
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.armandthiery.fr/fr/magasins/somme-80/amiens-7-9-rue-des-trois-cailloux-873.htm

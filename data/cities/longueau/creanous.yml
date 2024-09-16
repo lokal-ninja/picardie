@@ -4,8 +4,8 @@ latitude: 49.87098
 longitude: 2.36974
 postcode: "80330"
 city: Longueau
-street: "Rue Claude Chappé"
-housenumber: 10
-phone: "+33 3 22 95 87 52"
-opening_hours: "Mo 14:00-18:00; Tu-Sa 10:00-18:00"
-website: "https://www.creanous.com/"
+street: Rue Claude Chappé
+housenumber: "10"
+phone: +33 3 22 95 87 52
+opening_hours: Mo 14:00-18:00; Tu-Sa 10:00-18:00
+website: https://www.creanous.com/

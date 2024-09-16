@@ -4,8 +4,8 @@ latitude: 49.91038
 longitude: 2.33313
 postcode: "80136"
 city: Rivery
-street: "Avenue de la Défense Passive"
-housenumber: 210
-phone: "+33 3 22 97 34 10"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-12:00"
-website: "https://www.autodistribution.fr/"
+street: Avenue de la Défense Passive
+housenumber: "210"
+phone: +33 3 22 97 34 10
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-12:00
+website: https://www.autodistribution.fr/

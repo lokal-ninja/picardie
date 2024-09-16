@@ -4,8 +4,8 @@ latitude: 49.63206
 longitude: 2.29469
 postcode: "60120"
 city: Breteuil
-street: "Place de Verdun"
-housenumber: 1
-phone: "+33 3 44 07 13 26"
-opening_hours: "Tu-Fr 09:30-12:00,14:15-19:00; Sa 09:30-12:30,14:00-18:30"
-website: "https://www.jacheteoisepicarde.fr/lucas-chausseur"
+street: Place de Verdun
+housenumber: "1"
+phone: +33 3 44 07 13 26
+opening_hours: Tu-Fr 09:30-12:00,14:15-19:00; Sa 09:30-12:30,14:00-18:30
+website: https://www.jacheteoisepicarde.fr/lucas-chausseur

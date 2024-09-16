@@ -1,11 +1,11 @@
 id: 80813501
-type: way
+type: node
 latitude: 49.2667
 longitude: 2.46503
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Boulevard Pierre de Coubertin"
+street: Boulevard Pierre de Coubertin
 housenumber: 35bis
-phone: "+33 3 44 71 24 88"
-opening_hours: "Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:30; Sa,Su off"
-website: "https://concessions.peugeot.fr/nogent-sur-oise/"
+phone: +33 3 44 71 24 88
+opening_hours: Mo-Th 08:00-12:00,14:00-18:00; Fr 08:00-12:00,14:00-17:30; Sa,Su off
+website: https://concessions.peugeot.fr/nogent-sur-oise/

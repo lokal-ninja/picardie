@@ -1,11 +1,11 @@
 id: 553304707
-type: way
+type: node
 latitude: 49.20647
 longitude: 2.38607
 postcode: "60340"
 city: Villers-sous-Saint-Leu
-street: "Rue de Précy"
-housenumber: 
+street: Rue de Précy
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

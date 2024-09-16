@@ -4,8 +4,8 @@ latitude: 49.8923
 longitude: 2.30053
 postcode: "80000"
 city: Amiens
-street: "Rue Robert de Luzarches"
-housenumber: 2
-phone: "+33 6 07 60 43 41"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.devred.com/"
+street: Rue Robert de Luzarches
+housenumber: "2"
+phone: +33 6 07 60 43 41
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.devred.com/

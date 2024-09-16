@@ -1,11 +1,11 @@
 id: 69835945
-type: way
+type: node
 latitude: 49.36641
 longitude: 3.31343
 postcode: "02200"
 city: Soissons
-street: "Rue Jacques Brel"
-housenumber: 5
+street: Rue Jacques Brel
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/soissons/"
+website: https://www.nozarrivages.com/magasin/soissons/

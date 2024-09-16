@@ -4,8 +4,8 @@ latitude: 49.21709
 longitude: 2.59613
 postcode: "60300"
 city: Chamant
-street: "Avenue du Poteau"
-housenumber: 2
-phone: "+33 3 44 66 86 79"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://senlischamant.biocoop.net"
+street: Avenue du Poteau
+housenumber: "2"
+phone: +33 3 44 66 86 79
+opening_hours: Mo-Sa 08:30-19:30
+website: https://senlischamant.biocoop.net

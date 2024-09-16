@@ -4,8 +4,8 @@ latitude: 49.28025
 longitude: 2.47371
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Place de la République"
-housenumber: 6
-phone: "+33 3 44 71 21 69"
-opening_hours: "Mo off; Tu-Sa 09:00-19:00; Su 09:00-13:00"
-website: "http://www.fleuristecorinnedelforge.fr"
+street: Place de la République
+housenumber: "6"
+phone: +33 3 44 71 21 69
+opening_hours: Mo off; Tu-Sa 09:00-19:00; Su 09:00-13:00
+website: http://www.fleuristecorinnedelforge.fr

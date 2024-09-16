@@ -4,8 +4,8 @@ latitude: 49.41788
 longitude: 2.82421
 postcode: "60200"
 city: Compiègne
-street: "Passage du Marché aux Herbes"
-housenumber: 11
-phone: "+33 3 44 75 77 10"
-opening_hours: "Mo-Sa 09:30-19:30; Su off"
+street: Passage du Marché aux Herbes
+housenumber: "11"
+phone: +33 3 44 75 77 10
+opening_hours: Mo-Sa 09:30-19:30; Su off
 website: ""

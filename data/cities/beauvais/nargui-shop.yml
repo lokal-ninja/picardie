@@ -4,8 +4,8 @@ latitude: 49.43399
 longitude: 2.08552
 postcode: "60000"
 city: Beauvais
-street: "Rue Gambetta"
-housenumber: 54
-phone: "+33 3 44 10 56 14"
-opening_hours: "Mo-Sa 14:00-01:00"
+street: Rue Gambetta
+housenumber: "54"
+phone: +33 3 44 10 56 14
+opening_hours: Mo-Sa 14:00-01:00
 website: ""

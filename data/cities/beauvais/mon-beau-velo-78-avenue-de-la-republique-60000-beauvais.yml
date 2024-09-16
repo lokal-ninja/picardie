@@ -4,8 +4,8 @@ latitude: 49.42653
 longitude: 2.08838
 postcode: "60000"
 city: Beauvais
-street: "Avenue de la République"
-housenumber: 78
-phone: "+33 3 60 29 55 35"
+street: Avenue de la République
+housenumber: "78"
+phone: +33 3 60 29 55 35
 opening_hours: ""
-website: "https://www.beauvelo.org/la-v%C3%A9lostation"
+website: https://www.beauvelo.org/la-v%C3%A9lostation

@@ -4,8 +4,9 @@ latitude: 49.25693
 longitude: 2.43249
 postcode: "60160"
 city: Montataire
-street: "Rue de la République"
-housenumber: 37
-phone: "+33 3 44 25 60 91"
-opening_hours: "Tu,Th 09:00-12:00,13:30-18:30; Fr 09:00-12:00,13:30-19:00; Sa 08:30-18:00; Mo,Su off"
+street: Rue de la République
+housenumber: "37"
+phone: +33 3 44 25 60 91
+opening_hours: Tu,Th 09:00-12:00,13:30-18:30; Fr 09:00-12:00,13:30-19:00; Sa 08:30-18:00;
+    Mo,Su off
 website: ""

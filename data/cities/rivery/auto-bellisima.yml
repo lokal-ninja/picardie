@@ -4,8 +4,8 @@ latitude: 49.91534
 longitude: 2.33862
 postcode: "80136"
 city: Rivery
-street: "Rue Alain Colas"
-housenumber: 4
-phone: "+33 3 22 45 02 65"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+street: Rue Alain Colas
+housenumber: "4"
+phone: +33 3 22 45 02 65
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

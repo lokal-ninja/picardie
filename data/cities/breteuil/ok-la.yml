@@ -1,11 +1,11 @@
 id: 275521690
-type: way
+type: node
 latitude: 49.64008
 longitude: 2.28431
 postcode: "60120"
 city: Breteuil
-street: "Rue d'Amiens"
-housenumber: 
+street: Rue d'Amiens
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:30,14:00-19:00"
+opening_hours: Mo-Sa 10:00-12:30,14:00-19:00
 website: ""

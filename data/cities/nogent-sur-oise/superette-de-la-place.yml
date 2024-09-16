@@ -4,8 +4,8 @@ latitude: 49.27954
 longitude: 2.47307
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Place de la République"
-housenumber: 26
-phone: "+33 3 44 71 90 59"
-opening_hours: "Mo-Fr 06:30-23:00; Sa-Su 07:00-23:00"
+street: Place de la République
+housenumber: "26"
+phone: +33 3 44 71 90 59
+opening_hours: Mo-Fr 06:30-23:00; Sa-Su 07:00-23:00
 website: ""

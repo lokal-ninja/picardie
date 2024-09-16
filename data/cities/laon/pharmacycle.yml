@@ -4,8 +4,8 @@ latitude: 49.56478
 longitude: 3.64269
 postcode: "02000"
 city: Laon
-street: "Rue Pierre Curtil"
-housenumber: 90
+street: Rue Pierre Curtil
+housenumber: "90"
 phone: ""
-opening_hours: "Tu-Fr 15:00-17:45; We 14:00-17:45; Sa 09:00-12:30"
-website: "https://www.facebook.com/PharmacycleLaon/"
+opening_hours: Tu-Fr 15:00-17:45; We 14:00-17:45; Sa 09:00-12:30
+website: https://www.facebook.com/PharmacycleLaon/

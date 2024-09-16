@@ -4,8 +4,8 @@ latitude: 49.26325
 longitude: 2.47056
 postcode: "60100"
 city: Creil
-street: "Avenue Jules Uhry"
-housenumber: 20
-phone: "+33 9 50 70 59 46"
-opening_hours: "Mo-Sa 10:30-19:00; Su 16:00-19:00"
+street: Avenue Jules Uhry
+housenumber: "20"
+phone: +33 9 50 70 59 46
+opening_hours: Mo-Sa 10:30-19:00; Su 16:00-19:00
 website: ""

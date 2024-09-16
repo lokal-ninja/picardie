@@ -4,8 +4,8 @@ latitude: 49.93063
 longitude: 2.26965
 postcode: "80080"
 city: Amiens
-street: "Rue de la Vassellerie"
-housenumber: 26
-phone: "+33 322670052"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.maximo.fr/"
+street: Rue de la Vassellerie
+housenumber: "26"
+phone: +33 322670052
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.maximo.fr/

@@ -4,8 +4,8 @@ latitude: 49.41314
 longitude: 2.11402
 postcode: "60000"
 city: Beauvais
-street: "Rue Pierre et Marie Curie"
-housenumber: 10
-phone: "+33 3 44 02 80 64"
-opening_hours: "Mo-Sa 08:30-12:00, 13:30-19:00"
-website: "https://www.beauvais-auto.fr/"
+street: Rue Pierre et Marie Curie
+housenumber: "10"
+phone: +33 3 44 02 80 64
+opening_hours: Mo-Sa 08:30-12:00, 13:30-19:00
+website: https://www.beauvais-auto.fr/

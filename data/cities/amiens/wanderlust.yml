@@ -4,8 +4,8 @@ latitude: 49.89452
 longitude: 2.29764
 postcode: "80000"
 city: Amiens
-street: "Rue des Vergeaux"
-housenumber: 14
-phone: "+33 3 22 89 75 21"
-opening_hours: "Tu-We,Fr-Sa 10:00-19:00; Th 11:00-18:00; Su,Mo off"
-website: "https://wanderlust-conceptstore.com/"
+street: Rue des Vergeaux
+housenumber: "14"
+phone: +33 3 22 89 75 21
+opening_hours: Tu-We,Fr-Sa 10:00-19:00; Th 11:00-18:00; Su,Mo off
+website: https://wanderlust-conceptstore.com/

@@ -1,11 +1,12 @@
 id: 137672933
-type: way
+type: node
 latitude: 49.42633
 longitude: 2.64387
 postcode: "60190"
 city: Estrées-Saint-Denis
-street: "Rue de la République"
-housenumber: 51
-phone: "+33 3 44 41 30 25"
-opening_hours: "Mo off; Tu-Sa 08:30-12:30,15:30-19:00; Sa 08:30-12:45,15:00-19:00; Su 08:30-12:15"
+street: Rue de la République
+housenumber: "51"
+phone: +33 3 44 41 30 25
+opening_hours: Mo off; Tu-Sa 08:30-12:30,15:30-19:00; Sa 08:30-12:45,15:00-19:00;
+    Su 08:30-12:15
 website: ""

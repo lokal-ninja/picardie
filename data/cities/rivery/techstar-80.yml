@@ -4,8 +4,8 @@ latitude: 49.91219
 longitude: 2.34001
 postcode: "80136"
 city: Rivery
-street: "Rue Alain Bombard"
-housenumber: 5
-phone: "+33 3 22 70 02 80"
-opening_hours: "Mo-Fr 08:30-19:00, Sa 08:30-12:00,14:00-18:00"
-website: "https://www.mercedes-benz-amiens.fr/"
+street: Rue Alain Bombard
+housenumber: "5"
+phone: +33 3 22 70 02 80
+opening_hours: Mo-Fr 08:30-19:00, Sa 08:30-12:00,14:00-18:00
+website: https://www.mercedes-benz-amiens.fr/

@@ -1,11 +1,11 @@
 id: 193012014
-type: way
+type: node
 latitude: 49.941
 longitude: 2.92913
 postcode: "80200"
 city: Péronne
 street: ""
-housenumber: 
-phone: "+33 3 22 84 62 44"
-opening_hours: "Mo-Sa 08:30-19:00; Su 09:00-12:30"
-website: "https://magasin.netto.fr/268-netto-peronne"
+housenumber: ""
+phone: +33 3 22 84 62 44
+opening_hours: Mo-Sa 08:30-19:00; Su 09:00-12:30
+website: https://magasin.netto.fr/268-netto-peronne

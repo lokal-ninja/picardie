@@ -1,11 +1,11 @@
 id: 220505776
-type: way
+type: node
 latitude: 49.15772
 longitude: 2.26356
 postcode: "95340"
 city: Persan
-street: "Avenue Jacques Vogt"
-housenumber: 
+street: Avenue Jacques Vogt
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:30,14:00-19:00;Su 09:30-12:30,14:30-18:30"
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:30,14:00-19:00;Su 09:30-12:30,14:30-18:30
 website: ""

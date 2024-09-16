@@ -4,8 +4,8 @@ latitude: 49.89174
 longitude: 2.30229
 postcode: "80000"
 city: Amiens
-street: "Place René Goblet"
-housenumber: 1
-phone: "+33 3 22 91 61 82"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.bijouterie-azarian.com/"
+street: Place René Goblet
+housenumber: "1"
+phone: +33 3 22 91 61 82
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.bijouterie-azarian.com/

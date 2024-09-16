@@ -4,8 +4,8 @@ latitude: 49.47753
 longitude: 2.88107
 postcode: "60150"
 city: Thourotte
-street: "Rue Jean Jaurès"
-housenumber: 6
-phone: "+33 3 44 76 00 19"
-opening_hours: "Tu-Th 08:30-13:00,15:30-19:30; Fr-Sa 08:30-19:30; Mo,Su off"
+street: Rue Jean Jaurès
+housenumber: "6"
+phone: +33 3 44 76 00 19
+opening_hours: Tu-Th 08:30-13:00,15:30-19:30; Fr-Sa 08:30-19:30; Mo,Su off
 website: ""

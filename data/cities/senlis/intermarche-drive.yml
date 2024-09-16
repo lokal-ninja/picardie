@@ -1,11 +1,11 @@
 id: 914744403
-type: way
+type: node
 latitude: 49.2218
 longitude: 2.59203
 postcode: "60300"
 city: Senlis
-street: "Rue de Villevert"
-housenumber: 
-phone: "+33 3 44 53 60 37"
-opening_hours: "Mo-Sa 09:00-20:00; Su off"
+street: Rue de Villevert
+housenumber: ""
+phone: +33 3 44 53 60 37
+opening_hours: Mo-Sa 09:00-20:00; Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.37981
 longitude: 3.18562
 postcode: "02290"
 city: Ambleny
-street: "Rue de la Tour"
-housenumber: 23
+street: Rue de la Tour
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.benphone.fr/"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.benphone.fr/

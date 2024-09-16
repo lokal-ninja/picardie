@@ -4,8 +4,8 @@ latitude: 49.26386
 longitude: 2.47564
 postcode: "60100"
 city: Creil
-street: "Rue Victor Hugo"
-housenumber: 49
-phone: "+33 3 44 55 44 00"
-opening_hours: "Mo,We-Su,PH 08:00-20:00"
+street: Rue Victor Hugo
+housenumber: "49"
+phone: +33 3 44 55 44 00
+opening_hours: Mo,We-Su,PH 08:00-20:00
 website: ""

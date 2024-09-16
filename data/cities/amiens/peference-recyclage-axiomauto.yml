@@ -4,8 +4,8 @@ latitude: 49.93101
 longitude: 2.2766
 postcode: "80080"
 city: Amiens
-street: "Rue André Durouchez"
-housenumber: 85
-phone: "+33 322660120"
-opening_hours: "Tu-Fr 08:00-12:00,14:00-18:00"
-website: "https://www.axiomauto.fr/"
+street: Rue André Durouchez
+housenumber: "85"
+phone: +33 322660120
+opening_hours: Tu-Fr 08:00-12:00,14:00-18:00
+website: https://www.axiomauto.fr/

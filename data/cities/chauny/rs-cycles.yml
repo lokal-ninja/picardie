@@ -4,8 +4,8 @@ latitude: 49.60808
 longitude: 3.22164
 postcode: "02300"
 city: Chauny
-street: "Rue de la Chaussée"
-housenumber: 102
-phone: "+33.3 64 14 67 81"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Th off; Sa 10:00-18:00"
+street: Rue de la Chaussée
+housenumber: "102"
+phone: +33.3 64 14 67 81
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Th off; Sa 10:00-18:00
 website: ""

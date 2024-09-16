@@ -1,11 +1,11 @@
 id: 275522761
-type: way
+type: node
 latitude: 49.63879
 longitude: 2.28474
 postcode: "60120"
 city: Breteuil
-street: "Rue d'Amiens"
-housenumber: 
-phone: "+33 3 44 15 30 96"
-opening_hours: "Mo 10:00-12:00,14:00-19:00; Tu-Sa 09:15-12:00,14:00-19:00"
-website: "https://www.bricomarche.com/"
+street: Rue d'Amiens
+housenumber: ""
+phone: +33 3 44 15 30 96
+opening_hours: Mo 10:00-12:00,14:00-19:00; Tu-Sa 09:15-12:00,14:00-19:00
+website: https://www.bricomarche.com/

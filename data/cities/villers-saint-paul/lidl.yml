@@ -1,11 +1,11 @@
 id: 121626190
-type: way
+type: node
 latitude: 49.28492
 longitude: 2.49081
 postcode: "60870"
 city: Villers-Saint-Paul
-street: "Rue du Général de Gaulle"
-housenumber: 1
-phone: "+33 1 88 24 70 70"
-opening_hours: "Mo-Sa 08:30-19:30; Su off"
+street: Rue du Général de Gaulle
+housenumber: "1"
+phone: +33 1 88 24 70 70
+opening_hours: Mo-Sa 08:30-19:30; Su off
 website: ""

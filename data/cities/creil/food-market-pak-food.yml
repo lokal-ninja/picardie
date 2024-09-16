@@ -4,8 +4,8 @@ latitude: 49.26521
 longitude: 2.47508
 postcode: "60100"
 city: Creil
-street: "Rue Henri Pauquet"
-housenumber: 111
-phone: "+33 9 87 78 48 42"
-opening_hours: "Mo-Th,Sa 09:00-20:00; Fr 09:00-12:30,14:00-20:00; Su 10:00-20:00"
+street: Rue Henri Pauquet
+housenumber: "111"
+phone: +33 9 87 78 48 42
+opening_hours: Mo-Th,Sa 09:00-20:00; Fr 09:00-12:30,14:00-20:00; Su 10:00-20:00
 website: ""

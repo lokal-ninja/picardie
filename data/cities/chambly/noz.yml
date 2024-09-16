@@ -1,11 +1,11 @@
 id: 150447981
-type: way
+type: node
 latitude: 49.15922
 longitude: 2.25572
 postcode: "60230"
 city: Chambly
-street: "Rue Jean Renoir"
-housenumber: 365
+street: Rue Jean Renoir
+housenumber: "365"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/chambly/"
+website: https://nozarrivages.com/magasin/chambly/

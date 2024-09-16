@@ -1,11 +1,11 @@
 id: 275521517
-type: way
+type: node
 latitude: 49.63821
 longitude: 2.2813
 postcode: "60120"
 city: Breteuil
-street: "Rue d'Amiens"
-housenumber: 103
-phone: "+33 3 44 14 02 99"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-17:30; Sa,Su off"
-website: "https://www.douchetdepann60.fr/"
+street: Rue d'Amiens
+housenumber: "103"
+phone: +33 3 44 14 02 99
+opening_hours: Mo-Fr 09:00-12:00,14:00-17:30; Sa,Su off
+website: https://www.douchetdepann60.fr/

@@ -4,8 +4,8 @@ latitude: 49.91593
 longitude: 2.33956
 postcode: "80136"
 city: Rivery
-street: "Rue Alain Colas"
-housenumber: 5
-phone: "+33 3 22 40 66 66"
-opening_hours: "Mo-Fr 09:00-12:00,13:30-18:00"
-website: "https://www.remorques-du-nord.fr/"
+street: Rue Alain Colas
+housenumber: "5"
+phone: +33 3 22 40 66 66
+opening_hours: Mo-Fr 09:00-12:00,13:30-18:00
+website: https://www.remorques-du-nord.fr/

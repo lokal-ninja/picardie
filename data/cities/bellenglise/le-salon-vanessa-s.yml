@@ -4,8 +4,9 @@ latitude: 49.91986
 longitude: 3.24426
 postcode: "02420"
 city: Bellenglise
-street: "Rue des Tilleuls"
-housenumber: 30
+street: Rue des Tilleuls
+housenumber: "30"
 phone: ""
-opening_hours: "Tu 09:00-19:00; We closed; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00; Su closed; Mo 09:00-19:00"
+opening_hours: Tu 09:00-19:00; We closed; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00;
+    Su closed; Mo 09:00-19:00
 website: ""

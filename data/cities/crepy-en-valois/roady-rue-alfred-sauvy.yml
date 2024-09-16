@@ -1,11 +1,11 @@
 id: 92229137
-type: way
+type: node
 latitude: 49.22441
 longitude: 2.90647
 postcode: "60800"
 city: Crépy-en-Valois
-street: "Rue Alfred Sauvy"
-housenumber: 6
+street: Rue Alfred Sauvy
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-18:00"
-website: "https://www.roady.fr/alecor"
+opening_hours: Mo-Sa 09:00-12:00, 14:00-18:00
+website: https://www.roady.fr/alecor

@@ -4,8 +4,8 @@ latitude: 49.61177
 longitude: 3.21994
 postcode: "02300"
 city: Chauny
-street: "Rue de la Chaussée"
-housenumber: 7
+street: Rue de la Chaussée
+housenumber: "7"
 phone: "+33323520092"
-opening_hours: "Tu-Fr 08:30-12:00,14:00-18:30; Sa 09:00-12:00,14:00-18:30"
-website: "https://librairieledormeurduval.fr/"
+opening_hours: Tu-Fr 08:30-12:00,14:00-18:30; Sa 09:00-12:00,14:00-18:30
+website: https://librairieledormeurduval.fr/

@@ -4,8 +4,8 @@ latitude: 49.89282
 longitude: 2.29891
 postcode: "80000"
 city: Amiens
-street: "Rue des Trois Cailloux"
-housenumber: 13
-phone: "+33 3 22 72 31 85"
-opening_hours: "Mo-Fr 10:00-19:15; Sa 09:30-19:30"
-website: "http://www.auzou-chocolat.fr/"
+street: Rue des Trois Cailloux
+housenumber: "13"
+phone: +33 3 22 72 31 85
+opening_hours: Mo-Fr 10:00-19:15; Sa 09:30-19:30
+website: http://www.auzou-chocolat.fr/

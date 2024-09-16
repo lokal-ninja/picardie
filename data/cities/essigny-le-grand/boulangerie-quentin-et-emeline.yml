@@ -1,11 +1,11 @@
 id: 125517382
-type: way
+type: node
 latitude: 49.77657
 longitude: 3.27718
 postcode: "02690"
 city: Essigny-le-Grand
-street: "Rue de Flandre"
-housenumber: 8
+street: Rue de Flandre
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Su 06:00-20:00"
+opening_hours: Tu-Su 06:00-20:00
 website: ""

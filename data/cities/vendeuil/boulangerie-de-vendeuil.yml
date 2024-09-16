@@ -1,11 +1,11 @@
 id: 144156247
-type: way
+type: node
 latitude: 49.71503
 longitude: 3.35029
 postcode: "02800"
 city: Vendeuil
-street: "Rue Louis Pasteur"
-housenumber: 22
+street: Rue Louis Pasteur
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

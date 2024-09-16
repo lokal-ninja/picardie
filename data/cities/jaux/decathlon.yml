@@ -4,8 +4,8 @@ latitude: 49.40551
 longitude: 2.77927
 postcode: "60880"
 city: Jaux
-street: "Avenue Jean Moulin"
-housenumber: 102
-phone: "+33 3 44 90 75 00"
-opening_hours: "Mo-Sa 09:30-19:30; Su off"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-decathlon-compiegne-jaux-0070003300033"
+street: Avenue Jean Moulin
+housenumber: "102"
+phone: +33 3 44 90 75 00
+opening_hours: Mo-Sa 09:30-19:30; Su off
+website: https://www.decathlon.fr/store-view/magasin-de-sports-decathlon-compiegne-jaux-0070003300033

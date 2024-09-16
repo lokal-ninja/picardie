@@ -4,8 +4,8 @@ latitude: 50.0071
 longitude: 2.08861
 postcode: "80420"
 city: Flixecourt
-street: "Route Nationale"
-housenumber: 1
+street: Route Nationale
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://concessions.peugeot.fr/flixecourt"
+opening_hours: Mo-Fr 09:30-18:00
+website: https://concessions.peugeot.fr/flixecourt

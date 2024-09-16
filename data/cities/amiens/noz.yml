@@ -1,11 +1,11 @@
 id: 139888232
-type: way
+type: node
 latitude: 49.92479
 longitude: 2.3017
 postcode: "80000"
 city: Amiens
-street: "Rue le Tintoret"
-housenumber: 30
+street: Rue le Tintoret
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/amiens/"
+website: https://nozarrivages.com/magasin/amiens/

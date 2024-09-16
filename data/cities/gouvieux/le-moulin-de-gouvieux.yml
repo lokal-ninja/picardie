@@ -4,8 +4,9 @@ latitude: 49.18706
 longitude: 2.41521
 postcode: "60270"
 city: Gouvieux
-street: "Rue de la Mairie"
-housenumber: 33
-phone: "+33 3 44 57 28 40"
-opening_hours: "Mo-Tu 06:45-20:00; We off; Th-Sa 06:30-19:30; Fr-Sa 06:45-20:00; Su 06:00-19:00"
+street: Rue de la Mairie
+housenumber: "33"
+phone: +33 3 44 57 28 40
+opening_hours: Mo-Tu 06:45-20:00; We off; Th-Sa 06:30-19:30; Fr-Sa 06:45-20:00; Su
+    06:00-19:00
 website: ""

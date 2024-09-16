@@ -1,11 +1,11 @@
 id: 150453805
-type: way
+type: node
 latitude: 49.15408
 longitude: 2.25319
 postcode: "60230"
 city: Chambly
-street: "Rue Thomas Edison"
-housenumber: 
+street: Rue Thomas Edison
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://www.midas.fr/chambly_1455"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
+website: https://www.midas.fr/chambly_1455

@@ -4,8 +4,8 @@ latitude: 49.89252
 longitude: 2.29911
 postcode: "80000"
 city: Amiens
-street: "Rue des Trois Cailloux"
-housenumber: 16
-phone: "+33 3 22 91 59 53"
-opening_hours: "Mo 10:00-19:30; Tu-Sa 09:30-19:30"
-website: "https://www.pimkie.fr/magasin-pimkie-02205"
+street: Rue des Trois Cailloux
+housenumber: "16"
+phone: +33 3 22 91 59 53
+opening_hours: Mo 10:00-19:30; Tu-Sa 09:30-19:30
+website: https://www.pimkie.fr/magasin-pimkie-02205

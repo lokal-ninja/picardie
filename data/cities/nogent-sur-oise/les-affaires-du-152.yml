@@ -1,11 +1,11 @@
 id: 80808474
-type: way
+type: node
 latitude: 49.28638
 longitude: 2.4574
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Rue Jean Monnet"
-housenumber: 279
-phone: "+33 3 44 25 43 16"
-opening_hours: "Mo-Fr 12:30-19:00; Sa,Su off"
-website: "https://www.stokomani.fr/"
+street: Rue Jean Monnet
+housenumber: "279"
+phone: +33 3 44 25 43 16
+opening_hours: Mo-Fr 12:30-19:00; Sa,Su off
+website: https://www.stokomani.fr/

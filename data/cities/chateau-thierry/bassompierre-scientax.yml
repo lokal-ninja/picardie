@@ -1,11 +1,11 @@
 id: 159776054
-type: way
+type: node
 latitude: 49.03688
 longitude: 3.38969
 postcode: "02400"
 city: Château-Thierry
-street: "Rue de la Plaine"
-housenumber: 12
-phone: "+33 3 23 83 12 84"
+street: Rue de la Plaine
+housenumber: "12"
+phone: +33 3 23 83 12 84
 opening_hours: ""
-website: "https://www.scientax.com/"
+website: https://www.scientax.com/

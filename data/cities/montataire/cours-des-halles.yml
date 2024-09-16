@@ -4,8 +4,8 @@ latitude: 49.25651
 longitude: 2.43788
 postcode: "60160"
 city: Montataire
-street: "Rue Jean Jaurès"
-housenumber: 94
-phone: "+33 3 60 46 05 62"
-opening_hours: "Mo-Fr 10:00-00:00; Sa-Su 09:00-23:30"
+street: Rue Jean Jaurès
+housenumber: "94"
+phone: +33 3 60 46 05 62
+opening_hours: Mo-Fr 10:00-00:00; Sa-Su 09:00-23:30
 website: ""

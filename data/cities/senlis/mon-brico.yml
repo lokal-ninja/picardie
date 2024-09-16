@@ -1,11 +1,11 @@
 id: 142256092
-type: way
+type: node
 latitude: 49.22164
 longitude: 2.58978
 postcode: "60300"
 city: Senlis
-street: "Avenue du Poteau"
-housenumber: 
+street: Avenue du Poteau
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 09:00-12:00"
+opening_hours: Mo-Sa 09:00-19:00; Su 09:00-12:00
 website: ""

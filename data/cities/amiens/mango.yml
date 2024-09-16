@@ -4,8 +4,8 @@ latitude: 49.89285
 longitude: 2.29798
 postcode: "80000"
 city: Amiens
-street: "Rue des Trois Cailloux"
-housenumber: 6
-phone: "+33 3 22 33 40 43"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://shop.mango.com/fr"
+street: Rue des Trois Cailloux
+housenumber: "6"
+phone: +33 3 22 33 40 43
+opening_hours: Mo-Sa 10:00-19:00
+website: https://shop.mango.com/fr

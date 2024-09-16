@@ -1,11 +1,11 @@
 id: 584354030
-type: way
+type: node
 latitude: 49.24154
 longitude: 2.47067
 postcode: "60740"
 city: Saint-Maximin
-street: "Rue de la Liberté"
-housenumber: 250
-phone: "+33 3 44 67 20 35"
-opening_hours: "Mo-Th 07:30-12:15,13:15-18:00; Fr 07:30-12:15,13:15-17:00; Sa,Su off"
+street: Rue de la Liberté
+housenumber: "250"
+phone: +33 3 44 67 20 35
+opening_hours: Mo-Th 07:30-12:15,13:15-18:00; Fr 07:30-12:15,13:15-17:00; Sa,Su off
 website: ""

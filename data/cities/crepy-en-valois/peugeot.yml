@@ -1,11 +1,11 @@
 id: 92230738
-type: way
+type: node
 latitude: 49.23077
 longitude: 2.89681
 postcode: "60800"
 city: Crépy-en-Valois
-street: "Avenue Sadi Carnot"
-housenumber: 17
-phone: "+33 3 44 87 61 11"
-opening_hours: "Mo-Fr 09:00-12:00,13:30-18:00; Sa,Su off"
-website: "https://concessions.peugeot.fr/crepy-en-valois"
+street: Avenue Sadi Carnot
+housenumber: "17"
+phone: +33 3 44 87 61 11
+opening_hours: Mo-Fr 09:00-12:00,13:30-18:00; Sa,Su off
+website: https://concessions.peugeot.fr/crepy-en-valois

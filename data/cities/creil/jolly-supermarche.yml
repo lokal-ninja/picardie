@@ -4,8 +4,8 @@ latitude: 49.26108
 longitude: 2.46049
 postcode: "60100"
 city: Creil
-street: "Rue de Gournay"
-housenumber: 3
-phone: "+33 9 50 22 21 00"
-opening_hours: "Mo-Su 09:00-22:00"
+street: Rue de Gournay
+housenumber: "3"
+phone: +33 9 50 22 21 00
+opening_hours: Mo-Su 09:00-22:00
 website: ""

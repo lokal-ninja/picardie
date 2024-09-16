@@ -1,11 +1,11 @@
 id: 364534836
-type: way
+type: node
 latitude: 49.40879
 longitude: 2.7823
 postcode: "60280"
 city: Venette
-street: "Avenue de l'Europe"
-housenumber: 6
+street: Avenue de l'Europe
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://guildedesorfevres.fr/bijouterie/venette-1052M"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://guildedesorfevres.fr/bijouterie/venette-1052M

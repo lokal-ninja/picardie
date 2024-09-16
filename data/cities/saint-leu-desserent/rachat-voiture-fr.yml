@@ -1,11 +1,11 @@
 id: 255076577
-type: way
+type: node
 latitude: 49.23494
 longitude: 2.43576
 postcode: "60340"
 city: Saint-Leu-d'Esserent
-street: "Route de Creil"
-housenumber: 11
+street: Route de Creil
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

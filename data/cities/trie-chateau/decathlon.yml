@@ -1,11 +1,11 @@
 id: 271422271
-type: way
+type: node
 latitude: 49.28626
 longitude: 1.79904
 postcode: "60590"
 city: Trie-Château
-street: "Rue Nationale Les Mazurieux"
-housenumber: 
+street: Rue Nationale Les Mazurieux
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.decathlon.fr/fr/store?store_id"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.decathlon.fr/fr/store?store_id

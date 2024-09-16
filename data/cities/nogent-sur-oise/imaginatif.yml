@@ -4,8 +4,9 @@ latitude: 49.27892
 longitude: 2.47286
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Rue du Général de Gaulle"
-housenumber: 7
-phone: "+33 3 44 74 52 10"
-opening_hours: "Tu,Th 09:00-11:30,14:00-19:00; Fr 09:00-19:00; Sa 09:00-16:00; Mo,Su off"
-website: "https://www.planity.com/imaginatif-60180-nogent-sur-oise"
+street: Rue du Général de Gaulle
+housenumber: "7"
+phone: +33 3 44 74 52 10
+opening_hours: Tu,Th 09:00-11:30,14:00-19:00; Fr 09:00-19:00; Sa 09:00-16:00; Mo,Su
+    off
+website: https://www.planity.com/imaginatif-60180-nogent-sur-oise

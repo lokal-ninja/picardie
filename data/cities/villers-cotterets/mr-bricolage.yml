@@ -1,11 +1,11 @@
 id: 159441109
-type: way
+type: node
 latitude: 49.23848
 longitude: 3.10085
 postcode: ""
 city: Villers-Cotterêts
-street: "Rue de la Queue d'Oigny"
-housenumber: 
-phone: "+33 3 23 96 62 62"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00; Su 09:00-12:30"
+street: Rue de la Queue d'Oigny
+housenumber: ""
+phone: +33 3 23 96 62 62
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00; Su 09:00-12:30
 website: ""

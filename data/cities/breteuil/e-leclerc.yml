@@ -4,8 +4,8 @@ latitude: 49.64143
 longitude: 2.28024
 postcode: "60120"
 city: Breteuil
-street: "Rue d'Amiens"
-housenumber: 88
+street: Rue d'Amiens
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.e-leclerc.com/breteuil"
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.e-leclerc.com/breteuil

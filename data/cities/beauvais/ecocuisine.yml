@@ -4,8 +4,8 @@ latitude: 49.40934
 longitude: 2.1191
 postcode: "60000"
 city: Beauvais
-street: "Rue Théodore Monod"
-housenumber: 1
-phone: "+33 344072060"
-opening_hours: "Mo-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00"
-website: "https://www.ecocuisine.fr/magasins/25-ecocuisine-beauvais.html"
+street: Rue Théodore Monod
+housenumber: "1"
+phone: +33 344072060
+opening_hours: Mo-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00
+website: https://www.ecocuisine.fr/magasins/25-ecocuisine-beauvais.html

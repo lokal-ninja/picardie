@@ -4,8 +4,8 @@ latitude: 49.2053
 longitude: 2.58317
 postcode: "60300"
 city: Senlis
-street: "Place Henri IV"
-housenumber: 7
-phone: "+33 3 44 25 60 60"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30,14:00-16:00; Su off"
-website: "https://www.pompes-funebres-santilly.com/fr/nos-agences/senlis/"
+street: Place Henri IV
+housenumber: "7"
+phone: +33 3 44 25 60 60
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30,14:00-16:00; Su off
+website: https://www.pompes-funebres-santilly.com/fr/nos-agences/senlis/

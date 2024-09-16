@@ -4,8 +4,8 @@ latitude: 49.25314
 longitude: 2.45217
 postcode: "60160"
 city: Montataire
-street: "Rue de Finsterwalde"
-housenumber: 1
-phone: "+33 9 72 55 04 55"
-opening_hours: "Mo-Fr 08:00-12:30,14:00-18:30; Sa,Su off"
+street: Rue de Finsterwalde
+housenumber: "1"
+phone: +33 9 72 55 04 55
+opening_hours: Mo-Fr 08:00-12:30,14:00-18:30; Sa,Su off
 website: ""

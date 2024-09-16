@@ -1,11 +1,11 @@
 id: 248320848
-type: way
+type: node
 latitude: 49.3661
 longitude: 2.41821
 postcode: "60600"
 city: Breuil-le-Vert
-street: "Rue de Paris"
-housenumber: 112
-phone: "+33 3 44 78 29 62"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:30"
+street: Rue de Paris
+housenumber: "112"
+phone: +33 3 44 78 29 62
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:30
 website: ""

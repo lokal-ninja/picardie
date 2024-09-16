@@ -4,8 +4,8 @@ latitude: 49.19994
 longitude: 2.57967
 postcode: "60300"
 city: Senlis
-street: "Rue du Faubourg Saint-Martin"
-housenumber: 73
-phone: "+33 3 44 26 08 58"
-opening_hours: "Mo-Sa 09:30-12:30, 14:00-18:00"
-website: "https://www.action-energy.fr/"
+street: Rue du Faubourg Saint-Martin
+housenumber: "73"
+phone: +33 3 44 26 08 58
+opening_hours: Mo-Sa 09:30-12:30, 14:00-18:00
+website: https://www.action-energy.fr/

@@ -4,8 +4,8 @@ latitude: 49.22199
 longitude: 2.58955
 postcode: "60300"
 city: Senlis
-street: "Avenue du Poteau"
-housenumber: 2003
-phone: "+33 3 44 73 06 40"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-18:30; Sa 09:00-13:00"
-website: "https://www.theodoremaisondepeinture.fr/magasin/theodore-senlis"
+street: Avenue du Poteau
+housenumber: "2003"
+phone: +33 3 44 73 06 40
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-18:30; Sa 09:00-13:00
+website: https://www.theodoremaisondepeinture.fr/magasin/theodore-senlis

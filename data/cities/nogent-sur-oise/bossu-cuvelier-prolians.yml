@@ -1,11 +1,11 @@
 id: 80811621
-type: way
+type: node
 latitude: 49.27597
 longitude: 2.48956
 postcode: "60180"
 city: Nogent-sur-Oise
-street: "Rue du Clos Barrois"
-housenumber: 6
+street: Rue du Clos Barrois
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.26112
 longitude: 2.47419
 postcode: "60100"
 city: Creil
-street: "Rue de la République"
-housenumber: 6
-phone: "+33 3 44 26 15 80"
-opening_hours: "Mo 14:30-19:00; Tu-Sa 09:30-12:30,14:30-19:00; Su 09:30-12:30"
+street: Rue de la République
+housenumber: "6"
+phone: +33 3 44 26 15 80
+opening_hours: Mo 14:30-19:00; Tu-Sa 09:30-12:30,14:30-19:00; Su 09:30-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.89225
 longitude: 2.29991
 postcode: "80000"
 city: Amiens
-street: "Rue des Trois Cailloux"
-housenumber: 32
-phone: "+33 3 22 22 01 66"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.andre.fr/andre-amiens.html"
+street: Rue des Trois Cailloux
+housenumber: "32"
+phone: +33 3 22 22 01 66
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.andre.fr/andre-amiens.html

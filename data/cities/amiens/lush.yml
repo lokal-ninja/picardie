@@ -4,8 +4,8 @@ latitude: 49.89184
 longitude: 2.30175
 postcode: "80000"
 city: Amiens
-street: "Rue des Trois Cailloux"
-housenumber: 43
-phone: "+33 3 22 72 20 79"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.lush.com/fr/fr"
+street: Rue des Trois Cailloux
+housenumber: "43"
+phone: +33 3 22 72 20 79
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.lush.com/fr/fr

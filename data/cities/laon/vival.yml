@@ -4,8 +4,8 @@ latitude: 49.56435
 longitude: 3.61965
 postcode: "02000"
 city: Laon
-street: "Rue du Bourg"
-housenumber: 11
-phone: "+33 3 23 23 05 84"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://magasins.vival.fr/fr/s/vival-laon"
+street: Rue du Bourg
+housenumber: "11"
+phone: +33 3 23 23 05 84
+opening_hours: Mo-Su 08:00-22:00
+website: https://magasins.vival.fr/fr/s/vival-laon

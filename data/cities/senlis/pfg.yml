@@ -1,11 +1,11 @@
 id: 142257527
-type: way
+type: node
 latitude: 49.20737
 longitude: 2.57948
 postcode: "60300"
 city: Senlis
-street: "Avenue Félix Vernois"
-housenumber: 17
+street: Avenue Félix Vernois
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

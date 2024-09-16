@@ -4,8 +4,8 @@ latitude: 49.24041
 longitude: 2.46405
 postcode: "60740"
 city: Saint-Maximin
-street: "Rue Henry Bessemer"
-housenumber: 405
+street: Rue Henry Bessemer
+housenumber: "405"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30, 14:00-19:00"
-website: "https://www.boutique-poubeau.fr/fr/"
+opening_hours: Mo-Sa 09:00-12:30, 14:00-19:00
+website: https://www.boutique-poubeau.fr/fr/

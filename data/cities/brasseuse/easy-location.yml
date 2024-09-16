@@ -1,11 +1,11 @@
 id: 1090284471
-type: way
+type: node
 latitude: 49.2538
 longitude: 2.68127
 postcode: "60810"
 city: Brasseuse
-street: "Rue Lucien Frémont"
-housenumber: 19
-phone: "+33 3 44 57 57 68"
-opening_hours: "Mo-Th 07:30-12:00,13:30-18:00; Fr 07:30-12:00,13:30-17:30; Sa,Su off"
+street: Rue Lucien Frémont
+housenumber: "19"
+phone: +33 3 44 57 57 68
+opening_hours: Mo-Th 07:30-12:00,13:30-18:00; Fr 07:30-12:00,13:30-17:30; Sa,Su off
 website: ""

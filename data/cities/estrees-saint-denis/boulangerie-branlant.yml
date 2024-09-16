@@ -4,8 +4,8 @@ latitude: 49.42597
 longitude: 2.64313
 postcode: "60190"
 city: Estrées-Saint-Denis
-street: "Rue de la République"
-housenumber: 42
-phone: "+33 3 44 41 31 79"
-opening_hours: "Mo,We-Fr 06:30-13:30,15:00-19:30; Sa-Su 07:00-19:30; Tu off"
+street: Rue de la République
+housenumber: "42"
+phone: +33 3 44 41 31 79
+opening_hours: Mo,We-Fr 06:30-13:30,15:00-19:30; Sa-Su 07:00-19:30; Tu off
 website: ""

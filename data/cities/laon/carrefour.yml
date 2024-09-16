@@ -4,8 +4,8 @@ latitude: 49.57059
 longitude: 3.60745
 postcode: "02000"
 city: Laon
-street: "Rue Fernand Christ"
-housenumber: 16
-phone: "+33 3 23 23 36 15"
-opening_hours: "24/7"
-website: "https://www.carrefour.fr/"
+street: Rue Fernand Christ
+housenumber: "16"
+phone: +33 3 23 23 36 15
+opening_hours: 24/7
+website: https://www.carrefour.fr/

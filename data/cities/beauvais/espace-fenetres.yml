@@ -4,8 +4,8 @@ latitude: 49.40964
 longitude: 2.11831
 postcode: "60000"
 city: Beauvais
-street: "Rue Ferdinand de Lesseps"
-housenumber: 
+street: Rue Ferdinand de Lesseps
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00"
-website: "https://www.espace-fenetre.fr/"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00
+website: https://www.espace-fenetre.fr/

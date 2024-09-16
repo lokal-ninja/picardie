@@ -4,8 +4,8 @@ latitude: 49.63112
 longitude: 2.29356
 postcode: "60120"
 city: Breteuil
-street: "Rue François Monnet"
-housenumber: 11
-phone: "+33 766069050"
-opening_hours: "Tu-Th 10:00-12:00,14:00-20:00; Fr-Sa 10:00-20:00; Su 9:00-12:30"
-website: "https://www.jacheteoisepicarde.fr/cave-de-breteuil"
+street: Rue François Monnet
+housenumber: "11"
+phone: +33 766069050
+opening_hours: Tu-Th 10:00-12:00,14:00-20:00; Fr-Sa 10:00-20:00; Su 9:00-12:30
+website: https://www.jacheteoisepicarde.fr/cave-de-breteuil

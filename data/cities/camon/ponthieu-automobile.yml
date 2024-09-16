@@ -4,8 +4,8 @@ latitude: 49.90064
 longitude: 2.35378
 postcode: "80450"
 city: Camon
-street: "Rue Stéphane Hessel"
-housenumber: 277
-phone: "+33 3 22 45 75 78"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://eudiff.fr/"
+street: Rue Stéphane Hessel
+housenumber: "277"
+phone: +33 3 22 45 75 78
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://eudiff.fr/

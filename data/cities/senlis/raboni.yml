@@ -1,11 +1,11 @@
 id: 142257576
-type: way
+type: node
 latitude: 49.20568
 longitude: 2.59395
 postcode: "60300"
 city: Senlis
-street: "Avenue Georges Clemenceau"
-housenumber: 42
-phone: "+33 3 44 63 81 00"
-opening_hours: "Mo-Fr 07:00-17:00; Sa,Su off"
-website: "https://raboni.fr/"
+street: Avenue Georges Clemenceau
+housenumber: "42"
+phone: +33 3 44 63 81 00
+opening_hours: Mo-Fr 07:00-17:00; Sa,Su off
+website: https://raboni.fr/

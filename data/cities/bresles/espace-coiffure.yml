@@ -1,11 +1,11 @@
 id: 622746451
-type: way
+type: node
 latitude: 49.40899
 longitude: 2.25105
 postcode: "60510"
 city: Bresles
-street: "Place du 11 Novembre"
-housenumber: 2
-phone: "+33 3 44 07 82 05"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-17:00; Mo,Su off"
+street: Place du 11 Novembre
+housenumber: "2"
+phone: +33 3 44 07 82 05
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-17:00; Mo,Su off
 website: ""

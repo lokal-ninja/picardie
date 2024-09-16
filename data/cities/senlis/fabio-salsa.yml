@@ -1,11 +1,11 @@
 id: 142257643
-type: way
+type: node
 latitude: 49.20503
 longitude: 2.58449
 postcode: "60300"
 city: Senlis
-street: "Rue de l'Apport au Pain"
-housenumber: 20
-phone: "+33 3 44 58 05 47"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 09:00-19:00; Mo,Su off"
+street: Rue de l'Apport au Pain
+housenumber: "20"
+phone: +33 3 44 58 05 47
+opening_hours: Tu-Fr 09:30-19:00; Sa 09:00-19:00; Mo,Su off
 website: ""

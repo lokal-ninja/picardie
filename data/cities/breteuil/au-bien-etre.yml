@@ -4,8 +4,8 @@ latitude: 49.63169
 longitude: 2.29475
 postcode: "60120"
 city: Breteuil
-street: "Rue Fontaine"
-housenumber: 2
-phone: "+33 344521579"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.facebook.com/AuBienEtreBreteuil"
+street: Rue Fontaine
+housenumber: "2"
+phone: +33 344521579
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.facebook.com/AuBienEtreBreteuil

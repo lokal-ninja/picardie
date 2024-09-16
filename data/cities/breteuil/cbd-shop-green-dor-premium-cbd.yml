@@ -4,8 +4,8 @@ latitude: 49.63134
 longitude: 2.29388
 postcode: "60120"
 city: Breteuil
-street: "Rue François Monnet"
-housenumber: 1
+street: Rue François Monnet
+housenumber: "1"
 phone: "0962526766"
-opening_hours: "Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
-website: "https://www.jacheteoisepicarde.fr/greendor"
+opening_hours: Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
+website: https://www.jacheteoisepicarde.fr/greendor

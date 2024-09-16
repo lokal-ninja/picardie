@@ -4,8 +4,8 @@ latitude: 49.38925
 longitude: 2.78788
 postcode: "60200"
 city: Compiègne
-street: "Avenue Henri Adnot"
-housenumber: 1
-phone: "+33 3 44 36 40 00"
-opening_hours: "Mo-Sa 08:00-12:30; 14:00-19:00"
-website: "https://www.saintmerri.fr/"
+street: Avenue Henri Adnot
+housenumber: "1"
+phone: +33 3 44 36 40 00
+opening_hours: Mo-Sa 08:00-12:30; 14:00-19:00
+website: https://www.saintmerri.fr/

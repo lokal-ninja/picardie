@@ -1,11 +1,11 @@
 id: 191073255
-type: way
+type: node
 latitude: 49.39832
 longitude: 3.35402
 postcode: "02880"
 city: Crouy
-street: "Rue du Stade"
-housenumber: 11
+street: Rue du Stade
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

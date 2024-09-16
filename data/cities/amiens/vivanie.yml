@@ -4,8 +4,8 @@ latitude: 49.89487
 longitude: 2.29943
 postcode: "80000"
 city: Amiens
-street: "Rue Henri IV"
-housenumber: 2
+street: Rue Henri IV
+housenumber: "2"
 phone: "+33986502959"
-opening_hours: "Mo-We,Fr-Sa 11:00-14:00,15:00-19:00; Th,Su off"
-website: "https://www.vivanie.fr/"
+opening_hours: Mo-We,Fr-Sa 11:00-14:00,15:00-19:00; Th,Su off
+website: https://www.vivanie.fr/

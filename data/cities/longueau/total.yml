@@ -4,8 +4,8 @@ latitude: 49.86872
 longitude: 2.36152
 postcode: "80330"
 city: Longueau
-street: "Avenue de la Ville Idéale"
-housenumber: 
+street: Avenue de la Ville Idéale
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa-Su 08:00-20:00"
-website: "https://services.totalenergies.fr/"
+opening_hours: Mo-Fr 07:00-21:00; Sa-Su 08:00-20:00
+website: https://services.totalenergies.fr/

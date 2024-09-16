@@ -4,8 +4,8 @@ latitude: 49.65662
 longitude: 2.26903
 postcode: "60120"
 city: Esquennoy
-street: "Grande Rue"
-housenumber: 12
-phone: "+33 344070604"
-opening_hours: "Mo-Fr 10:30-19:30; Sa 08:30-19:30"
+street: Grande Rue
+housenumber: "12"
+phone: +33 344070604
+opening_hours: Mo-Fr 10:30-19:30; Sa 08:30-19:30
 website: ""

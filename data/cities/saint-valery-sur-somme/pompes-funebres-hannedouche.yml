@@ -1,11 +1,11 @@
 id: 291694068
-type: way
+type: node
 latitude: 50.17439
 longitude: 1.62887
 postcode: "80230"
 city: Saint-Valery-sur-Somme
-street: "Allée des Salicornes"
-housenumber: 495
-phone: "+33 3 22 60 81 90"
+street: Allée des Salicornes
+housenumber: "495"
+phone: +33 3 22 60 81 90
 opening_hours: ""
-website: "https://www.pfhannedouche.fr"
+website: https://www.pfhannedouche.fr

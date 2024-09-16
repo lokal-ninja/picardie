@@ -4,8 +4,8 @@ latitude: 49.31942
 longitude: 2.52674
 postcode: "60940"
 city: Cinqueux
-street: "Rue de l'Image"
-housenumber: 2
-phone: "+33 3 44 72 81 05"
-opening_hours: "Mo-Sa 06:30-13:00,15:30-19:30; Su 06:30-13:00"
+street: Rue de l'Image
+housenumber: "2"
+phone: +33 3 44 72 81 05
+opening_hours: Mo-Sa 06:30-13:00,15:30-19:30; Su 06:30-13:00
 website: ""

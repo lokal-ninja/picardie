@@ -1,11 +1,11 @@
 id: 263657325
-type: way
+type: node
 latitude: 49.82889
 longitude: 2.22839
 postcode: "80480"
 city: Bacouel-sur-Selle
 street: ""
-housenumber: 4
-phone: "+33 3 22 53 01 18"
-opening_hours: "Mo-Fr 08:00-18:00"
+housenumber: "4"
+phone: +33 3 22 53 01 18
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

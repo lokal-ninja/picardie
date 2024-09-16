@@ -4,8 +4,8 @@ latitude: 49.94665
 longitude: 3.41409
 postcode: "02230"
 city: Fresnoy-le-Grand
-street: "Place du Général de Gaulle"
-housenumber: 6
-phone: "+33 3 23 66 00 14"
-opening_hours: "08:30-12:00, 15:00-18:00"
+street: Place du Général de Gaulle
+housenumber: "6"
+phone: +33 3 23 66 00 14
+opening_hours: 08:30-12:00, 15:00-18:00
 website: ""

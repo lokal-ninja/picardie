@@ -4,8 +4,8 @@ latitude: 49.42651
 longitude: 2.63885
 postcode: "60190"
 city: Estrées-Saint-Denis
-street: "Rue de l'Hôtel de Ville"
-housenumber: 4
-phone: "+33 3 44 41 03 73"
-opening_hours: "Tu-We 09:00-12:00,14:00-18:00; Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-17:30"
+street: Rue de l'Hôtel de Ville
+housenumber: "4"
+phone: +33 3 44 41 03 73
+opening_hours: Tu-We 09:00-12:00,14:00-18:00; Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-17:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.21291
 longitude: 2.60019
 postcode: "60300"
 city: Senlis
-street: "Rue du Clos Notre-Dame-du-Bon-Secours"
-housenumber: 8
-phone: "+33 3 44 53 00 07"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 09:00-12:00"
+street: Rue du Clos Notre-Dame-du-Bon-Secours
+housenumber: "8"
+phone: +33 3 44 53 00 07
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 09:00-12:00
 website: ""

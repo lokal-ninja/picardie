@@ -4,8 +4,9 @@ latitude: 49.92014
 longitude: 3.23783
 postcode: "02420"
 city: Bellenglise
-street: "Rue du Château"
-housenumber: 33
-phone: "+33 686330772"
-opening_hours: "Mo 09:00-12:00,14:00-18:00, Tu 09:00-12:00,14:00-18:00, We 09:00-12:00,14:00-18:00, Th 09:00-12:00,14:00-18:00, Fr 09:00-12:00,14:00-18:00, Sa 09:00-12:00"
+street: Rue du Château
+housenumber: "33"
+phone: +33 686330772
+opening_hours: Mo 09:00-12:00,14:00-18:00, Tu 09:00-12:00,14:00-18:00, We 09:00-12:00,14:00-18:00,
+    Th 09:00-12:00,14:00-18:00, Fr 09:00-12:00,14:00-18:00, Sa 09:00-12:00
 website: ""

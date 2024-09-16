@@ -4,8 +4,8 @@ latitude: 49.8704
 longitude: 2.37056
 postcode: "80330"
 city: Longueau
-street: "Rue Claude Chappé"
-housenumber: 8
-phone: "+33 3 22 45 18 51"
-opening_hours: "Mo-Sa 10:00-12:30,14:00-19:00"
-website: "https://ok-la.fr/"
+street: Rue Claude Chappé
+housenumber: "8"
+phone: +33 3 22 45 18 51
+opening_hours: Mo-Sa 10:00-12:30,14:00-19:00
+website: https://ok-la.fr/

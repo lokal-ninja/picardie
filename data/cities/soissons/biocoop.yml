@@ -4,8 +4,8 @@ latitude: 49.36793
 longitude: 3.31676
 postcode: "02200"
 city: Soissons
-street: "Rue Marcel Paul"
-housenumber: 
+street: Rue Marcel Paul
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Th 09:00-12:30, 14:00-19:00; Fr-Sa 09:00-19:00"
-website: "https://www.aupaniernaturel.fr"
+opening_hours: Mo 14:00-19:00; Tu-Th 09:00-12:30, 14:00-19:00; Fr-Sa 09:00-19:00
+website: https://www.aupaniernaturel.fr

@@ -4,8 +4,8 @@ latitude: 49.04285
 longitude: 3.4038
 postcode: "02400"
 city: Château-Thierry
-street: "Rue Carnot"
-housenumber: 22
-phone: "+33 3 23 69 79 78"
-opening_hours: "Mo, Tu, Th-Sa 06:30-19:30; Su 06:30-13:00"
+street: Rue Carnot
+housenumber: "22"
+phone: +33 3 23 69 79 78
+opening_hours: Mo, Tu, Th-Sa 06:30-19:30; Su 06:30-13:00
 website: ""

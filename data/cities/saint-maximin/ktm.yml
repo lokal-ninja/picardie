@@ -1,11 +1,11 @@
 id: 360569789
-type: way
+type: node
 latitude: 49.24202
 longitude: 2.4706
 postcode: "60740"
 city: Saint-Maximin
-street: "Rue Louis Saint-Just"
-housenumber: 12
-phone: "+33 3 75 00 75 15"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:30,13:30-18:00; Mo,Su off"
+street: Rue Louis Saint-Just
+housenumber: "12"
+phone: +33 3 75 00 75 15
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:30,13:30-18:00; Mo,Su off
 website: ""

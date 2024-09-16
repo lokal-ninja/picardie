@@ -1,11 +1,11 @@
 id: 159777908
-type: way
+type: node
 latitude: 49.03434
 longitude: 3.38988
 postcode: "02400"
 city: Château-Thierry
-street: "Avenue Gustave Eiffel"
-housenumber: 1
-phone: "+33 3 23 82 98 97"
+street: Avenue Gustave Eiffel
+housenumber: "1"
+phone: +33 3 23 82 98 97
 opening_hours: ""
-website: "https://www.lafontaineabiere.fr/"
+website: https://www.lafontaineabiere.fr/

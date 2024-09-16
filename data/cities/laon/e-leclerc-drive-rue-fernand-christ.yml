@@ -1,11 +1,11 @@
 id: 146684539
-type: way
+type: node
 latitude: 49.57104
 longitude: 3.60667
 postcode: "02000"
 city: Laon
-street: "Rue Fernand Christ"
-housenumber: 20
-phone: "+33 3 23 89 04 57"
-opening_hours: "Mo-Sa 08:30-20:00"
+street: Rue Fernand Christ
+housenumber: "20"
+phone: +33 3 23 89 04 57
+opening_hours: Mo-Sa 08:30-20:00
 website: ""
