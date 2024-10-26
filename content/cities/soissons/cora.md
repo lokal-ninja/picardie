@@ -1,5 +1,5 @@
 ---
 title: "Cora"
 url: /soissons/cora/
-shop: supermarché
+shop: gaz
 ---
