@@ -7,6 +7,6 @@ city: Saint-Maximin
 street: Rue Claire Lacombe
 housenumber: "551"
 phone: ""
-opening_hours: opening_hours=Tu-Th 10:00-12:30,14:00-18:30; Fr-Sa 10:00-12:30,14:00-18:30;
-    Su,Mo off
+opening_hours: Tu-Th 10:00-12:30,14:00-18:30; Fr-Sa 10:00-12:30,14:00-18:30; Su,Mo
+    off
 website: https://www.nuancesdefeu.fr/
