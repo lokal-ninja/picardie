@@ -1,5 +1,5 @@
 ---
 title: "Max'Auto"
-url: /liancourt/maxauto/
+url: /rantigny/maxauto/
 shop: réparation de voitures
 ---
