@@ -1,5 +1,5 @@
 ---
-title: "Coccimarket"
+title: "CocciMarket"
 url: /betz/coccimarket/
-shop: supermarché
+shop: commodité
 ---

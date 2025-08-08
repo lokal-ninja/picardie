@@ -1,5 +1,5 @@
 ---
 title: "Van Marcke Technics"
 url: /rivery/van-marcke-technics/
-shop: shop
+shop: salle de bains
 ---

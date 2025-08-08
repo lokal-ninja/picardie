@@ -1,6 +1,6 @@
 ---
-title: Viry Noureuil
+title: Viry-Noureuil
 url: /viry-noureuil/
-latitude: 49.64
-longitude: 3.252
+latitude: 49.643
+longitude: 3.263
 ---

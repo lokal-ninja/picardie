@@ -1,5 +1,5 @@
 ---
-title: "Skoda"
+title: "Škoda"
 url: /jaux/skoda/
 shop: voiture
 ---
