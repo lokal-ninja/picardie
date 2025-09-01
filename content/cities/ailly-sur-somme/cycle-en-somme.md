@@ -1,5 +1,5 @@
 ---
 title: "Cycle en Somme"
-url: /argoeuves/cycle-en-somme/
+url: /ailly-sur-somme/cycle-en-somme/
 shop: vélo
 ---

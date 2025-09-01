@@ -7,5 +7,6 @@ city: Saint-Maximin
 street: Rue Louis Saint-Just
 housenumber: "542"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Mo off; Tu,Th,Fr 10:00-12:30,15:00-19:00; We 14:00-18:00; Sa 11:00-18:00;
+    Su off
+website: https://hardbodynutrition.fr/
