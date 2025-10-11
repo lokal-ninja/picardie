@@ -1,6 +1,6 @@
 ---
-title: Lamorlaye
+title: LAMORLAYE
 url: /lamorlaye/
-latitude: 49.155
-longitude: 2.44
+latitude: 49.15
+longitude: 2.442
 ---
