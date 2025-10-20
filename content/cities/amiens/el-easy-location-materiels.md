@@ -1,5 +1,5 @@
 ---
-title: "El easy location matériels"
+title: "El Easy Location Matériels"
 url: /amiens/el-easy-location-materiels/
 shop: outils
 ---

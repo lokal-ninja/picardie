@@ -1,5 +1,5 @@
 ---
-title: "Cuisine et références"
+title: "Cuisine et Références"
 url: /saint-maximin/cuisine-et-references/
 shop: cuisine
 ---
