@@ -1,6 +1,6 @@
 ---
 title: Vervins
 url: /vervins/
-latitude: 49.835
-longitude: 3.909
+latitude: 49.834
+longitude: 3.907
 ---
