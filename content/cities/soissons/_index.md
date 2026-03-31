@@ -1,6 +1,6 @@
 ---
 title: Soissons
 url: /soissons/
-latitude: 49.368
-longitude: 3.317
+latitude: 49.367
+longitude: 3.316
 ---
