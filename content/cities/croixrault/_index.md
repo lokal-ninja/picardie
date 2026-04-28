@@ -1,6 +1,6 @@
 ---
 title: Croixrault
 url: /croixrault/
-latitude: 49.792
-longitude: 1.99
+latitude: 49.791
+longitude: 1.992
 ---
