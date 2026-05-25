@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
-url: /soissons/carrefour-2/
+url: /airaines/carrefour/
 shop: gaz
 ---

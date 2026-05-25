@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /sainnt-quentin/aldi/
+url: /saint-quentin/aldi/
 shop: supermarché
 ---
