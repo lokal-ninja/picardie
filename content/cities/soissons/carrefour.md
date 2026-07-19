@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /soissons/carrefour/
-shop: supermarché
+shop: gaz
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chauny
 url: /chauny/
-latitude: 49.608
-longitude: 3.222
+latitude: 49.615
+longitude: 3.214
 ---
