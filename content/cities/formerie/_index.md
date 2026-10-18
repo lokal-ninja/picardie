@@ -1,6 +1,6 @@
 ---
 title: Formerie
 url: /formerie/
-latitude: 49.652
-longitude: 1.728
+latitude: 49.65
+longitude: 1.72
 ---
